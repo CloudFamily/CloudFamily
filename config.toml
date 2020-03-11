@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir= true
 publishDir = "docs"
 
 [params]
-  editURL = "https://github.com/CloudFamily/Website/tree/master/content/"
+  editURL = "https://github.com/CloudFamily/CloudFamily/tree/master/content/"
   description = "Cloud Family"
   author = "Pixel Robots"
   showVisitedLinks = false

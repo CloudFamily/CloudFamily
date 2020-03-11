@@ -326,7 +326,7 @@ A tip disclaimer
 For instance, in this current site, the editURL variable is used in config.toml
 [params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.
 `editURL` Value : {{% siteparam &amp;quot;editURL&amp;quot; %}} is displayed as
-editURL Value : https://github.com/CloudFamily/Website/tree/master/content/</description>
+editURL Value : https://github.com/CloudFamily/CloudFamily/tree/master/content/</description>
     </item>
     
   </channel>

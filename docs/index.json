@@ -354,5 +354,5 @@
 	"title": "Site param",
 	"tags": [],
 	"description": "Get value of site params variables in your page.",
-	"content": "siteparam shortcode is used to help you print values of site params.\nFor instance, in this current site, the editURL variable is used in config.toml\n[params] editURL = \u0026#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/\u0026#34; Use the siteparam shortcode to display its value.\n`editURL` Value : {{% siteparam \u0026quot;editURL\u0026quot; %}} is displayed as\neditURL Value : https://github.com/CloudFamily/Website/tree/master/content/\n"
+	"content": "siteparam shortcode is used to help you print values of site params.\nFor instance, in this current site, the editURL variable is used in config.toml\n[params] editURL = \u0026#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/\u0026#34; Use the siteparam shortcode to display its value.\n`editURL` Value : {{% siteparam \u0026quot;editURL\u0026quot; %}} is displayed as\neditURL Value : https://github.com/CloudFamily/CloudFamily/tree/master/content/\n"
 }]
