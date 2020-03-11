@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cloud Family</title>
-    <link>https://cloudfamily.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate>
     
-	<atom:link href="https://cloudfamily.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>documentation</title>
-      <link>https://cloudfamily.github.io/tags/documentation/</link>
+      <link>/tags/documentation/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
       
-      <guid>https://cloudfamily.github.io/tags/documentation/</guid>
+      <guid>/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://cloudfamily.github.io/tags/tutorial/</link>
+      <link>/tags/tutorial/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
       
-      <guid>https://cloudfamily.github.io/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     

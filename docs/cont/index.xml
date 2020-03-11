@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contribution guide on Cloud Family</title>
-    <link>https://cloudfamily.github.io/cont/</link>
+    <link>/cont/</link>
     <description>Recent content in Contribution guide on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate>
     
-	<atom:link href="https://cloudfamily.github.io/cont/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/cont/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Archetypes</title>
-      <link>https://cloudfamily.github.io/cont/archetypes/</link>
+      <link>/cont/archetypes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudfamily.github.io/cont/archetypes/</guid>
+      <guid>/cont/archetypes/</guid>
       <description>Using the command: hugo new [relative new content path], you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more : archetypes.
 It is pre-configured skeleton pages with default front matter. Please refer to the documentation for types of page to understand the differences.
 Chapter To create a Chapter page, run the following commands
@@ -25,10 +25,10 @@ hugo new --kind chapter &amp;lt;name&amp;gt;/_index.</description>
     
     <item>
       <title>Markdown syntax</title>
-      <link>https://cloudfamily.github.io/cont/markdown/</link>
+      <link>/cont/markdown/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>https://cloudfamily.github.io/cont/markdown/</guid>
+      <guid>/cont/markdown/</guid>
       <description>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&amp;hellip;)
 Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</description>
@@ -36,10 +36,10 @@ Markdown is a better way to write HTML, without all the complexities and uglines
     
     <item>
       <title>Menu extra shortcuts</title>
-      <link>https://cloudfamily.github.io/cont/menushortcuts/</link>
+      <link>/cont/menushortcuts/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>https://cloudfamily.github.io/cont/menushortcuts/</guid>
+      <guid>/cont/menushortcuts/</guid>
       <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.
 Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.
 Example from the current website:
@@ -48,10 +48,10 @@ Example from the current website:
     
     <item>
       <title>Icons and logos</title>
-      <link>https://cloudfamily.github.io/cont/icons/</link>
+      <link>/cont/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudfamily.github.io/cont/icons/</guid>
+      <guid>/cont/icons/</guid>
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
@@ -59,10 +59,10 @@ Once on the Font Awesome page for a specific icon, for example the page for the 
     
     <item>
       <title>Tags</title>
-      <link>https://cloudfamily.github.io/cont/tags/</link>
+      <link>/cont/tags/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
       
-      <guid>https://cloudfamily.github.io/cont/tags/</guid>
+      <guid>/cont/tags/</guid>
       <description>Learn theme support one default taxonomy of gohugo: the tag feature.
 Configuration Just add tags to any page:
 ---date: 2018-11-29T08:41:44+01:00title: Theme tutorialweight: 15tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] ---Behavior The tags are displayed at the top of the page, in their insertion order.

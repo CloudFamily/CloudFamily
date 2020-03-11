@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Guides on Cloud Family</title>
-    <link>https://cloudfamily.github.io/study_guides/</link>
+    <link>/study_guides/</link>
     <description>Recent content in Study Guides on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
     
-	<atom:link href="https://cloudfamily.github.io/study_guides/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/study_guides/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AZ-104 - Azure Administrator</title>
-      <link>https://cloudfamily.github.io/study_guides/azure/az-104/</link>
+      <link>/study_guides/azure/az-104/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>https://cloudfamily.github.io/study_guides/azure/az-104/</guid>
+      <guid>/study_guides/azure/az-104/</guid>
       <description>AZ-104  Last updated: 06/03/2020
  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
  Skyline Academy:
@@ -29,10 +29,10 @@ https://www.udemy.com/course/70533-azure/
     
     <item>
       <title>AZ-303 - Azure Architect Technologies</title>
-      <link>https://cloudfamily.github.io/study_guides/azure/az-303/</link>
+      <link>/study_guides/azure/az-303/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>https://cloudfamily.github.io/study_guides/azure/az-303/</guid>
+      <guid>/study_guides/azure/az-303/</guid>
       <description>AZ-303  Last updated: 11/03/2020
  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
  Skyline Academy:
@@ -46,10 +46,10 @@ Need links!
     
     <item>
       <title>AZ-304 - Azure Architect Design</title>
-      <link>https://cloudfamily.github.io/study_guides/azure/az-304/</link>
+      <link>/study_guides/azure/az-304/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>https://cloudfamily.github.io/study_guides/azure/az-304/</guid>
+      <guid>/study_guides/azure/az-304/</guid>
       <description>AZ-304  Last updated: 11/03/2020
  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
  Skyline Academy:
