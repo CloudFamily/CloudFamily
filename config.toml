@@ -1,0 +1,52 @@
+baseURL = "https://cloudfamily.github.io/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Cloud Family"
+theme = "hugo-theme-learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+publishDir = "docs"
+
+[params]
+  editURL = "https://github.com/CloudFamily/Website/tree/master/content/"
+  description = "Cloud Family"
+  author = "Pixel Robots"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = true
+  themeVariant = "blue"
+  disableLanguageSwitchingButton = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Cloud Family"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/CloudFamily"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 12
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='far fa-window-maximize'></i> Blogs"
+url = "blogs"
+weight = 11
+
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+# url = "/credits"
+# weight = 30
+
+
