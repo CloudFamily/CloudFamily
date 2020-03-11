@@ -4,6 +4,3 @@ title: Community Champion - March 2020
 menuTitle: March 2020
 weight: 1
 ---
-
-
-This is gregor testing
