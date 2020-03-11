@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Useful Links on Cloud Family</title>
-    <link>/useful_links/</link>
+    <link>https://cloudfamily.github.io/CloudFamily/useful_links/</link>
     <description>Recent content in Useful Links on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/useful_links/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cloudfamily.github.io/CloudFamily/useful_links/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
