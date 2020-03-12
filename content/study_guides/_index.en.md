@@ -4,7 +4,7 @@ weight: 5
 chapter: true
 ---
 
-# Study Guides
+# **Study Guides**
 
 ### Basics
 

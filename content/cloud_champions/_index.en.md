@@ -4,7 +4,7 @@ weight: 5
 chapter: true
 ---
 
-# Cloud Champions
+# **Cloud Champions**
 
 {{% notice note %}}
 Each month we dedicate this area to highlighting **community members**. We think this person deserves to have their work recognised and each month we will choose a different community member to highlight.

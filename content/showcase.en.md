@@ -1,5 +1,5 @@
 ---
-title: Project Showcase
+title: Learning Showcase
 disableToc: true
 ---
 

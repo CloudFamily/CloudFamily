@@ -2,10 +2,12 @@
 title: "Cloud Family"
 ---
 
-# Cloud Family
 
-Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, were
-here to help grow the **Azure Community**.
+![Cloud Family Logo](/images/CloudFamilyLogo.png)
+
+#### Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, were here to help grow the **Azure Community**.
+
+
 
 ### Our Goal
 

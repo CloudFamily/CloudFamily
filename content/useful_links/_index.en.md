@@ -4,7 +4,7 @@ weight: 5
 chapter: true
 ---
 
-# Useful Links
+# **Useful Links**
 
 {{% notice note %}}
 The following are a list of **useful resources** we have came across, which will help you on your cloud journey. 

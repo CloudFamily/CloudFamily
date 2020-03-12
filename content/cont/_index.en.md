@@ -4,7 +4,7 @@ weight: 10
 chapter: true
 ---
 
-### Contribution guide
+### **Contribution guide**
 
 # Content
 
