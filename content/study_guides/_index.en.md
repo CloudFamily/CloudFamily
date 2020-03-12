@@ -6,6 +6,10 @@ chapter: true
 
 # **Study Guides**
 
-### Basics
+{{% notice note %}}
+Here you will find a collection of Study guides for the new Azure exams.
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+Fell free to create a pull request and add resources.
+{{% /notice %}}
+
+# **Good luck on your Exams!** 
