@@ -60,14 +60,14 @@
 	"title": "Projects",
 	"tags": [],
 	"description": "",
-	"content": "Projects This area is dedicated for community member to list their projects they have created.\n\rBen Coleman - @BenCodeGeek -  Arm Template Viewer  Mithun Shanbhag - @MithunShanbhag - Draw cloud architecture diagrams for free!  Sam Cogan - @samcogan - VS Code Azure Resource Manager Snippets "
+	"content": "Projects This area is dedicated for community member to list their projects they have created.\n\r Ben Coleman - @BenCodeGeek -  Arm Template Viewer  Mithun Shanbhag - @MithunShanbhag - Draw cloud architecture diagrams for free!  Sam Cogan - @samcogan - VS Code Azure Resource Manager Snippets  Azure Charts -  Azure Charts "
 },
 {
 	"uri": "https://cloudfamily.info/useful_links/",
 	"title": "Useful Links",
 	"tags": [],
 	"description": "",
-	"content": "Useful Links The following are a list of useful resources we have came across, which will help you on your cloud journey. Please help the community by adding your contributions.\n\r Azure Documentation - (https://docs.microsoft.com/en-us/azure/) Microsoft Learn - (https://docs.microsoft.com/en-us/learn/) Training (Paid for)  SkyLines Academy - SkyLines Academy Pluralsight - Pluralsight Udemy - Udemy   Microsoft Cloud Adoption Framework - Microsoft Cloud Adoption Framework  "
+	"content": "Useful Links The following are a list of useful resources we have came across, which will help you on your cloud journey. Please help the community by adding your contributions.\n\r Azure Documentation - (https://docs.microsoft.com/en-us/azure/) Microsoft Learn - (https://docs.microsoft.com/en-us/learn/) Training (Paid for)  SkyLines Academy - SkyLines Academy Pluralsight - Pluralsight Udemy - Udemy   Microsoft Cloud Adoption Framework - Microsoft Cloud Adoption Framework Azure Weekly Azure Weekly  "
 },
 {
 	"uri": "https://cloudfamily.info/cloud_champions/august2020/",
@@ -109,7 +109,7 @@
 	"title": "Azure Blogs",
 	"tags": [],
 	"description": "",
-	"content": "Pixel Robots A Blog about Microsoft Azure and Sysadmin stuff\u0026hellip;  Gregor Suttie  Thomas Thornton Blogging all things Microsoft Azure  Joe Carlyle  "
+	"content": "Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff\u0026hellip;  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes "
 },
 {
 	"uri": "https://cloudfamily.info/cont/",
