@@ -8,14 +8,14 @@ chapter: true
 
 
 {{% notice note %}}
-The following are a list of useful resources we have came across, which will help you on your cloud journey.
+The following are a list of **useful resources** we have came across, which will help you on your cloud journey. 
+**Please help the community by adding your contributions.**
 {{% /notice %}}
 
-+ Azure Documentation - (https://docs.microsoft.com/en-us/azure/)
-+ Microsoft Learn - (https://docs.microsoft.com/en-us/learn/)
-+ 
-+ Training (Paid for)
-	- SkyLines Academy - [SkyLines Academy](https://www.skylinesacademy.com/)
-	- Pluralsight - [Pluralsight](https://www.pluralsight.com/)
-	- Udemy - [Udemy](https://www.Udemy.com/)
-+ Microsoft Cloud Adoption Framework - [Microsoft Cloud Adoption Framework](https://aka.ms/caf)
++ **Azure Documentation** - (https://docs.microsoft.com/en-us/azure/)
++ **Microsoft Learn** - (https://docs.microsoft.com/en-us/learn/)
++ **Training (Paid for)**
+	- **SkyLines Academy** - [SkyLines Academy](https://www.skylinesacademy.com/)
+	- **Pluralsight** - [Pluralsight](https://www.pluralsight.com/)
+	- **Udemy** - [Udemy](https://www.Udemy.com/)
++ **Microsoft Cloud Adoption Framework** - [Microsoft Cloud Adoption Framework](https://aka.ms/caf)
