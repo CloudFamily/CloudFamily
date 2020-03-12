@@ -10,7 +10,7 @@ chapter: true
 
 ---
 
-#### [Grgor Suttie](https://gregorsuttie.com/)
+#### [Gregor Suttie](https://gregorsuttie.com/)
 ![Gregor Suttie](/images/blogs/gregorsuttie.PNG?width=50pc)
 
 ---

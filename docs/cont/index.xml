@@ -30,7 +30,7 @@ hugo new --kind chapter &amp;lt;name&amp;gt;/_index.</description>
       
       <guid>https://cloudfamily.info/cont/markdown/</guid>
       <description>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&amp;hellip;)
- Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</description>
     </item>
     
@@ -43,7 +43,7 @@ Markdown is a better way to write HTML, without all the complexities and uglines
       <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.
 Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.
 Example from the current website:
-[[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10 [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fas fa-camera&#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;quot; url = &amp;quot;/showcase&amp;quot; weight = 11 [[menu.</description>
+[[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot;identifier = &amp;quot;ds&amp;quot;url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot;weight = 10[[menu.shortcuts]]name = &amp;quot;&amp;lt;i class=&#39;fas fa-camera&#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;quot;url = &amp;quot;/showcase&amp;quot;weight = 11[[menu.</description>
     </item>
     
     <item>
@@ -65,7 +65,7 @@ Once on the Font Awesome page for a specific icon, for example the page for the 
       <guid>https://cloudfamily.info/cont/tags/</guid>
       <description>Learn theme support one default taxonomy of gohugo: the tag feature.
 Configuration Just add tags to any page:
---- date: 2018-11-29T08:41:44+01:00 title: Theme tutorial weight: 15 tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] --- Behavior The tags are displayed at the top of the page, in their insertion order.
+---date: 2018-11-29T08:41:44+01:00title: Theme tutorialweight: 15tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] ---Behavior The tags are displayed at the top of the page, in their insertion order.
 Each tag is a link to a Taxonomy page displaying all the articles with the given tag.
 List all the tags In the config.toml file you can add a shortcut to display all the tags</description>
     </item>
