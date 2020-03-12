@@ -8,7 +8,6 @@ chapter: true
 
 {{% notice note %}}
 Here you will find a collection of Study guides for the new Azure exams.
-
 Fell free to create a pull request and add resources.
 {{% /notice %}}
 
