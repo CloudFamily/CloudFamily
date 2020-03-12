@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>https://cloudfamily.info/projects/</loc>
+  </url>
+  
+  <url>
     <loc>https://cloudfamily.info/useful_links/</loc>
   </url>
   
@@ -177,6 +181,10 @@
   </url>
   
   <url>
+    <loc>https://cloudfamily.info/showcase/</loc>
+  </url>
+  
+  <url>
     <loc>https://cloudfamily.info/cont/shortcodes/mermaid/</loc>
   </url>
   
@@ -222,10 +230,6 @@
   
   <url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-2/test3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudfamily.info/showcase/</loc>
   </url>
   
   <url>
