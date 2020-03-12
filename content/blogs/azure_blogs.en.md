@@ -10,6 +10,11 @@ chapter: true
 
 ---
 
+#### [Grgor Suttie](https://gregorsuttie.com/)
+![Gregor Suttie](/images/blogs/gregorsuttie.PNG?width=50pc)
+
+---
+
 #### [Thomas Thornton](https://thomasthornton.cloud/) Blogging all things Microsoft Azure
 ![Thomas Thornton](/images/blogs/thomasthornton.PNG?width=50pc)
 
