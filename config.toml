@@ -46,7 +46,7 @@ weight = 11
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='far fa-window-maximize'></i> Projects"
-url = "blogs"
+url = "projects"
 weight = 28
 
 # [[Languages.en.menu.shortcuts]]
