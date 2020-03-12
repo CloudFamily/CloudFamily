@@ -11,3 +11,4 @@ Here you will find a collection of Blogs that we believe you will find useful. F
 {{% /notice %}}
 
 
++ [Azure Blogs](/blogs/azure_blogs/)
