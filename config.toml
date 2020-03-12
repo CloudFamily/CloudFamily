@@ -15,7 +15,7 @@ publishDir = "docs"
   showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = true
-  themeVariant = "blue"
+  themeVariant = "mine"
   disableLanguageSwitchingButton = true
 
 [outputs]
