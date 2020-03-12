@@ -6,7 +6,6 @@ chapter: true
 
 # Useful Links
 
-
 {{% notice note %}}
 The following are a list of **useful resources** we have came across, which will help you on your cloud journey. 
 **Please help the community by adding your contributions.**
