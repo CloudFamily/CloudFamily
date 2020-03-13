@@ -28,6 +28,12 @@ chapter: true
 #### [Sam Smith](https://samlearnsazure.blog/) - Learning and sharing Azure architecture tips with DevOps
 ![Sam Smith](/images/blogs/samsmith.PNG?width=50pc)
 
+
+---
+
+#### [Dwayne Natwick](https://captainhyperscaler.com/) - The Journey To The Cloud Continues	…
+![Dwayne Natwick](/images/blogs/dwayne.PNG?width=50pc)
+
 ---
 
 #### [Chris Pietschmann](https://build5nines.com/) - Build5nines.com

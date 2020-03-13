@@ -12,7 +12,7 @@ title: "Cloud Family"
 ### Our Goal
 
 {{% notice info %}}
-**Our goal is to help grow the Azure community - everyone is welcome**
+**Our goal is to help grow the Azure community and everyone is welcome :)**
 {{% /notice %}}
 
 ### Contribute
@@ -25,8 +25,7 @@ We are looking for people to get involved and help **promote people and projects
 * Got a project you'd like help with or to share with the community?
 * Maybe you'd like to record a video and dont know where to start
 
-![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
 
 {{% notice note %}}
-We do this in our spare time, because we enjoy giving back to the community. Join up and get help or help others.
+We do this in our spare time, because we enjoy giving back to the community. **Contribute** and get help or help others.
 {{% /notice %}}
