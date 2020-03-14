@@ -53,3 +53,8 @@ weight = 28
 # name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
 # url = "/credits"
 # weight = 30
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-youtube'></i> YouTube"
+url = "https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w"
+weight = 29
