@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Family</title>
+    <link>https://cloudfamily.info/cloud_family/</link>
+    <description>Recent content on Cloud Family</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://cloudfamily.info/cloud_family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
