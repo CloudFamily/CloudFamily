@@ -17,11 +17,13 @@ title: "Cloud Family"
 
 ### How to be part of the Cloud Family
 
-We are looking for people to get involved and help **promote people and projects** within the Azure community.
+We are looking for people to get involved and help **promote people and projects** within the **Azure community**.
 
-You can do this by using #CloudFamily to help promote what you feel is awesome.
+You can do this by using **#CloudFamily** to help promote what you feel is awesome.
 
-You can also contribute to this site and the YouTube channel.
+You can also **contribute** to this site and the **[YouTube channel](https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w)**.
+
+**Join our Slack Channel - http://bit.ly/2vrvoRV**
 
 If you have any other ideas please reach out.
 
@@ -29,7 +31,7 @@ If you have any other ideas please reach out.
 
 * Need help getting started with creating a blog?
 * Got a project you'd like help with or to share with the community?
-* Maybe you'd like to record a video and don't know where to start
+* Maybe you'd like to record a video and don't know where to start - we can help.
 
 
 {{% notice note %}}
