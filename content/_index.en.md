@@ -17,7 +17,7 @@ title: "Cloud Family"
 
 ### How to be part of the Cloud Family
 
-We are looking for people to get involved and help **promote people and projects** within the **Azure community**.
+We are looking for people to get involved and help **[promote people and projects](/cloud_family/)** within the **Azure community**.
 
 You can do this by using **#CloudFamily** to help promote what you feel is awesome.
 
@@ -37,11 +37,3 @@ If you have any other ideas please reach out.
 {{% notice note %}}
 We do this in our spare time, because we enjoy giving back to the community. **Contribute** and get help or help others.
 {{% /notice %}}
-
-
-### Recent Tweets with #CloudFamily
-
-{{< rawhtml >}}
-<a class="twitter-timeline" data-width="800" data-height="600" href="https://twitter.com/Pixel_Robots/timelines/1239537572390604801?ref_src=twsrc%5Etfw">#CloudFamily - Curated tweets by Pixel_Robots</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}
-
