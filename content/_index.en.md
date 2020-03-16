@@ -29,6 +29,9 @@ If you have any other ideas please reach out.
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=CloudFamily&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #CloudFamily</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Recent Tweets with #Azure
+<a href="https://twitter.com/intent/tweet?button_hashtag=Azure&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Azure</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Main features
 
 * Need help getting started with creating a blog?
