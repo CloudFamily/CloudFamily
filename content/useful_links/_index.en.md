@@ -18,4 +18,5 @@ The following are a list of **useful resources** we have came across, which will
 	- **Pluralsight** - [Pluralsight](https://www.pluralsight.com/)
 	- **Udemy** - [Udemy](https://www.Udemy.com/)
 + **Microsoft Cloud Adoption Framework** - [Microsoft Cloud Adoption Framework](https://aka.ms/caf)
-+ **Azure Weekly** [Azure Weekly](https://azureweekly.info/)
++ **Azure Weekly** - [Azure Weekly](https://azureweekly.info/)
++ **Community Connect** - [Community Connect](https://communityconnect.site/)

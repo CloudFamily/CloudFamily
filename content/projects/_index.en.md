@@ -29,3 +29,7 @@ This area is dedicated for community member to list their projects they have cre
 #### [Alexey Polkovnikov](https://azurecharts.com/) - AzureCharts.com
 ![Alexey Polkovnikov](/images/projects/azurecharts.PNG?width=50pc)
 
+---
+#### [Garry Whittaker](https://communityconnect.site/) - UK Community Connect
+![Garry Whittaker](/images/projects/CommunityConnect.PNG?width=50pc)
+
