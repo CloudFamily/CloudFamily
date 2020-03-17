@@ -31,7 +31,7 @@ chapter: true
 
 ---
 
-#### [Dwayne Natwick](https://captainhyperscaler.com/) - The Journey To The Cloud Continues	…
+#### [Dwayne Natwick](https://captainhyperscaler.com/) - The Journey To The Cloud Continues	ï¿½
 ![Dwayne Natwick](/images/blogs/dwayne.PNG?width=50pc)
 
 ---
