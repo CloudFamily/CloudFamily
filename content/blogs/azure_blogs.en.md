@@ -63,3 +63,8 @@ chapter: true
 
 #### [Kirk Ryan](https://kirkryan.co.uk/) - A blog about advanced Azure data services
 ![Kirk Ryan](/images/blogs/kirkryan.PNG?width=50pc)
+
+---
+
+#### [Adil Touati](https://atouati.com/) - Azure, DevOps and Kubernetes
+![Adil Touati](/images/blogs/atouati.com.png?width=50pc)
