@@ -24,6 +24,8 @@ You can also **contribute** to this site and the **[YouTube channel](https://www
 
 **Join our Slack Channel - http://bit.ly/2vrvoRV**
 
+**Or join the established RestAzured Slack** - https://slofile.com/slack/azured
+
 If you have any other ideas please reach out.
 
 ### Main features
