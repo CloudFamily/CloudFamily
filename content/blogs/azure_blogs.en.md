@@ -58,3 +58,8 @@ chapter: true
 
 #### [Pete Gallagher](https://www.petecodes.co.uk/) - Pete Codes
 ![Pete Gallagher](/images/blogs/petegallagher.PNG?width=50pc)
+
+---
+
+#### [Kirk Ryan](https://kirkryan.co.uk/) - A blog about advanced Azure data services
+![Kirk Ryan](/images/blogs/kirkryan.PNG?width=50pc)
