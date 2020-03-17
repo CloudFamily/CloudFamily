@@ -8,7 +8,6 @@ title: "Cloud Family"
 #### Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, we are here to help grow the **Azure Community**.
 
 
-
 ### Our Goal
 
 {{% notice info %}}
