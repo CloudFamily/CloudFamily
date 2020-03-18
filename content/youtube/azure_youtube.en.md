@@ -16,9 +16,8 @@ The **Azure Advent Calendar** YouTube Channel. Here you will find around 75 vide
 A YouTube Channel from **MVP Sam Cogan** focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.
 
 ---
+**{{< open-in-blank "Mark Scholman" "https://www.youtube.com/c/markscholman" >}}**
 
-## [Mark Scholman](https://www.youtube.com/c/markscholman)
-
-A YouTube Channel from MVP Mark Scholman focussed on learning Azure Stack. A collection of short videos working with the Azure Stack Family.
+A YouTube Channel from **MVP Mark Scholman** focussed on learning Azure Stack. A collection of short videos working with the Azure Stack Family.
 
 ---
