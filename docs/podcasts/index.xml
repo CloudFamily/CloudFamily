@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Cloud Family</title>
+    <link>https://cloudfamily.info/podcasts/</link>
+    <description>Recent content in Podcasts on Cloud Family</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://cloudfamily.info/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Azure Podcasts</title>
+      <link>https://cloudfamily.info/podcasts/azure_podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/podcasts/azure_podcasts/</guid>
+      <description>cloudskills.fm/ CloudSkills.fm is a weekly podcast with technical tips and career advice for people working with cloud-native technologies. This show is for developers, IT pros, or anyone making a career move into the cloud. Episodes will be short and to the point and will regularly feature experts who share their experiences.
+This show is hosted by Mike Pfeiffer, a twenty-year tech industry veteran, entrepreneur, Pluralsight author, and Microsoft Azure MVP. If you enjoy the show and want more tips delivered to your mailbox every week, subscribe to CloudSkills Weekly at https://cloudskills.</description>
+    </item>
+    
+  </channel>
+</rss>
