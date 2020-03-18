@@ -22,8 +22,8 @@ This area is dedicated for community member to list their projects they have cre
 
 ---
 
-#### [Sam Cogan - @samcogan - ](https://github.com/sam-cogan/arm-snippets-vscode) - VS Code Azure Resource Manager Snippets
-![Sam Cogan](/images/projects/ARMSnippets.PNG?width=50pc)	
+#### [Sam Cogan - @samcogan - ](https://github.com/sam-cogan/arm-ttk-extension) - Azure Resource Manager Template Tool Kit Azure DevOps Extension
+![Sam Cogan](/images/projects/arm-ttk.png?width=50pc)	
 
 ---
 #### [Alexey Polkovnikov](https://azurecharts.com/) - AzureCharts.com
