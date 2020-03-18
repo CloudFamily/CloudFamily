@@ -88,6 +88,7 @@ chapter: true
 #### [Sam Cogan](https://samcogan.com) - All things Azure and Cloud
 ![Sam Cogan](/images/blogs/samcogan.png?width=50pc)
 
+---
 
-#### [Thomas Maurer](https://www.thomasmaurer.ch) - Azure Cloud & Virtualization Blog
+#### [Thomas Maurer](https://www.thomasmaurer.ch) - Azure Cloud & Datacenter Blog by Microsoft Cloud Advocate
 ![Thomas Maurer](/images/blogs/thomasmaurer.png?width=50pc)
