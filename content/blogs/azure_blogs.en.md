@@ -28,6 +28,10 @@ chapter: true
 #### [Sam Smith](https://samlearnsazure.blog/) - Learning and sharing Azure architecture tips with DevOps
 ![Sam Smith](/images/blogs/samsmith.PNG?width=50pc)
 
+---
+
+### [David O'Brien](https://david-obrien.net) - Cloud For The Win!
+![David O'Brien](/images/blogs/davidobrien.png?width=50pc)
 
 ---
 
@@ -62,7 +66,7 @@ chapter: true
 ---
 
 #### [The Azure Guy](https://theazureguy.wordpress.com/) - Martyn Coupland
-![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
+![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
 
 ---
 

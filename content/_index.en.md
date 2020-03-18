@@ -24,7 +24,7 @@ You can also **contribute** to this site and the **[YouTube channel](https://www
 
 **Join our Slack Channel - http://bit.ly/2vrvoRV**
 
-If you have any other ideas please reach out.
+If you have any other ideas **please reach out**.
 
 ### Main features
 

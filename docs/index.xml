@@ -89,7 +89,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudfamily.info/blogs/azure_blogs/</guid>
-      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff&amp;hellip;  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  Dwayne Natwick - The Journey To The Cloud Continues	�  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud </description>
+      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff&amp;hellip;  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;rsquo;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues	�  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud </description>
     </item>
     
     <item>
@@ -100,6 +100,16 @@
       <guid>https://cloudfamily.info/podcasts/azure_podcasts/</guid>
       <description>cloudskills.fm/ CloudSkills.fm is a weekly podcast with technical tips and career advice for people working with cloud-native technologies. This show is for developers, IT pros, or anyone making a career move into the cloud. Episodes will be short and to the point and will regularly feature experts who share their experiences.
 This show is hosted by Mike Pfeiffer, a twenty-year tech industry veteran, entrepreneur, Pluralsight author, and Microsoft Azure MVP. If you enjoy the show and want more tips delivered to your mailbox every week, subscribe to CloudSkills Weekly at https://cloudskills.</description>
+    </item>
+    
+    <item>
+      <title>Azure YouTube Channels</title>
+      <link>https://cloudfamily.info/youtube/azure_youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/youtube/azure_youtube/</guid>
+      <description>Sam Cogan A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.
+ </description>
     </item>
     
     <item>

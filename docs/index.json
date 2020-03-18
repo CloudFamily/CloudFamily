@@ -25,7 +25,7 @@
 	"title": "Cloud Family",
 	"tags": [],
 	"description": "",
-	"content": "Cloud Family Below you will find members of the Cloud Family. Make sure you are following them on Twitter. If you would like to be listed here please create a pull request and add yourself in!\n            Richard Hooper - @Pixel_robots  This could be you!  Gregor_Suttie - @Gregor_Suttie    Isidora Katanic - @IsidoraKatanic  Elan Shudnow - @ElanShudnow  Sarah Lean - @TechieLass    Billy York - @SCAutomation  This could be you!  Wim Matthyssen - @wmatthyssen    This could be you!  Karel De Winter - @kareldewinter  This could be you!    Mithun Shanbhag - @MithunShanbhag  Kirk Ryan - @kirk__ryan  Jamie Maguire - @jamie_maguire1    Chris Pottrell - @ChrisPottrell  Pete Gallagher - @pete_codes  Nick Colyer - @vNickC    Dwayne Natwick - @DwayneNcloud  Christoph Vollmann - @CloudChristoph  Adil Touati - @adiltouati    Join the Slack Channel, or get in touch using #CloudFamily\tand you can join the Cloud Family community today!.\n"
+	"content": "Cloud Family Below you will find members of the Cloud Family. Make sure you are following them on Twitter. If you would like to be listed here please create a pull request and add yourself in!\n            Richard Hooper - @Pixel_robots  David O\u0026rsquo;Brien  Gregor_Suttie - @Gregor_Suttie    Isidora Katanic - @IsidoraKatanic  Elan Shudnow - @ElanShudnow  Sarah Lean - @TechieLass    Billy York - @SCAutomation  Ryan Yates - @ryanyates1990  Wim Matthyssen - @wmatthyssen    Sam Cogan - @samcogan  Karel De Winter - @kareldewinter  This could be you!    Mithun Shanbhag - @MithunShanbhag  Kirk Ryan - @kirk__ryan  Jamie Maguire - @jamie_maguire1    Chris Pottrell - @ChrisPottrell  Pete Gallagher - @pete_codes  Nick Colyer - @vNickC    Dwayne Natwick - @DwayneNcloud  Christoph Vollmann - @CloudChristoph  Adil Touati - @adiltouati    Join the Slack Channel, or get in touch using #CloudFamily\tand you can join the Cloud Family community today!.\n"
 },
 {
 	"uri": "https://cloudfamily.info/cloud_champions/",
@@ -60,14 +60,14 @@
 	"title": "Projects",
 	"tags": [],
 	"description": "",
-	"content": "Projects This area is dedicated for community member to list their projects they have created. If you have a project you\u0026rsquo;d like to let people know about, contribute and add it to this page.\n  Ben Coleman - @BenCodeGeek -  - Arm Template Viewer  Mithun Shanbhag - @MithunShanbhag -  - CloudSkew: Draw AWS, Azure, GCP, Kubernetes architecture diagrams for free!  Sam Cogan - @samcogan -  - VS Code Azure Resource Manager Snippets  Alexey Polkovnikov - AzureCharts.com  Garry Whittaker - UK Community Connect "
+	"content": "Projects This area is dedicated for community member to list their projects they have created. If you have a project you\u0026rsquo;d like to let people know about, contribute and add it to this page.\n  Ben Coleman - @BenCodeGeek -  - Arm Template Viewer  Mithun Shanbhag - @MithunShanbhag -  - CloudSkew: Draw AWS, Azure, GCP, Kubernetes architecture diagrams for free!  Sam Cogan - @samcogan -  - Azure Resource Manager Template Tool Kit Azure DevOps Extension  Alexey Polkovnikov - AzureCharts.com  Garry Whittaker - UK Community Connect "
 },
 {
 	"uri": "https://cloudfamily.info/useful_links/",
 	"title": "Useful Links",
 	"tags": [],
 	"description": "",
-	"content": "Useful Links The following are a list of useful resources we have came across, which will help you on your cloud journey. Please help the community by adding your contributions.\n  Azure Documentation - (https://docs.microsoft.com/en-us/azure/) Microsoft Learn - (https://docs.microsoft.com/en-us/learn/) Training (Paid for)  SkyLines Academy - SkyLines Academy Pluralsight - Pluralsight Udemy - Udemy   Microsoft Cloud Adoption Framework - Microsoft Cloud Adoption Framework Azure Weekly - Azure Weekly Community Connect - Community Connect  "
+	"content": "Useful Links The following are a list of useful resources we have came across, which will help you on your cloud journey. Please help the community by adding your contributions.\n  Azure Documentation - (https://docs.microsoft.com/en-us/azure/) Microsoft Learn - (https://docs.microsoft.com/en-us/learn/) Training (Paid for)  SkyLines Academy - SkyLines Academy Pluralsight - Pluralsight Udemy - Udemy A Cloud Guru - A Cloud Guru   Microsoft Cloud Adoption Framework - Microsoft Cloud Adoption Framework Azure Weekly - Azure Weekly Community Connect - Community Connect Slack Channels  Cloud Family - Cloud Family Slack Rest Azured - Rest Azured Slack Ask an Azure Architectu Ask Azure Slack    "
 },
 {
 	"uri": "https://cloudfamily.info/cloud_champions/august2020/",
@@ -98,6 +98,13 @@
 	"content": "Podcasts Here you will find a collection of podcasts that we believe you will find useful. Feel free to create a pull request to add yours.\n  Azure Podcasts  "
 },
 {
+	"uri": "https://cloudfamily.info/youtube/",
+	"title": "YouTube",
+	"tags": [],
+	"description": "",
+	"content": "YouTube Here you will find a collection of YouTube channels that we believe you will find useful. Feel free to create a pull request to add yours.\n  Azure YouTube Channels  "
+},
+{
 	"uri": "https://cloudfamily.info/cloud_champions/october2020/",
 	"title": "Community Champion - October 2020",
 	"tags": [],
@@ -116,7 +123,7 @@
 	"title": "Azure Blogs",
 	"tags": [],
 	"description": "",
-	"content": "Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff\u0026hellip;  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  Dwayne Natwick - The Journey To The Cloud Continues\t�  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud "
+	"content": "Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff\u0026hellip;  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O\u0026rsquo;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues\t�  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud "
 },
 {
 	"uri": "https://cloudfamily.info/podcasts/azure_podcasts/",
@@ -124,6 +131,13 @@
 	"tags": [],
 	"description": "",
 	"content": "cloudskills.fm/ CloudSkills.fm is a weekly podcast with technical tips and career advice for people working with cloud-native technologies. This show is for developers, IT pros, or anyone making a career move into the cloud. Episodes will be short and to the point and will regularly feature experts who share their experiences.\nThis show is hosted by Mike Pfeiffer, a twenty-year tech industry veteran, entrepreneur, Pluralsight author, and Microsoft Azure MVP. If you enjoy the show and want more tips delivered to your mailbox every week, subscribe to CloudSkills Weekly at https://cloudskills.io/subscribe.\n "
+},
+{
+	"uri": "https://cloudfamily.info/youtube/azure_youtube/",
+	"title": "Azure YouTube Channels",
+	"tags": [],
+	"description": "",
+	"content": "Sam Cogan A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.\n "
 },
 {
 	"uri": "https://cloudfamily.info/cont/",
