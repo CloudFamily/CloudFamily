@@ -80,3 +80,11 @@ chapter: true
 ---
 #### {{< open-in-blank "Thomas Maurer - Azure Cloud & Datacenter Blog by Microsoft Cloud Advocate" "https://www.thomasmaurer.ch" >}}
 ![Thomas Maurer](/images/blogs/thomasmaurer.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Mark Scholman - Azure & Azure Stack blog" "https://markscholman.com/blog" >}}
+![Mark Scholman](/images/blogs/markscholman.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Azure Stack Community Blog" "https://azurestack.blog" >}}
+![AzureStack Blog](/images/blogs/azurestackblog.PNG?width=50pc)
