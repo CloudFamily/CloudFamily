@@ -66,6 +66,11 @@ chapter: true
 
 ---
 
+#### [The Azure Guy](https://theazureguy.wordpress.com/) - Martyn Coupland
+![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
+
+---
+
 #### [Adil Touati](https://atouati.com/) - Azure, DevOps and Kubernetes
 ![Adil Touati](/images/blogs/atouati.com.png?width=50pc)
 
