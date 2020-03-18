@@ -78,3 +78,8 @@ chapter: true
 
 #### [Elan Shudnow](https://www.shudnow.net) - Azure Cloud
 ![Elan Shudnow](/images/blogs/ElanShudnow.jpg?width=50pc)
+
+---
+
+#### [Sam Cogan](https://samcogan.com) - All things Azure and Cloud
+![Sam Cogan](/images/blogs/samcogan.png?width=50pc)
