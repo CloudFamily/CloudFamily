@@ -103,12 +103,13 @@ This show is hosted by Mike Pfeiffer, a twenty-year tech industry veteran, entre
     </item>
     
     <item>
-      <title>Azure Podcasts</title>
+      <title>Azure YouTube Channels</title>
       <link>https://cloudfamily.info/youtube/azure_youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudfamily.info/youtube/azure_youtube/</guid>
-      <description>Sam Cogan A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure. </description>
+      <description>Sam Cogan A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.
+ </description>
     </item>
     
     <item>
@@ -139,7 +140,7 @@ hugo new --kind chapter &amp;lt;name&amp;gt;/_index.</description>
       
       <guid>https://cloudfamily.info/cont/markdown/</guid>
       <description>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&amp;hellip;)
-Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+ Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</description>
     </item>
     
@@ -201,7 +202,7 @@ Need links
       <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.
 Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.
 Example from the current website:
-[[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot;identifier = &amp;quot;ds&amp;quot;url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot;weight = 10[[menu.shortcuts]]name = &amp;quot;&amp;lt;i class=&#39;fas fa-camera&#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;quot;url = &amp;quot;/showcase&amp;quot;weight = 11[[menu.</description>
+[[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10 [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fas fa-camera&#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;quot; url = &amp;quot;/showcase&amp;quot; weight = 11 [[menu.</description>
     </item>
     
     <item>
@@ -223,7 +224,7 @@ Once on the Font Awesome page for a specific icon, for example the page for the 
       <guid>https://cloudfamily.info/cont/tags/</guid>
       <description>Learn theme support one default taxonomy of gohugo: the tag feature.
 Configuration Just add tags to any page:
----date: 2018-11-29T08:41:44+01:00title: Theme tutorialweight: 15tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] ---Behavior The tags are displayed at the top of the page, in their insertion order.
+--- date: 2018-11-29T08:41:44+01:00 title: Theme tutorial weight: 15 tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] --- Behavior The tags are displayed at the top of the page, in their insertion order.
 Each tag is a link to a Taxonomy page displaying all the articles with the given tag.
 List all the tags In the config.toml file you can add a shortcut to display all the tags</description>
     </item>
@@ -235,7 +236,7 @@ List all the tags In the config.toml file you can add a shortcut to display all 
       
       <guid>https://cloudfamily.info/cont/shortcodes/attachments/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.
-AttachmentsBachGavotteShort.mp3(357 ko)Carroll_AliceAuPaysDesMerveilles.pdf(175 ko)adivorciarsetoca00cape.pdf(361 ko)hugo.png(17 ko)movieselectricsheep-flock-244-32500-2.mp4(340 ko)Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
+  Attachments   BachGavotteShort.mp3  (357 ko)   Carroll_AliceAuPaysDesMerveilles.pdf  (175 ko)   adivorciarsetoca00cape.pdf  (361 ko)   hugo.png  (17 ko)   movieselectricsheep-flock-244-32500-2.mp4  (340 ko)    Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
   If your page is a markdown file, attachements must be place in a folder named like your page and ending with .</description>
     </item>
     
@@ -246,7 +247,7 @@ List all the tags In the config.toml file you can add a shortcut to display all 
       
       <guid>https://cloudfamily.info/cont/shortcodes/button/</guid>
       <description>A button is a just a clickable button with optional icon.
-{{% button href=&amp;quot;https://getgrav.org/&amp;quot; %}}Get Grav{{% /button %}}{{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; %}}Get Grav with icon{{% /button %}}{{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; icon-position=&amp;quot;right&amp;quot; %}}Get Grav with icon right{{% /button %}}Get GravGet Grav with iconGet Grav with icon right</description>
+{{% button href=&amp;quot;https://getgrav.org/&amp;quot; %}}Get Grav{{% /button %}} {{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; %}}Get Grav with icon{{% /button %}} {{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; icon-position=&amp;quot;right&amp;quot; %}}Get Grav with icon right{{% /button %}}  Get Grav   Get Grav with icon  Get Grav with icon right   </description>
     </item>
     
     <item>
@@ -267,7 +268,7 @@ Packages and libraries  mermaid - generation of diagram and flowchart from text 
       
       <guid>https://cloudfamily.info/cont/shortcodes/expand/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example
-Expand me...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+  Expand me...   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
@@ -287,8 +288,8 @@ Packages and libraries  mermaid - generation of diagram and flowchart from text 
       <guid>https://cloudfamily.info/cont/shortcodes/mermaid/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.
 Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.
-Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}}graph LR;A[Hard edge] --&amp;gt;|Link text| B(Round edge)B --&amp;gt; C{Decision}C --&amp;gt;|One| D[Result one]C --&amp;gt;|Two| E[Result two]{{&amp;lt; /mermaid &amp;gt;}} renders as
-graph LR;A[Hard edge] --|Link text| B(Round edge)B -- C{Decision}C --|One| D[Result one]C --|Two| E[Result two]or you can use this alternative syntax:</description>
+Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}}  renders as
+graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{Decision} C --|One| D[Result one] C --|Two| E[Result two]  or you can use this alternative syntax:</description>
     </item>
     
     <item>
@@ -298,13 +299,13 @@ graph LR;A[Hard edge] --|Link text| B(Round edge)B -- C{Decision}C --|One| D[
       
       <guid>https://cloudfamily.info/cont/shortcodes/notice/</guid>
       <description>The notice shortcode shows 4 types of disclaimers to help you structure your page.
-Note {{% notice note %}}A notice disclaimer{{% /notice %}}renders as
+Note {{% notice note %}} A notice disclaimer {{% /notice %}} renders as
 A notice disclaimer
-Info {{% notice info %}}An information disclaimer{{% /notice %}}renders as
+ Info {{% notice info %}} An information disclaimer {{% /notice %}} renders as
 An information disclaimer
-Tip {{% notice tip %}}A tip disclaimer{{% /notice %}}renders as
+ Tip {{% notice tip %}} A tip disclaimer {{% /notice %}} renders as
 A tip disclaimer
-Warning {{% notice warning %}}A warning disclaimer{{% /notice %}}renders as</description>
+ Warning {{% notice warning %}} A warning disclaimer {{% /notice %}} renders as</description>
     </item>
     
     <item>
@@ -333,8 +334,8 @@ A tip disclaimer
       <guid>https://cloudfamily.info/cont/shortcodes/siteparam/</guid>
       <description>siteparam shortcode is used to help you print values of site params.
 For instance, in this current site, the editURL variable is used in config.toml
-[params]editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34;Use the siteparam shortcode to display its value.
-`editURL` Value : {{% siteparam &amp;quot;editURL&amp;quot; %}}is displayed as
+[params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.
+`editURL` Value : {{% siteparam &amp;quot;editURL&amp;quot; %}} is displayed as
 editURL Value : https://github.com/CloudFamily/CloudFamily/tree/master/content/</description>
     </item>
     
