@@ -28,6 +28,10 @@ chapter: true
 #### [Sam Smith](https://samlearnsazure.blog/) - Learning and sharing Azure architecture tips with DevOps
 ![Sam Smith](/images/blogs/samsmith.PNG?width=50pc)
 
+---
+
+### [David O'Brien](https://david-obrien.net) - Cloud For The Win!
+![David O'Brien](/images/blogs/davidobrien.png?width=50pc)
 
 ---
 
@@ -61,5 +65,25 @@ chapter: true
 
 ---
 
+#### [The Azure Guy](https://theazureguy.wordpress.com/) - Martyn Coupland
+![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
+
+---
+
 #### [Kirk Ryan](https://kirkryan.co.uk/) - A blog about advanced Azure data services
 ![Kirk Ryan](/images/blogs/kirkryan.PNG?width=50pc)
+
+---
+
+#### [Adil Touati](https://atouati.com/) - Azure, DevOps and Kubernetes
+![Adil Touati](/images/blogs/atouati.com.png?width=50pc)
+
+---
+
+#### [Elan Shudnow](https://www.shudnow.net) - Azure Cloud
+![Elan Shudnow](/images/blogs/ElanShudnow.jpg?width=50pc)
+
+---
+
+#### [Sam Cogan](https://samcogan.com) - All things Azure and Cloud
+![Sam Cogan](/images/blogs/samcogan.png?width=50pc)
