@@ -172,7 +172,7 @@
 	"title": "Shortcodes",
 	"tags": [],
 	"description": "",
-	"content": "Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.\nBut this happens to be a bad idea. Everyone uses Markdown because it\u0026rsquo;s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.\nTo avoid this limitations, Hugo created shortcodes. A shortcode is a simple snippet inside a page.\nHugo-theme-learn provides multiple shortcodes on top of existing ones.\n\rAttachments\r\rThe Attachments shortcode displays a list of files attached to a page.\n\rButton\r\rNice buttons on your page.\n\rChildren\r\rList the child pages of a page\n\rExpand\r\rDisplays an expandable/collapsible section of text on your page\n\rMermaid\r\rGeneration of diagram and flowchart from text in a similar manner as markdown\n\rNotice\r\rDisclaimers to help you structure your page\n\rSite param\r\rGet value of site params variables in your page.\n\r"
+	"content": "Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.\nBut this happens to be a bad idea. Everyone uses Markdown because it\u0026rsquo;s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.\nTo avoid this limitations, Hugo created shortcodes. A shortcode is a simple snippet inside a page.\nHugo-theme-learn provides multiple shortcodes on top of existing ones.\n\rAttachments\r\rThe Attachments shortcode displays a list of files attached to a page.\n\rButton\r\rNice buttons on your page.\n\rChildren\r\rList the child pages of a page\n\rExpand\r\rDisplays an expandable/collapsible section of text on your page\n\rMermaid\r\rGeneration of diagram and flowchart from text in a similar manner as markdown\n\rNotice\r\rDisclaimers to help you structure your page\n\rOpen Link in New Tab\r\rHow to open a link in a new tab.\n\rRaw HTML\r\rDisplay HTML content on a page.\n\rSite param\r\rGet value of site params variables in your page.\n\r"
 },
 {
 	"uri": "https://cloudfamily.info/study_guides/azure/az-104/",
@@ -315,6 +315,13 @@
 	"content": "The notice shortcode shows 4 types of disclaimers to help you structure your page.\nNote {{% notice note %}}\rA notice disclaimer\r{{% /notice %}}\rrenders as\nA notice disclaimer\n\rInfo {{% notice info %}}\rAn information disclaimer\r{{% /notice %}}\rrenders as\nAn information disclaimer\n\rTip {{% notice tip %}}\rA tip disclaimer\r{{% /notice %}}\rrenders as\nA tip disclaimer\n\rWarning {{% notice warning %}}\rA warning disclaimer\r{{% /notice %}}\rrenders as\nA warning disclaimer\n\r"
 },
 {
+	"uri": "https://cloudfamily.info/cont/shortcodes/openinnewtab/",
+	"title": "Open Link in New Tab",
+	"tags": [],
+	"description": "How to open a link in a new tab.",
+	"content": "You can use this shortcode to open a link in a new tab.\nlink Name\rlink Name "
+},
+{
 	"uri": "https://cloudfamily.info/cont/shortcodes/children/children-1/",
 	"title": "page 1",
 	"tags": [],
@@ -383,6 +390,13 @@
 	"tags": [],
 	"description": "This is a page test",
 	"content": "This is a test 3 demo child page\n"
+},
+{
+	"uri": "https://cloudfamily.info/cont/shortcodes/rawhtml/",
+	"title": "Raw HTML",
+	"tags": [],
+	"description": "Display HTML content on a page.",
+	"content": "You can use this shortcode to display HTML content on a page.\nThis is raw HTML, inside Markdown.\n\rThis is raw HTML, inside Markdown.\n"
 },
 {
 	"uri": "https://cloudfamily.info/cont/shortcodes/siteparam/",

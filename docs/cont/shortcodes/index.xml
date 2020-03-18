@@ -71,6 +71,27 @@ A tip disclaimer
     </item>
     
     <item>
+      <title>Open Link in New Tab</title>
+      <link>https://cloudfamily.info/cont/shortcodes/openinnewtab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/cont/shortcodes/openinnewtab/</guid>
+      <description>You can use this shortcode to open a link in a new tab.
+link Namelink Name </description>
+    </item>
+    
+    <item>
+      <title>Raw HTML</title>
+      <link>https://cloudfamily.info/cont/shortcodes/rawhtml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/cont/shortcodes/rawhtml/</guid>
+      <description>You can use this shortcode to display HTML content on a page.
+This is raw HTML, inside Markdown.
+This is raw HTML, inside Markdown.</description>
+    </item>
+    
+    <item>
       <title>Site param</title>
       <link>https://cloudfamily.info/cont/shortcodes/siteparam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

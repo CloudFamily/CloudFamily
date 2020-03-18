@@ -208,6 +208,10 @@
   </url>
   
   <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/openinnewtab/</loc>
+  </url>
+  
+  <url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/</loc>
   </url>
   
@@ -245,6 +249,10 @@
   
   <url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-2/test3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/rawhtml/</loc>
   </url>
   
   <url>
