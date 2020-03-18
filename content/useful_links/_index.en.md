@@ -24,4 +24,6 @@ The following are a list of **useful resources** we have came across, which will
 + **Slack Channels**
   - **Cloud Family** - [Cloud Family Slack](https://azurecommunitygroup.slack.com/)
   - **Rest Azured** - [Rest Azured Slack](https://restazured.slack.com/)
-  - **Ask an Azure Architectu** [Ask Azure Slack](https://askazure.slack.com)
+  - **Ask an Azure Architect** [Ask Azure Slack](https://askazure.slack.com)
++ **Github**
+  - **Learn Github Actions** - [Learn Github Actions](https://lab.github.com/)  
