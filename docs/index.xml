@@ -89,7 +89,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudfamily.info/blogs/azure_blogs/</guid>
-      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud &amp;amp; Datacenter Blog by Microsoft Cloud Advocate </description>
+      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud &amp;amp; Datacenter Blog by Microsoft Cloud Advocate  Mark Scholman - Azure &amp;amp; Azure Stack blog  Azure Stack Community Blog </description>
     </item>
     
     <item>
@@ -108,9 +108,11 @@ This show is hosted by Mike Pfeiffer, a twenty-year tech industry veteran, entre
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudfamily.info/youtube/azure_youtube/</guid>
-      <description>Sam Cogan A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.
- Azure Advent Calendar The Azure Advent Calendar YouTube Channel. Here you will find around 75 videos all about Azure. Look out for the next advent for more awesome content.
- </description>
+      <description>Azure Advent Calendar
+The Azure Advent Calendar YouTube Channel. Here you will find around 75 videos all about Azure. Look out for the next advent for more awesome content.
+ Sam Cogan
+A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.
+ Mark Scholman A YouTube Channel from MVP Mark Scholman focussed on learning Azure Stack.</description>
     </item>
     
     <item>

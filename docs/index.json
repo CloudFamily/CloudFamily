@@ -60,14 +60,14 @@
 	"title": "Projects",
 	"tags": [],
 	"description": "",
-	"content": "Projects This area is dedicated for community member to list their projects they have created. If you have a project you\u0026rsquo;d like to let people know about, contribute and add it to this page.\n\r Ben Coleman - @BenCodeGeek -  - Arm Template Viewer  Mithun Shanbhag - @MithunShanbhag -  - CloudSkew: Draw AWS, Azure, GCP, Kubernetes architecture diagrams for free!  Sam Cogan - @samcogan -  - Azure Resource Manager Template Tool Kit Azure DevOps Extension  Alexey Polkovnikov - AzureCharts.com  Garry Whittaker - UK Community Connect "
+	"content": "Projects This area is dedicated for community member to list their projects they have created. If you have a project you\u0026rsquo;d like to let people know about, contribute and add it to this page.\n\r Ben Coleman - @BenCodeGeek Arm Template Viewer  Mithun Shanbhag - @MithunShanbhag - CloudSkew: Draw AWS, Azure, GCP, Kubernetes architecture diagrams for free!  Sam Cogan - @samcogan - Azure Resource Manager Template Tool Kit Azure DevOps Extension  Alexey Polkovnikov - AzureCharts.com  Garry Whittaker - UK Community Connect "
 },
 {
 	"uri": "https://cloudfamily.info/useful_links/",
 	"title": "Useful Links",
 	"tags": [],
 	"description": "",
-	"content": "Useful Links The following are a list of useful resources we have came across, which will help you on your cloud journey. Please help the community by adding your contributions.\n\r Azure Documentation - (https://docs.microsoft.com/en-us/azure/) Microsoft Learn - (https://docs.microsoft.com/en-us/learn/) Training (Paid for)  SkyLines Academy - SkyLines Academy Pluralsight - Pluralsight Udemy - Udemy A Cloud Guru - A Cloud Guru   Microsoft Cloud Adoption Framework - Microsoft Cloud Adoption Framework Azure Weekly - Azure Weekly Community Connect - Community Connect Slack Channels  Cloud Family - Cloud Family Slack Rest Azured - Rest Azured Slack Ask an Azure Architect Ask Azure Slack   Github  Learn Github Actions - Learn Github Actions    "
+	"content": "Useful Links The following are a list of useful resources we have came across, which will help you on your cloud journey. Please help the community by adding your contributions.\n\r Azure Documentation - https://docs.microsoft.com/en-us/azure/ Microsoft Learn -\thttps://docs.microsoft.com/en-us/learn/ Training (Paid for)  SkyLines Academy - https://www.skylinesacademy.com/ Pluralsight - https://www.pluralsight.com/ Udemy - https://www.udemy.com/ A Cloud Guru - https://acloud.guru   Microsoft Cloud Adoption Framework - https://aka.ms/caf Azure Weekly - https://azureweekly.info/ Community Connect - https://communityconnect.site/ Slack Channels  Cloud Family - https://azurecommunitygroup.slack.com/ Rest Azured - https://restazured.slack.com/ Ask an Azure Architect - https://askazure.slack.com Azure Stack Hub / Edge - https://azurestack.blog/azurestackslack/   Github  Learn Github Actions - https://lab.github.com/    "
 },
 {
 	"uri": "https://cloudfamily.info/cloud_champions/august2020/",
@@ -123,7 +123,7 @@
 	"title": "Azure Blogs",
 	"tags": [],
 	"description": "",
-	"content": "Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O\u0026#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud \u0026amp; Datacenter Blog by Microsoft Cloud Advocate "
+	"content": "Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O\u0026#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud \u0026amp; Datacenter Blog by Microsoft Cloud Advocate  Mark Scholman - Azure \u0026amp; Azure Stack blog  Azure Stack Community Blog "
 },
 {
 	"uri": "https://cloudfamily.info/podcasts/azure_podcasts/",
@@ -137,7 +137,7 @@
 	"title": "Azure YouTube Channels",
 	"tags": [],
 	"description": "",
-	"content": "Sam Cogan A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.\n Azure Advent Calendar The Azure Advent Calendar YouTube Channel. Here you will find around 75 videos all about Azure. Look out for the next advent for more awesome content.\n "
+	"content": "Azure Advent Calendar\nThe Azure Advent Calendar YouTube Channel. Here you will find around 75 videos all about Azure. Look out for the next advent for more awesome content.\n Sam Cogan\nA YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Azure Snippets series, a collection of short, to the point tutorials focussed on working with Azure.\n Mark Scholman A YouTube Channel from MVP Mark Scholman focussed on learning Azure Stack. A collection of short videos working with the Azure Stack Family.\n "
 },
 {
 	"uri": "https://cloudfamily.info/cont/",
@@ -228,7 +228,7 @@
 	"title": "Cloud Family",
 	"tags": [],
 	"description": "",
-	"content": "Welcome to a new initiative called the Cloud Family and we are made up of a number of community members around the globe, we are here to help grow the Azure Community. Our Goal Our goal is to help grow the Azure community and everyone is welcome :)\n\rHow to be part of the Cloud Family We are looking for people to get involved and help promote people and projects within the Azure community.\nYou can do this by using #CloudFamily to help promote what you feel is awesome.\nYou can also contribute to this site and the YouTube channel.\nJoin our Slack Channel - http://bit.ly/2vrvoRV\nIf you have any other ideas please reach out.\nMain features  Need help getting started with creating a blog? Got a project you\u0026rsquo;d like help with or to share with the community? Maybe you\u0026rsquo;d like to record a video and don\u0026rsquo;t know where to start - we can help.  We do this in our spare time, because we enjoy giving back to the community. Contribute and get help or help others.\n\rContributors - view all the contributors at the following link - https://github.com/CloudFamily/CloudFamily/graphs/contributors\n\r"
+	"content": "Welcome to a new initiative called the Cloud Family and we are made up of a number of community members around the globe, we are here to help grow the Azure Community. Our Goal Our goal is to help grow the Azure community and everyone is welcome :)\n\rHow to be part of the Cloud Family We are looking for people to get involved and help promote people and projects within the Azure community.\nYou can do this by using #CloudFamily to help promote what you feel is awesome.\nYou can also contribute to this site and the YouTube channel.\nJoin our Slack channel.\nIf you have any other ideas please reach out to us on twitter.\nMain features  Need help getting started with creating a blog? Got a project you\u0026rsquo;d like help with or to share with the community? Maybe you\u0026rsquo;d like to record a video and don\u0026rsquo;t know where to start - we can help.  We do this in our spare time, because we enjoy giving back to the community. Contribute and get help or help others.\n\rView all our contributors here.\n"
 },
 {
 	"uri": "https://cloudfamily.info/tags/documentation/",
