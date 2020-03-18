@@ -11,7 +11,6 @@ chapter: true
 ---
 
 #### [Gregor Suttie](https://gregorsuttie.com/) - Azure Greg
-
 ![Gregor Suttie](/images/blogs/gregorsuttie.PNG?width=50pc)
 
 ---
