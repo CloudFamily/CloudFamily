@@ -16,3 +16,9 @@ A YouTube Channel from MVP Sam Cogan focussed on learning Azure. Includes the Az
 The **Azure Advent Calendar** YouTube Channel. Here you will find around 75 videos all about Azure. Look out for the next advent for more awesome content.
 
 ---
+
+## [Mark Scholman](https://www.youtube.com/c/markscholman)
+
+A YouTube Channel from MVP Mark Scholman focussed on learning Azure Stack. A collection of short videos working with the Azure Stack Family.
+
+---
