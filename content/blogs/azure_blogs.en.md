@@ -91,4 +91,4 @@ chapter: true
 ---
 
 #### [Thomas Maurer](https://www.thomasmaurer.ch) - Azure Cloud & Datacenter Blog by Microsoft Cloud Advocate
-![Thomas Maurer](/images/blogs/thomasmaurer.png?width=50pc)
+![Thomas Maurer](/images/blogs/thomasmaurer.PNG?width=50pc)
