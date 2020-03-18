@@ -11,6 +11,7 @@ chapter: true
 ---
 
 #### [Gregor Suttie](https://gregorsuttie.com/) - Azure Greg
+
 ![Gregor Suttie](/images/blogs/gregorsuttie.PNG?width=50pc)
 
 ---
@@ -68,3 +69,8 @@ chapter: true
 
 #### [Adil Touati](https://atouati.com/) - Azure, DevOps and Kubernetes
 ![Adil Touati](/images/blogs/atouati.com.png?width=50pc)
+
+---
+
+#### [Elan Shudnow](https://www.shudnow.net) - Azure Cloud
+![Elan Shudnow](/images/blogs/ElanShudnow.jpg?width=50pc)
