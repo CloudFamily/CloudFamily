@@ -61,6 +61,11 @@ chapter: true
 
 ---
 
+#### [The Azure Guy](https://theazureguy.wordpress.com/) - Martyn Coupland
+![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
+
+---
+
 #### [Kirk Ryan](https://kirkryan.co.uk/) - A blog about advanced Azure data services
 ![Kirk Ryan](/images/blogs/kirkryan.PNG?width=50pc)
 
