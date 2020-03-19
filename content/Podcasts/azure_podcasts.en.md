@@ -20,6 +20,6 @@ Join **Scott Hanselman**, **Donovan Brown**, or **Lara Rubbelke** as they host t
 
 #### {{< open-in-blank "Ctrl+Alt+Azure" "https://ctrlaltazure.com/" >}}
 
-Welcome to the **Ctrl+Alt+Azure podcast**. We'll talk about all things Microsoft Azure, and share our experiences and thoughts on the way. Your co-hosts are **Tobias Zimmergren** and **Jussi Roine**.
+Welcome to the **Ctrl+Alt+Azure podcast**. We'll talk about all things Microsoft Azure, and share our experiences and thoughts on the way. Your co-hosts are **{{< open-in-blank "Tobias Zimmergren (Twitter)" "https://twitter.com/zimmergren" >}}** and **{{< open-in-blank "Jussi Roine (Twitter)" "https://twitter.com/jussiroine" >}}**.
 
 ---
