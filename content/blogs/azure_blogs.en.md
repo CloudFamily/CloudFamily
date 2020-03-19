@@ -88,3 +88,7 @@ chapter: true
 ---
 #### {{< open-in-blank "Azure Stack Community Blog" "https://azurestack.blog" >}}
 ![AzureStack Blog](/images/blogs/azurestackblog.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Tobias Zimmergren's thoughts on tech" "https://zimmergren.net" >}}
+![Tobias Zimmergren's thoughts on tech](/images/blogs/cloudfamily-zimmergrenblog.jpg?width=50pc)
