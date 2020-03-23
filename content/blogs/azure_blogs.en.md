@@ -96,3 +96,7 @@ chapter: true
 ---
 #### {{< open-in-blank "Mark Patton - Azure Cloud & DevOps" "https://markpatton.cloud" >}}
 ![Mark Patton](/images/blogs/markpattonblog.png?width=50pc)
+
+---
+#### {{< open-in-blank "Vukašin Terzić - AzureIs.Fun" "https://azureis.fun" >}}
+![Vukasin Terzic](/images/blogs/vukasinterzicblog.png?width=50pc)
