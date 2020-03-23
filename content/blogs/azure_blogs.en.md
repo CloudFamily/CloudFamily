@@ -92,3 +92,7 @@ chapter: true
 ---
 #### {{< open-in-blank "Tobias Zimmergren's thoughts on tech" "https://zimmergren.net" >}}
 ![Tobias Zimmergren's thoughts on tech](/images/blogs/cloudfamily-zimmergrenblog.jpg?width=50pc)
+
+---
+#### {{< open-in-blank "Mark Patton - Azure Cloud & DevOps" "https://markpatton.cloud" >}}
+![Mark Patton](/images/blogs/markpattonblog.jpg?width=50pc)
