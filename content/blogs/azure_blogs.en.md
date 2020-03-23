@@ -109,3 +109,5 @@ chapter: true
 #### {{< open-in-blank "WikiAzure - Helping Professionals to increase the skills required to advance your career through Cloud and AI Technologies" "https://wikiazure.com/blog/" >}}
 ![Dave Rendon](/images/blogs/wikiazure-daverendon.svg?width=50pc)
 
+---
+
