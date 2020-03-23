@@ -83,11 +83,11 @@ chapter: true
 
 ---
 #### {{< open-in-blank "Mark Scholman - Azure & Azure Stack blog" "https://markscholman.com/blog" >}}
-![Mark Scholman](/images/blogs/markscholman.PNG?width=50pc)
+![Mark Scholman](/images/blogs/markscholman.png?width=50pc)
 
 ---
 #### {{< open-in-blank "Azure Stack Community Blog" "https://azurestack.blog" >}}
-![AzureStack Blog](/images/blogs/azurestackblog.PNG?width=50pc)
+![AzureStack Blog](/images/blogs/azurestackblog.png?width=50pc)
 
 ---
 #### {{< open-in-blank "Tobias Zimmergren's thoughts on tech" "https://zimmergren.net" >}}
@@ -95,4 +95,4 @@ chapter: true
 
 ---
 #### {{< open-in-blank "Mark Patton - Azure Cloud & DevOps" "https://markpatton.cloud" >}}
-![Mark Patton](/images/blogs/markpattonblog.jpg?width=50pc)
+![Mark Patton](/images/blogs/markpattonblog.png?width=50pc)
