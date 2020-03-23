@@ -101,6 +101,11 @@ chapter: true
 #### {{< open-in-blank "Vukašin Terzić - AzureIs.Fun" "https://azureis.fun" >}}
 ![Vukasin Terzic](/images/blogs/vukasinterzicblog.png?width=50pc)
 
----
+
 #### {{< open-in-blank "Sajeetharan Sinnathurai - Everything is going to be 200 ok" "https://sajeetharan.com/" >}}
 ![Sajeetharan Sinnathurai](/images/blogs/vukasinterzicblog.png?width=50pc)
+
+---
+#### {{< open-in-blank "WikiAzure - Helping Professionals to increase the skills required to advance your career through Cloud and AI Technologies" "https://wikiazure.com/blog/" >}}
+![Dave Rendon](/images/blogs/wikiazure.png?width=50pc)
+---
