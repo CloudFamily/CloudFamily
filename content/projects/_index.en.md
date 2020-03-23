@@ -31,3 +31,7 @@ This area is dedicated for community member to list their projects they have cre
 **{{< open-in-blank "Garry Whittaker" "https://communityconnect.site/" >}} - UK Community Connect**
 ![Garry Whittaker](/images/projects/CommunityConnect.PNG?width=50pc)
 
+---
+**{{< open-in-blank "Vukašin Terzić" "http://www.azuregames.fun" >}} - Azure Knowledge Games**
+![Vukasin Terzic](/images/projects/AzureGamesFun.PNG?width=50pc)
+
