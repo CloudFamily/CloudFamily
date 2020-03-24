@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Sitemap</title>
+      <link>https://cloudfamily.info/cont/sitemap/</link>
+      <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
+      
+      <guid>https://cloudfamily.info/cont/sitemap/</guid>
+      <description>We should be careful about the references we include in the sitemap xml file, to avoid a high volume of pages included in the sitemap and consequently being indexed to Search Engines such as Google, Bing and more. Especially because we should mind about keeping the most relevant content in the top of the search engine index.
+Configuration Hugo by default indexes all pages to the sitemap.
+The proposal is just to include a parameter to the pages we want to exclude from sitemap.</description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>https://cloudfamily.info/cont/tags/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
