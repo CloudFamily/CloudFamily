@@ -2,6 +2,7 @@
 date: 2016-04-09T16:50:16+02:00
 title: Multi-langue et i18n
 weight: 30
+sitemapExclude: true
 ---
 
 **Learn** est complètement compatible avec le mode multi-langue d'Hugo.

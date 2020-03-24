@@ -1,6 +1,7 @@
 ---
 title: Raw HTML
 description : "Display HTML content on a page."
+sitemapExclude: true
 ---
 
 You can use this shortcode to display HTML content on a page.
