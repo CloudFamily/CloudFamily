@@ -111,7 +111,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "Hugo Barona - hugobarona.com" "https://hugobarona.com/" >}}
+#### {{< open-in-blank "Hugo Barona - hugobarona.com" "https://www.hugobarona.com/" >}}
 ![Hugo Barona](/images/blogs/hugobarona-com.PNG?width=50pc)
 
 ---
