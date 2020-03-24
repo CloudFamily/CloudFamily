@@ -2,6 +2,7 @@
 title: Contribution guide
 weight: 10
 chapter: true
+sitemapExclude: true
 ---
 
 ### **Contribution guide**

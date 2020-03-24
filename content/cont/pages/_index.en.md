@@ -2,6 +2,7 @@
 date: 2016-04-09T16:50:16+02:00
 title: Pages organization
 weight: 5
+sitemapExclude: true
 ---
 
 In **Hugo**, pages are the core of your site. Once it is configured, pages are definitely the added value to your documentation site.
@@ -35,7 +36,7 @@ Organize your site like [any other Hugo project](https://gohugo.io/content/organ
     └── page-top.md                     <-- /page-top
 
 {{% notice note %}}
-`_index.md` is required in each folder, it’s your “folder home page”
+`_index.md` is required in each folder, it's your "folder home page"
 {{% /notice %}}
 
 ## Types
