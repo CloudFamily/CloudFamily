@@ -61,7 +61,7 @@ chapter: true
 
 ---
 
-#### [The Azure Guy](https://theazureguy.wordpress.com/) - Martyn Coupland
+#### [The Azure Guy](https://theazureguy.blog/) - Martyn Coupland
 ![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
 
 ---
