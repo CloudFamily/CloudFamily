@@ -20,11 +20,11 @@ We are looking for people to get involved and help **[promote people and project
 
 You can do this by using **#CloudFamily** to help promote what you feel is awesome.
 
-You can also **contribute** to this site and the **[YouTube channel](https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w)**.
+You can also **contribute** to this site and the **{{< open-in-blank "YouTube channel" "https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w" >}}.**
 
-**Join our Slack Channel - http://bit.ly/2vrvoRV**
+**Join our {{< open-in-blank "Slack channel" "http://bit.ly/2vrvoRV" >}}.**
 
-If you have any other ideas please reach out.
+If you have any other ideas **please reach out** to us on twitter.
 
 ### Main features
 
@@ -37,7 +37,6 @@ If you have any other ideas please reach out.
 We do this in our spare time, because we enjoy giving back to the community. **Contribute** and get help or help others.
 {{% /notice %}}
 
-{{% notice info %}}
-**Contributors** - view all the contributors at the following link - **https://github.com/CloudFamily/CloudFamily/graphs/contributors**
-{{% /notice %}}
+View all our **contributors {{< open-in-blank "here" "https://github.com/CloudFamily/CloudFamily/graphs/contributors" >}}.**	
+
 

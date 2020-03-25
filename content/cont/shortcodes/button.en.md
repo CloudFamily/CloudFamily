@@ -1,6 +1,7 @@
 ---
 title: Button
 description : "Nice buttons on your page."
+sitemapExclude: true
 ---
 
 A button is a just a clickable button with optional icon.

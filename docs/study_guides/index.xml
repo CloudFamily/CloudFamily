@@ -17,14 +17,11 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/study_guides/azure/az-104/</guid>
-      <description>AZ-104  Last updated: 06/03/2020
- Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
- Skyline Academy:
-https://courses.skylinesacademy.com/p/az-100
-Scott Duffy:
-https://www.udemy.com/course/70533-azure/
- Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
- Administer infrastructure resources in Azure (12 Modules)</description>
+      <description>AZ-104  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.  Skyline Academy:
+https://courses.skylinesacademy.com/p/az-100 Scott Duffy:
+https://www.udemy.com/course/70533-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
+ Administer infrastructure resources in Azure (12 Modules)
+https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure Architect storage infrastructure in Azure (7 Modules)</description>
     </item>
     
     <item>
@@ -33,14 +30,12 @@ https://www.udemy.com/course/70533-azure/
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/study_guides/azure/az-303/</guid>
-      <description>AZ-303  Last updated: 16/03/2020
- Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
+      <description>AZ-303  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
  Skyline Academy:
-https://courses.skylinesacademy.com/p/microsoft-az-300-certification-azure-architect-technologies
-Scott Duffy:
-https://www.udemy.com/course/70534-azure/
- Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
-Architect great solutions in Azure</description>
+https://courses.skylinesacademy.com/p/microsoft-az-300-certification-azure-architect-technologies Scott Duffy:
+https://www.udemy.com/course/70534-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
+Architect great solutions in Azure
+https://docs.microsoft.com/learn/paths/architect-great-solutions-in-azure Architect network infrastructure in Azure</description>
     </item>
     
     <item>
@@ -52,10 +47,8 @@ Architect great solutions in Azure</description>
       <description>AZ-304  Last updated: 06/03/2020
  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.
  Skyline Academy:
-https://courses.skylinesacademy.com/p/az-301
-Scott Duffy:
-https://www.udemy.com/course/az301-azure/
- Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
+https://courses.skylinesacademy.com/p/az-301 Scott Duffy:
+https://www.udemy.com/course/az301-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
 Need links
  Exam registration page https://docs.</description>
     </item>

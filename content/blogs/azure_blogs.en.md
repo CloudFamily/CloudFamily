@@ -5,76 +5,117 @@ weight: 9
 chapter: true
 ---
 
-#### [Pixel Robots](https://pixelrobots.co.uk/) - A Blog about Microsoft Azure and Sysadmin stuff...
+#### {{< open-in-blank "Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff..." "https://pixelrobots.co.uk/" >}}
 ![Pixel Robots](/images/blogs/pixelrobots.PNG?width=50pc)
-
 ---
 
-#### [Gregor Suttie](https://gregorsuttie.com/) - Azure Greg
+#### {{< open-in-blank "Gregor Suttie - Azure Greg" "https://gregorsuttie.com/" >}}
 ![Gregor Suttie](/images/blogs/gregorsuttie.PNG?width=50pc)
 
 ---
 
-#### [Thomas Thornton](https://thomasthornton.cloud/) - Blogging all things Microsoft Azure
+#### {{< open-in-blank "Thomas Thornton - Blogging all things Microsoft Azure" "https://thomasthornton.cloud/" >}}
 ![Thomas Thornton](/images/blogs/thomasthornton.PNG?width=50pc)
 
 ---
 
-#### [Joe Carlyle](https://wedoazure.ie/) - WedoAzure
+#### {{< open-in-blank "Joe Carlyle - WedoAzure" "https://wedoazure.ie/" >}}
 ![Joe Carlyle](/images/blogs/wedoazure.PNG?width=50pc)
 
 ---
-
-#### [Sam Smith](https://samlearnsazure.blog/) - Learning and sharing Azure architecture tips with DevOps
+#### {{< open-in-blank "Sam Smith - Learning and sharing Azure architecture tips with DevOps" "https://samlearnsazure.blog/" >}}
 ![Sam Smith](/images/blogs/samsmith.PNG?width=50pc)
-
 
 ---
 
-#### [Dwayne Natwick](https://captainhyperscaler.com/) - The Journey To The Cloud Continues	�
+#### {{< open-in-blank "David O'Brien - Cloud For The Win!" "https://david-obrien.net" >}}
+![David O'Brien](/images/blogs/davidobrien.png?width=50pc)
+
+---
+#### {{< open-in-blank "Dwayne Natwick - The Journey To The Cloud Continues" "https://captainhyperscaler.com/" >}}
 ![Dwayne Natwick](/images/blogs/dwayne.PNG?width=50pc)
 
 ---
 
-#### [Chris Pietschmann](https://build5nines.com/) - Build5nines.com
+#### {{< open-in-blank "Chris Pietschmann - Build5nines.com" "https://build5nines.com/" >}}
 ![Chris Pietschmann](/images/blogs/build5nines.PNG?width=50pc)
 
 ---
 
-#### [Alan Kinane](https://azurealan.ie/) - Azure Alan
+#### {{< open-in-blank "Alan Kinane - Azure Alan" "https://azurealan.ie/" >}}
 ![Alan Kinane](/images/blogs/azurealan.PNG?width=50pc)
 
 ---
-
-#### [Jack Tracey](https://jacktracey.co.uk/) - Cloud and Networking
+#### {{< open-in-blank "Jack Tracey - Cloud and Networking" "https://jacktracey.co.uk/" >}}
 ![Jack Tracey](/images/blogs/jacktracey.PNG?width=50pc)
 
 ---
-
-#### [Vaibhav Gujral](https://vaibhavgujral.com/) - Cloud Architect
+#### {{< open-in-blank "Vaibhav Gujral - Cloud Architect" "https://vaibhavgujral.com/" >}}
 ![Vaibhav Gujral](/images/blogs/vaibhav.PNG?width=50pc)
 
 ---
-
-#### [Pete Gallagher](https://www.petecodes.co.uk/) - Pete Codes
+#### {{< open-in-blank "Pete Gallagher - Pete Codes" "https://www.petecodes.co.uk/" >}}
 ![Pete Gallagher](/images/blogs/petegallagher.PNG?width=50pc)
 
 ---
+#### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://theazureguy.wordpress.com/" >}}
+![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
 
+---
 #### [The Azure Guy](https://theazureguy.blog/) - Martyn Coupland
 ![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
 
 ---
-
-#### [Kirk Ryan](https://kirkryan.co.uk/) - A blog about advanced Azure data services
+#### {{< open-in-blank "Kirk Ryan - A blog about advanced Azure data services" "https://kirkryan.co.uk/" >}}
 ![Kirk Ryan](/images/blogs/kirkryan.PNG?width=50pc)
 
 ---
-
-#### [Adil Touati](https://atouati.com/) - Azure, DevOps and Kubernetes
+#### {{< open-in-blank "Adil Touati - Azure, DevOps and Kubernetes" "https://atouati.com/" >}}
 ![Adil Touati](/images/blogs/atouati.com.png?width=50pc)
 
 ---
-
-#### [Elan Shudnow](https://www.shudnow.net) - Azure Cloud
+#### {{< open-in-blank "Elan Shudnow - Azure Cloud" "https://www.shudnow.net" >}}
 ![Elan Shudnow](/images/blogs/ElanShudnow.jpg?width=50pc)
+
+---
+#### {{< open-in-blank "Sam Cogan - All things Azure and Cloud" "https://samcogan.com" >}}
+![Sam Cogan](/images/blogs/samcogan.png?width=50pc)
+
+---
+#### {{< open-in-blank "Thomas Maurer - Azure Cloud & Datacenter Blog by Microsoft Cloud Advocate" "https://www.thomasmaurer.ch" >}}
+![Thomas Maurer](/images/blogs/thomasmaurer.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Mark Scholman - Azure & Azure Stack blog" "https://markscholman.com/blog" >}}
+![Mark Scholman](/images/blogs/markscholman.png?width=50pc)
+
+---
+#### {{< open-in-blank "Azure Stack Community Blog" "https://azurestack.blog" >}}
+![AzureStack Blog](/images/blogs/azurestackblog.png?width=50pc)
+
+---
+#### {{< open-in-blank "Tobias Zimmergren's thoughts on tech" "https://zimmergren.net" >}}
+![Tobias Zimmergren's thoughts on tech](/images/blogs/cloudfamily-zimmergrenblog.jpg?width=50pc)
+
+---
+#### {{< open-in-blank "Mark Patton - Azure Cloud & DevOps" "https://markpatton.cloud" >}}
+![Mark Patton](/images/blogs/markpattonblog.png?width=50pc)
+
+---
+#### {{< open-in-blank "Vukašin Terzić - AzureIs.Fun" "https://azureis.fun" >}}
+![Vukasin Terzic](/images/blogs/vukasinterzicblog.png?width=50pc)
+
+---
+#### {{< open-in-blank "Sajeetharan Sinnathurai - Everything is going to be 200 ok" "https://sajeetharan.com/" >}}
+![Sajeetharan Sinnathurai](/images/blogs/sajeeblog.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "WikiAzure - Helping Professionals to increase the skills required to advance your career through Cloud and AI Technologies" "https://wikiazure.com/blog/" >}}
+![Dave Rendon](/images/blogs/wikiazure-daverendon.svg?width=50pc)
+
+---
+
+#### {{< open-in-blank "Hugo Barona - hugobarona.com" "https://www.hugobarona.com/" >}}
+![Hugo Barona](/images/blogs/hugobarona-com.PNG?width=50pc)
+
+---
