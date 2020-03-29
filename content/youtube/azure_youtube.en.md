@@ -23,6 +23,6 @@ A YouTube Channel from **MVP Mark Scholman** focussed on learning Azure Stack. A
 ---
 **{{< open-in-blank "WikiAzure" "https://www.youtube.com/channel/UCz1Dfbvqa7aG2YPlnKTwriQ/featured" >}}**
 
-A YouTube Channel from **WikiAzure** focused on learning Azure. Here you'll find the Azure products & solutions demos, and in-depth technical insights as well as training videos for Microsoft Azure.
+The **WikiAzure** YouTube channel. Here you'll find the Azure products & solutions demos, and in-depth technical insights as well as training videos for Microsoft Azure.
 
 ---
