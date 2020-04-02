@@ -2,7 +2,7 @@
 title: Virtual Events
 disableToc: true
 weight: 39
-chapter: false
+chapter: true
 ---
 
 #### {{< open-in-blank "Glasgow Azure User Group #18 - Wednesday 29th April - 6.30pm - 9:00pm" "https://www.eventbrite.co.uk/e/glasgow-azure-user-group-18-tickets-86103177923" >}}

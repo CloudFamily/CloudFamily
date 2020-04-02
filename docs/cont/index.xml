@@ -30,7 +30,7 @@ hugo new --kind chapter &amp;lt;name&amp;gt;/_index.</description>
       
       <guid>https://cloudfamily.info/cont/markdown/</guid>
       <description>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&amp;hellip;)
- Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</description>
     </item>
     
