@@ -28,3 +28,7 @@ The following are a list of **useful resources** we have came across, which will
   - **Azure Stack Hub / Edge - {{< open-in-blank "https://azurestack.blog/azurestackslack/" "https://azurestack.blog/azurestackslack/" >}}**
 + **Github**
   - **Learn Github Actions - {{< open-in-blank "https://lab.github.com/" "https://lab.github.com/" >}}**
++ **Azure Decision Trees**
+  - **Azure Load balancing - {{< open-in-blank "https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview" "https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview" >}}**
+  - **Azure Compute - {{< open-in-blank "https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree" "https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree" >}}**
+  - **Data Options in Azure - {{< open-in-blank "https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/data-options" "https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/data-options" >}}**
