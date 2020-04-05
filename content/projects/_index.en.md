@@ -33,5 +33,5 @@ This area is dedicated for community member to list their projects they have cre
 
 ---
 **{{< open-in-blank "Vukašin Terzić" "http://www.azuregames.fun" >}} - Azure Knowledge Games**
-![Vukasin Terzic](/images/projects/AzureGamesFun.PNG?width=50pc)
+![Vukasin Terzic](/images/projects/AzureGamesFun.png?width=50pc)
 
