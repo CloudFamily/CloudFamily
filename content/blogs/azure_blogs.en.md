@@ -58,10 +58,6 @@ chapter: true
 ![Pete Gallagher](/images/blogs/petegallagher.PNG?width=50pc)
 
 ---
-#### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://theazureguy.wordpress.com/" >}}
-![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
-
----
 #### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://theazureguy.blog/" >}}
 ![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
 
