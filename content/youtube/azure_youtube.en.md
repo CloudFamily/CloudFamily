@@ -21,3 +21,8 @@ A YouTube Channel from **MVP Sam Cogan** focussed on learning Azure. Includes th
 A YouTube Channel from **MVP Mark Scholman** focussed on learning Azure Stack. A collection of short videos working with the Azure Stack Family.
 
 ---
+**{{< open-in-blank "WikiAzure" "https://www.youtube.com/channel/UCz1Dfbvqa7aG2YPlnKTwriQ/featured" >}}**
+
+The **WikiAzure** YouTube channel. Here you'll find the Azure products & solutions demos, and in-depth technical insights as well as training videos for Microsoft Azure.
+
+---

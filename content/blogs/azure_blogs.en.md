@@ -62,6 +62,10 @@ chapter: true
 ![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
 
 ---
+#### [The Azure Guy](https://theazureguy.blog/) - Martyn Coupland
+![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
+
+---
 #### {{< open-in-blank "Kirk Ryan - A blog about advanced Azure data services" "https://kirkryan.co.uk/" >}}
 ![Kirk Ryan](/images/blogs/kirkryan.PNG?width=50pc)
 
@@ -103,4 +107,15 @@ chapter: true
 
 ---
 #### {{< open-in-blank "Sajeetharan Sinnathurai - Everything is going to be 200 ok" "https://sajeetharan.com/" >}}
-![Sajeetharan Sinnathurai](/images/blogs/vukasinterzicblog.png?width=50pc)
+![Sajeetharan Sinnathurai](/images/blogs/sajeeblog.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "WikiAzure - Helping Professionals to increase the skills required to advance your career through Cloud and AI Technologies" "https://wikiazure.com/blog/" >}}
+![Dave Rendon](/images/blogs/wikiazure-daverendon.svg?width=50pc)
+
+---
+
+#### {{< open-in-blank "Hugo Barona - hugobarona.com" "https://www.hugobarona.com/" >}}
+![Hugo Barona](/images/blogs/hugobarona-com.PNG?width=50pc)
+
+---

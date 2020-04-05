@@ -2,6 +2,7 @@
 date: 2016-04-09T16:50:16+02:00
 title: Menu extra shortcuts
 weight: 25
+sitemapExclude: true
 ---
 
 You can define additional menu entries or shortcuts in the navigation menu without any link to content.

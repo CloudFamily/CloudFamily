@@ -1,6 +1,7 @@
 ---
 title: Site param
 description : "Get value of site params variables in your page."
+sitemapExclude: true
 ---
 
 `siteparam` shortcode is used to help you print values of site params. 

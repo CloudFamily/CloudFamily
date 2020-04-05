@@ -23,3 +23,13 @@ Join **Scott Hanselman**, **Donovan Brown**, or **Lara Rubbelke** as they host t
 Welcome to the **Ctrl+Alt+Azure podcast**. We'll talk about all things Microsoft Azure, and share our experiences and thoughts on the way. Your co-hosts are **{{< open-in-blank "Tobias Zimmergren (Twitter)" "https://twitter.com/zimmergren" >}}** and **{{< open-in-blank "Jussi Roine (Twitter)" "https://twitter.com/jussiroine" >}}**.
 
 ---
+
+#### 🎙️ {{< open-in-blank "Azure Late Show" "https://azurelate.show/" >}}
+
+Welcome to the **Azure Late Show Podcast** where we talk about embracing tech intensity to build your own digital capabilities!
+
+The Azure Late Show Podcast will help you get the skills required to advance your career and stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies. If you want to be interviewed please DM **{{< open-in-blank "Dave Rendon" "https://twitter.com/daverndn" >}}**.
+
+**Suscribe at https://bit.ly/wikiazure-suscribe**
+
+---

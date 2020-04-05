@@ -89,7 +89,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudfamily.info/blogs/azure_blogs/</guid>
-      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud &amp;amp; Datacenter Blog by Microsoft Cloud Advocate  Mark Scholman - Azure &amp;amp; Azure Stack blog  Azure Stack Community Blog  Tobias Zimmergren&amp;#39;s thoughts on tech  Mark Patton - Azure Cloud &amp;amp; DevOps  Vukašin Terzić - AzureIs.</description>
+      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud &amp;amp; Datacenter Blog by Microsoft Cloud Advocate  Mark Scholman - Azure &amp;amp; Azure Stack blog  Azure Stack Community Blog  Tobias Zimmergren&amp;#39;s thoughts on tech  Mark Patton - Azure Cloud &amp;amp; DevOps  Vukašin Terzić - AzureIs.</description>
     </item>
     
     <item>
@@ -211,6 +211,17 @@ Example from the current website:
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+    <item>
+      <title>Sitemap</title>
+      <link>https://cloudfamily.info/cont/sitemap/</link>
+      <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
+      
+      <guid>https://cloudfamily.info/cont/sitemap/</guid>
+      <description>We should be careful about the references we include in the sitemap xml file, to avoid a high volume of pages included in the sitemap and consequently being indexed to Search Engines such as Google, Bing and more. Especially because we should mind about keeping the most relevant content in the top of the search engine index.
+Configuration Hugo by default indexes all pages to the sitemap.
+The proposal is just to include a parameter to the pages we want to exclude from sitemap.</description>
     </item>
     
     <item>
