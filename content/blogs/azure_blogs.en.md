@@ -115,3 +115,8 @@ chapter: true
 ![Hugo Barona](/images/blogs/hugobarona-com.PNG?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Create a Docker image in an Azure DevOps Pipeline" "https://www.clouddev.engineering/deploying-a-container-in-an-azure-devops-pipeline/" >}}
+![Michael Levan](/images/blogs/michael-levan.PNG?width=50pc)
+
+---

@@ -26,3 +26,9 @@ A YouTube Channel from **MVP Mark Scholman** focussed on learning Azure Stack. A
 The **WikiAzure** YouTube channel. Here you'll find the Azure products & solutions demos, and in-depth technical insights as well as training videos for Microsoft Azure.
 
 ---
+
+**{{< open-in-blank "Create a vNet with AZ CLI" "https://www.youtube.com/watch?v=IWmrUe38icU" >}}**
+
+A YouTube Channel from **Michael Levan** focussed on DevOps content in Azure. Here you'll find content ranging from development, containerization, orchestration, infrastructure-as-code, and many more topics!
+
+---
