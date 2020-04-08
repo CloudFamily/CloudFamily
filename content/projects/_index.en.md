@@ -35,3 +35,6 @@ This area is dedicated for community member to list their projects they have cre
 **{{< open-in-blank "Vukašin Terzić" "http://www.azuregames.fun" >}} - Azure Knowledge Games**
 ![Vukasin Terzic](/images/projects/AzureGamesFun.png?width=50pc)
 
+---
+**{{< open-in-blank "Jamie Maguire" "https://github.com/jamiemaguiredotnet/instagram-playground" >}} - This API lets developers connect to and consume the instagram graph api with C#**
+![Jamie Maguire](/images/projects/instagramplayground.PNG?width=50pc)
