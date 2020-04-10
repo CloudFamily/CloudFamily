@@ -22,7 +22,7 @@ You can do this by using **#CloudFamily** to help promote what you feel is aweso
 
 You can also **contribute** to this site and the **{{< open-in-blank "YouTube channel" "https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w" >}}.**
 
-**Join our {{< open-in-blank "Slack channel" "https://bit.ly/2UVhykt" >}}.**
+**Join our {{< open-in-blank "Slack channel" "https://join.slack.com/t/azurecommunitygroup/shared_invite/zt-dd0eke2u-BrrqsGmFRXf2dje3pS2fIA" >}}.**
 
 If you have any other ideas **please reach out** to us on twitter.
 
