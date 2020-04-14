@@ -120,3 +120,13 @@ chapter: true
 ![Michael Levan](/images/blogs/michael-levan.PNG?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Mert Yeter's Blog" "https://www.mshowto.org/" >}}
+![Mert Yeter](/images/blogs/mertyeter.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Peter Rising - Travelling the world of Microsoft 365" "https://www.peterrising.co.uk/" >}}
+![Peter Rising](/images/blogs/peterrising.PNG?width=50pc)
+
+---
