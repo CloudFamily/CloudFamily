@@ -121,7 +121,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "Mert Yeter's Blog" "https://www.mshowto.org/" >}}
+#### {{< open-in-blank "MSHOWTO" "https://www.mshowto.org/" >}}
 ![Mert Yeter](/images/blogs/mertyeter.PNG?width=50pc)
 
 ---
