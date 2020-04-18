@@ -130,3 +130,7 @@ chapter: true
 ![Peter Rising](/images/blogs/peterrising.PNG?width=50pc)
 
 ---
+#### {{< open-in-blank "Coen Adrien van Driel - On Azure Cloud & DevOps" "https://www.adrienvandriel.com" >}}
+![Coen Adrien van Driel](/images/blogs/adrienvandrielcom.PNG?width=50pc)
+
+---
