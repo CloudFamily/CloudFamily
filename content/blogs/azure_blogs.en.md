@@ -131,6 +131,6 @@ chapter: true
 
 ---
 #### {{< open-in-blank "Coen Adrien van Driel - On Azure Cloud & DevOps" "https://www.adrienvandriel.com" >}}
-![Coen Adrien van Driel](/images/blogs/adrienvandrielcom.PNG?width=50pc)
+![Coen Adrien van Driel](/images/blogs/adrienvandrielcom.JPG?width=50pc)
 
 ---
