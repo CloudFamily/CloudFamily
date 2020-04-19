@@ -20,6 +20,11 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #03: Speaker Diversity Analytics with the AI Face API - Friday 17th April - 5.00pm - 6:00pm UTC" "https://www.youtube.com/watch?v=elapuJr5aaM" >}}
+![msHOWTO Live!](/images/events/mshowto-live-03.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "Glasgow Azure User Group #18 - Wednesday 29th April - 6.30pm - 9:00pm" "https://www.eventbrite.co.uk/e/glasgow-azure-user-group-18-tickets-86103177923" >}}
 ![Glasgow Azure User Group](/images/events/glasgow.png?width=50pc)
 
