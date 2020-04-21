@@ -25,7 +25,7 @@
 	"title": "Cloud Family",
 	"tags": [],
 	"description": "",
-	"content": "Cloud Family Below you will find members of the Cloud Family. Make sure you are following them on Twitter. If you would like to be listed here please create a pull request and add yourself in!\n\r           Richard Hooper - @Pixel_robots  David O\u0026rsquo;Brien - @david_obrien  Gregor_Suttie - @Gregor_Suttie    Isidora Katanic - @IsidoraKatanic  Elan Shudnow - @ElanShudnow  Sarah Lean - @TechieLass    Billy York - @SCAutomation  Ryan Yates - @ryanyates1990  Wim Matthyssen - @wmatthyssen    Sam Cogan - @samcogan  Karel De Winter - @kareldewinter  Alan Kinane - @azure_alan    Mithun Shanbhag - @MithunShanbhag  Kirk Ryan - @kirk__ryan  Jamie Maguire - @jamie_maguire1    Chris Pottrell - @ChrisPottrell  Pete Gallagher - @pete_codes  Nick Colyer - @vNickC    Dwayne Natwick - @DwayneNcloud  Christoph Vollmann - @CloudChristoph  Adil Touati - @adiltouati    Veronique Lengelle - @Veronicageek  @zimmergren  Jack Tracey - @Jack_Ref    Mark Patton - @Mark_D_Patton  Hugo Barona - @HmsBarona  Sean McDonnell - @MrSeanMcD    Sajeetharan Sinnathurai - @kokkisajee  Vukasin Terzic - @MrTerzic  Mert Yeter - @m3rtyeter    Dave Rendon - @DaveRndn  This Could Be You! - @This could be you  Michael_Levan - @TheNJDevOpsGuy    This Could Be You! - @This could be you  Peter Rising - @grumpyitbloke  This Could Be You! - @This could be you    Join the Slack Channel, or get in touch using #CloudFamily and you can join the Cloud Family community today!.\n"
+	"content": "Cloud Family Below you will find members of the Cloud Family. Make sure you are following them on Twitter. If you would like to be listed here please create a pull request and add yourself in!\n\r           Richard Hooper - @Pixel_robots  David O\u0026rsquo;Brien - @david_obrien  Gregor_Suttie - @Gregor_Suttie    Isidora Katanic - @IsidoraKatanic  Elan Shudnow - @ElanShudnow  Sarah Lean - @TechieLass    Billy York - @SCAutomation  Ryan Yates - @ryanyates1990  Wim Matthyssen - @wmatthyssen    Sam Cogan - @samcogan  Karel De Winter - @kareldewinter  Alan Kinane - @azure_alan    Mithun Shanbhag - @MithunShanbhag  Kirk Ryan - @kirk__ryan  Jamie Maguire - @jamie_maguire1    Chris Pottrell - @ChrisPottrell  Pete Gallagher - @pete_codes  Nick Colyer - @vNickC    Dwayne Natwick - @DwayneNcloud  Christoph Vollmann - @CloudChristoph  Adil Touati - @adiltouati    Veronique Lengelle - @Veronicageek  @zimmergren  Jack Tracey - @Jack_Ref    Mark Patton - @Mark_D_Patton  Hugo Barona - @HmsBarona  Sean McDonnell - @MrSeanMcD    Sajeetharan Sinnathurai - @kokkisajee  Vukasin Terzic - @MrTerzic  Mert Yeter - @m3rtyeter    Dave Rendon - @DaveRndn  Alicia Moniz - @aliciamoniz  Brian Christner - @idomyowntricks    This Could Be You! - @This could be you  Peter Rising - @grumpyitbloke  This Could Be You! - @This could be you    Join the Slack Channel, or get in touch using #CloudFamily and you can join the Cloud Family community today!.\n"
 },
 {
 	"uri": "https://cloudfamily.info/cloud_champions/",
@@ -96,6 +96,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Podcasts Here you will find a collection of podcasts that we believe you will find useful. Feel free to create a pull request to add yours.\n\r Azure Podcasts  "
+},
+{
+	"uri": "https://cloudfamily.info/twitter/",
+	"title": "Twitter",
+	"tags": [],
+	"description": "",
+	"content": "\rHere you will find a collection of #CloudFamily tweets.\n\r\rTweets by cloud\r \r"
 },
 {
 	"uri": "https://cloudfamily.info/youtube/",
