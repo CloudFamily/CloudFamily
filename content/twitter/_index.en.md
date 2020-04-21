@@ -9,6 +9,4 @@ chapter: true
 Here you will find a collection of #CloudFamily tweets.
 {{% /notice %}}
 
-{{< rawhtml >}}
-
 + {{< open-in-blank "Latest Tweets" "https://twitter.com/hashtag/cloudfamily?f=live" >}}
