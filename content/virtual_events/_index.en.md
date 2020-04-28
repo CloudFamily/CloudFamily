@@ -37,4 +37,12 @@ chapter: true
 
 #### {{< open-in-blank "UK Azure User Group - Mastering Azure Monitor - Wednesday 22nd April - 7pm - 8:30pm" "https://www.meetup.com/UKAzureUserGroup/events/269728454/" >}}
 ![UK Azure User Group](/images/events/ukazure.png?width=50pc)
+
+---
+
+
+---
+
+[Archived Virtual Events](/content/virtual_events/archived_virtual_events.md)
+
 ---
