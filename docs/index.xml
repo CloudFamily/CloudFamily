@@ -26,7 +26,8 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/may2020/</guid>
-      <description></description>
+      <description>Vaibhav Gujral - @vabgujral    About Vaibhav Gujral is a seasoned cloud architect with close to 14 years of experience in designing enterprise-class applications. Born and brought up in India, he completed his Bachelor of Engineering degree in 2006 after which he started his career with Infosys as a software engineer.
+The first breakthrough in his career came in the year 2010 when he got an opportunity to work closely with Microsoft product teams to onboard new customers onto Microsoft Azure (it was Windows Azure back then).</description>
     </item>
     
     <item>
@@ -211,6 +212,17 @@ Example from the current website:
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+    <item>
+      <title>Archived Virtual Events</title>
+      <link>https://cloudfamily.info/virtual_events/archived_virtual_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/virtual_events/archived_virtual_events/</guid>
+      <description>Virtual Events
+ Glasgow Azure User Group #18 - Wednesday 29th April - 6.30pm - 9:00pm  UK Azure User Group - Mastering Azure Monitor - Wednesday 22nd April - 7pm - 8:30pm  Virtual Events
+ </description>
     </item>
     
     <item>
