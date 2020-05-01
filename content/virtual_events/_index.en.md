@@ -46,7 +46,6 @@ chapter: true
 ---
 
 
----
 
 [Archived Virtual Events](/content/virtual_events/archived_virtual_events.md)
 
