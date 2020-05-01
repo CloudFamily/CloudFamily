@@ -17,7 +17,7 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/april2020/</guid>
-      <description></description>
+      <description>Isidora Katanic - @IsidoraKatanic    About Isidora Katanic is born in former-Yugoslavia, grew up in the Netherlands since the early 90&amp;rsquo;s and moved to Switzerland in 2017. She is on the Management Board at the Swiss IT firm make it noble and the co-founder of the event management company districtUP, organizing IT community conferences like Experts Live Europe and Experts Live Switzerland.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/may2020/</guid>
-      <description></description>
+      <description>Vaibhav Gujral - @vabgujral    About Vaibhav Gujral is a seasoned cloud architect with close to 14 years of experience in designing enterprise-class applications. Born and brought up in India, he completed his Bachelor of Engineering degree in 2006 after which he started his career with Infosys as a software engineer. The first breakthrough in his career came in the year 2010 when he got an opportunity to work closely with Microsoft product teams to onboard new customers onto Microsoft Azure (it was Windows Azure back then).</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudfamily.info/blogs/azure_blogs/</guid>
-      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud &amp;amp; Datacenter Blog by Microsoft Cloud Advocate  Mark Scholman - Azure &amp;amp; Azure Stack blog  Azure Stack Community Blog  Tobias Zimmergren&amp;#39;s thoughts on tech  Mark Patton - Azure Cloud &amp;amp; DevOps  Vukašin Terzić - AzureIs.</description>
+      <description>Pixel Robots - A Blog about Microsoft Azure and Sysadmin stuff...  Gregor Suttie - Azure Greg  Thomas Thornton - Blogging all things Microsoft Azure  Joe Carlyle - WedoAzure  Sam Smith - Learning and sharing Azure architecture tips with DevOps  David O&amp;#39;Brien - Cloud For The Win!  Dwayne Natwick - The Journey To The Cloud Continues  Chris Pietschmann - Build5nines.com  Alan Kinane - Azure Alan  Jack Tracey - Cloud and Networking  Vaibhav Gujral - Cloud Architect  Pete Gallagher - Pete Codes  The Azure Guy - Martyn Coupland  Kirk Ryan - A blog about advanced Azure data services  Adil Touati - Azure, DevOps and Kubernetes  Elan Shudnow - Azure Cloud  Sam Cogan - All things Azure and Cloud  Thomas Maurer - Azure Cloud &amp;amp; Datacenter Blog by Microsoft Cloud Advocate  Mark Scholman - Azure &amp;amp; Azure Stack blog  Azure Stack Community Blog  Tobias Zimmergren&amp;#39;s thoughts on tech  Mark Patton - Azure Cloud &amp;amp; DevOps  Vukašin Terzić - AzureIs.</description>
     </item>
     
     <item>
@@ -155,7 +155,7 @@ Markdown is a better way to write HTML, without all the complexities and uglines
       
       <guid>https://cloudfamily.info/study_guides/azure/az-104/</guid>
       <description>AZ-104  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.  Skyline Academy:
-https://courses.skylinesacademy.com/p/az-100 Scott Duffy:
+https://courses.skylinesacademy.com/p/az-104 Scott Duffy:
 https://www.udemy.com/course/70533-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
  Administer infrastructure resources in Azure (12 Modules)
 https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure Architect storage infrastructure in Azure (7 Modules)</description>
@@ -211,6 +211,17 @@ Example from the current website:
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+    <item>
+      <title>Archived Virtual Events</title>
+      <link>https://cloudfamily.info/virtual_events/archived_virtual_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/virtual_events/archived_virtual_events/</guid>
+      <description>Virtual Events
+ Glasgow Azure User Group #18 - Wednesday 29th April - 6.30pm - 9:00pm  UK Azure User Group - Mastering Azure Monitor - Wednesday 22nd April - 7pm - 8:30pm  Virtual Events
+ </description>
     </item>
     
     <item>

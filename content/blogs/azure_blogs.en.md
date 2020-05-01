@@ -58,12 +58,8 @@ chapter: true
 ![Pete Gallagher](/images/blogs/petegallagher.PNG?width=50pc)
 
 ---
-#### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://theazureguy.wordpress.com/" >}}
+#### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://theazureguy.blog/" >}}
 ![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
-
----
-#### [The Azure Guy](https://theazureguy.blog/) - Martyn Coupland
-![The Azure Guy](/images/blogs/theazureguy.PNG?width=50pc)
 
 ---
 #### {{< open-in-blank "Kirk Ryan - A blog about advanced Azure data services" "https://kirkryan.co.uk/" >}}
@@ -119,3 +115,21 @@ chapter: true
 ![Hugo Barona](/images/blogs/hugobarona-com.PNG?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Create a Docker image in an Azure DevOps Pipeline" "https://www.clouddev.engineering/deploying-a-container-in-an-azure-devops-pipeline/" >}}
+![Michael Levan](/images/blogs/michael-levan.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "MSHOWTO" "https://www.mshowto.org/" >}}
+![Mert Yeter](/images/blogs/mertyeter.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Peter Rising - Travelling the world of Microsoft 365" "https://www.peterrising.co.uk/" >}}
+![Peter Rising](/images/blogs/peterrising.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Coen Adrien van Driel - On Azure Cloud & DevOps" "https://www.adrienvandriel.com" >}}
+![Coen Adrien van Driel](/images/blogs/adrienvandrielcom.JPG?width=50pc)
+
