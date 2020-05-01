@@ -6,7 +6,7 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Cloud Lunch and Learn Sessions | Becoming a Certified Azure Developer Associate by Dwayne Natwick - Monday 4th May - 12:00 pm - 1:00 pm GMT" "https://hugobarona.github.io/Cloud-Lunch-and-Learn/" >}}
-![Cloud Lunch and Learn Sessions](/images/events/glasgow.png?width=50pc)
+![Cloud Lunch and Learn Sessions](/images/events/Session_04-05-2020_DwayneNatwick.PNG?width=50pc)
 
 ---
 
