@@ -135,5 +135,5 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "Wim Matthyssen - MY JOURNEY WITH THE MICROSOFT HYBRID CLOUD" "hhttps://wmatthyssen.com" >}}
+#### {{< open-in-blank "Wim Matthyssen - My Journey With The Microsoft Hybrid Cloud" "hhttps://wmatthyssen.com" >}}
 ![Wim Matthyssen](/images/blogs/Wim.png?width=50pc)
