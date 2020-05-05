@@ -243,7 +243,7 @@ The proposal is just to include a parameter to the pages we want to exclude from
       <guid>https://cloudfamily.info/cont/tags/</guid>
       <description>Learn theme support one default taxonomy of gohugo: the tag feature.
 Configuration Just add tags to any page:
---- date: 2018-11-29T08:41:44+01:00 title: Theme tutorial weight: 15 tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] --- Behavior The tags are displayed at the top of the page, in their insertion order.
+---date: 2018-11-29T08:41:44+01:00title: Theme tutorialweight: 15tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] ---Behavior The tags are displayed at the top of the page, in their insertion order.
 Each tag is a link to a Taxonomy page displaying all the articles with the given tag.
 List all the tags In the config.toml file you can add a shortcut to display all the tags</description>
     </item>
@@ -334,7 +334,7 @@ A tip disclaimer
       
       <guid>https://cloudfamily.info/cont/shortcodes/openinnewtab/</guid>
       <description>You can use this shortcode to open a link in a new tab.
-link Name link Name </description>
+link Namelink Name </description>
     </item>
     
     <item>
@@ -374,7 +374,7 @@ This is raw HTML, inside Markdown.
       <guid>https://cloudfamily.info/cont/shortcodes/siteparam/</guid>
       <description>siteparam shortcode is used to help you print values of site params.
 For instance, in this current site, the editURL variable is used in config.toml
-[params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.
+[params]editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34;Use the siteparam shortcode to display its value.
 `editURL` Value : {{% siteparam &amp;quot;editURL&amp;quot; %}}is displayed as
 editURL Value : https://github.com/CloudFamily/CloudFamily/tree/master/content/</description>
     </item>
