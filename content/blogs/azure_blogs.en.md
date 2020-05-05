@@ -133,3 +133,7 @@ chapter: true
 #### {{< open-in-blank "Coen Adrien van Driel - On Azure Cloud & DevOps" "https://www.adrienvandriel.com" >}}
 ![Coen Adrien van Driel](/images/blogs/adrienvandrielcom.JPG?width=50pc)
 
+---
+
+#### {{< open-in-blank "Wim Matthyssen - MY JOURNEY WITH THE MICROSOFT HYBRID CLOUD" "hhttps://wmatthyssen.com" >}}
+![Wim Matthyssen](/images/blogs/Wim.png?width=50pc)
