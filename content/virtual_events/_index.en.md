@@ -15,7 +15,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #05: IoT and DevOps - Tuesday 5th May - 4.00pm - 5:00pm UTC" "https://bit.ly/3bwelxJ" >}}
+#### {{< open-in-blank "msHOWTO Live! #05: IoT and DevOps - Tuesday 5th May - 4.00pm - 5:00pm UTC" "https://youtu.be/exL4ZEosFCw" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-05.png?width=50pc)
 
 ---
