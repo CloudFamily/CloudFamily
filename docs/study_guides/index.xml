@@ -53,5 +53,17 @@ Need links
  Exam registration page https://docs.</description>
     </item>
     
+    <item>
+      <title>DP-300 - Administering Relational Databases on Microsoft Azure</title>
+      <link>https://cloudfamily.info/study_guides/azure/dp-300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/study_guides/azure/dp-300/</guid>
+      <description>DP-300 Exam Resources Study Guide  Plan and Implement Data Platform Resources (15-20%)
+Deploy resources by using manual methods
+ deploy database offerings on selected platforms - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas configure customized deployment templates - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database apply patches and updates for hybrid and IaaS deployment - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching  Recommend an appropriate database offering based on specific requirements
+ evaluate requirements for the deployment evaluate the functional benefits/impact of possible database offerings evaluate the scalability of the possible database offering evaluate the HA/DR of the possible database offering evaluate the security aspects of the possible database offering  Configure resources for scale and performance</description>
+    </item>
+    
   </channel>
 </rss>
