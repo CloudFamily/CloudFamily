@@ -25,7 +25,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #06: Azure DevOps For Ops without Dev - Tuesday 12th May - 4.00pm - 5:00pm UTC" "https://bit.ly/2Vf7PFP" >}}
+#### {{< open-in-blank "msHOWTO Live! #06: Azure DevOps For Ops without Dev - Tuesday 12th May - 4.00pm - 5:00pm UTC" "https://www.youtube.com/watch?v=gbbJdoBfbPs" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-06.png?width=50pc)
 
 ---
