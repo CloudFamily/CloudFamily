@@ -25,7 +25,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://bit.ly/2xDD30z" >}}
+#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://youtu.be/w-9RAMLkO00" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-07.png?width=50pc)
 
 ---
