@@ -5,11 +5,6 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #11: Discussions with Developers Doing Big Things - Wednesday 3rd June - 3.00pm - 4:00pm UTC" "https://bit.ly/2zWGujs" >}}
-![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
-
----
-
 #### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://bit.ly/34KeuLn" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
 
@@ -25,7 +20,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://bit.ly/2xDD30z" >}}
+#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://youtu.be/w-9RAMLkO00" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-07.png?width=50pc)
 
 ---
