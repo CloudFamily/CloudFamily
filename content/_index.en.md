@@ -5,6 +5,10 @@ title: "Cloud Family"
 
 ![Cloud Family Logo](/images/CloudFamilyLogonewsmaller.png)
 
+{{< rawhtml >}}
+<a href="https://twitter.com/intent/tweet?button_hashtag=CloudFamily&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-show-count="false">Tweet #CloudFamily</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< /rawhtml >}}
+
 #### Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, we are here to help grow the **Azure Community**.
 
 
@@ -22,7 +26,7 @@ You can do this by using **#CloudFamily** to help promote what you feel is aweso
 
 You can also **contribute** to this site and the **{{< open-in-blank "YouTube channel" "https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w" >}}.**
 
-**Join our {{< open-in-blank "Slack channel" "http://bit.ly/2vrvoRV" >}}.**
+**Join our {{< open-in-blank "Slack channel" "https://join.slack.com/t/azurecommunitygroup/shared_invite/zt-dd0eke2u-BrrqsGmFRXf2dje3pS2fIA" >}}.**
 
 If you have any other ideas **please reach out** to us on twitter.
 

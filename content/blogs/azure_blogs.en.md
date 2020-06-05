@@ -116,6 +116,30 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "Create a Docker image in an Azure DevOps Pipeline" "https://www.clouddev.engineering/deploying-a-container-in-an-azure-devops-pipeline/" >}}
+![Michael Levan](/images/blogs/michael-levan.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "MSHOWTO" "https://www.mshowto.org/" >}}
+![Mert Yeter](/images/blogs/mertyeter.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Peter Rising - Travelling the world of Microsoft 365" "https://www.peterrising.co.uk/" >}}
+![Peter Rising](/images/blogs/peterrising.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Coen Adrien van Driel - On Azure Cloud & DevOps" "https://www.adrienvandriel.com" >}}
+![Coen Adrien van Driel](/images/blogs/adrienvandrielcom.JPG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Wim Matthyssen - My Journey With The Microsoft Hybrid Cloud" "https://wmatthyssen.com" >}}
+![Wim Matthyssen](/images/blogs/Wim.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "Simon Waight - blog.siliconvalve.com" "https://blog.siliconvalve.com/" >}}
 ![Simon Waight](/images/blogs/siliconvalve.PNG?width=50pc)
 

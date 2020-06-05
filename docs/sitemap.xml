@@ -60,7 +60,11 @@
   </url>
   
   <url>
-    <loc>https://cloudfamily.info/podcasts/</loc>
+    <loc>https://cloudfamily.info/projects/podcasts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cloudfamily.info/twitter/</loc>
   </url>
   
   <url>
@@ -82,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://cloudfamily.info/podcasts/azure_podcasts/</loc>
+    <loc>https://cloudfamily.info/projects/podcasts/azure_podcasts/</loc>
   </url>
   
   <url>
@@ -113,8 +117,16 @@
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/study_guides/azure/dp-300/</loc>
+  </url>
   
   
+  
+  
+  <url>
+    <loc>https://cloudfamily.info/virtual_events/archived_virtual_events/</loc>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/virtual_events/</loc>

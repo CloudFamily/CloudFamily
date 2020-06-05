@@ -18,7 +18,7 @@
       
       <guid>https://cloudfamily.info/study_guides/azure/az-104/</guid>
       <description>AZ-104  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.  Skyline Academy:
-https://courses.skylinesacademy.com/p/az-100 Scott Duffy:
+https://courses.skylinesacademy.com/p/az-104 Scott Duffy:
 https://www.udemy.com/course/70533-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
  Administer infrastructure resources in Azure (12 Modules)
 https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure Architect storage infrastructure in Azure (7 Modules)</description>
@@ -51,6 +51,18 @@ https://courses.skylinesacademy.com/p/az-301 Scott Duffy:
 https://www.udemy.com/course/az301-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
 Need links
  Exam registration page https://docs.</description>
+    </item>
+    
+    <item>
+      <title>DP-300 - Administering Relational Databases on Microsoft Azure</title>
+      <link>https://cloudfamily.info/study_guides/azure/dp-300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/study_guides/azure/dp-300/</guid>
+      <description>DP-300 Exam Resources Study Guide  Plan and Implement Data Platform Resources (15-20%)
+Deploy resources by using manual methods
+ deploy database offerings on selected platforms - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas configure customized deployment templates - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database apply patches and updates for hybrid and IaaS deployment - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching  Recommend an appropriate database offering based on specific requirements
+ evaluate requirements for the deployment evaluate the functional benefits/impact of possible database offerings evaluate the scalability of the possible database offering evaluate the HA/DR of the possible database offering evaluate the security aspects of the possible database offering  Configure resources for scale and performance</description>
     </item>
     
   </channel>

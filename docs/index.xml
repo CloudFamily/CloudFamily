@@ -17,7 +17,7 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/april2020/</guid>
-      <description></description>
+      <description>Isidora Katanic - @IsidoraKatanic    About Isidora Katanic is born in former-Yugoslavia, grew up in the Netherlands since the early 90&amp;rsquo;s and moved to Switzerland in 2017. She is on the Management Board at the Swiss IT firm make it noble and the co-founder of the event management company districtUP, organizing IT community conferences like Experts Live Europe and Experts Live Switzerland.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/may2020/</guid>
-      <description></description>
+      <description>Vaibhav Gujral - @vabgujral    About Vaibhav Gujral is a seasoned cloud architect with close to 14 years of experience in designing enterprise-class applications. Born and brought up in India, he completed his Bachelor of Engineering degree in 2006 after which he started his career with Infosys as a software engineer. The first breakthrough in his career came in the year 2010 when he got an opportunity to work closely with Microsoft product teams to onboard new customers onto Microsoft Azure (it was Windows Azure back then).</description>
     </item>
     
     <item>
@@ -35,7 +35,8 @@
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/june2020/</guid>
-      <description></description>
+      <description>Lisa Clark - @lisaattheedge    About Lisa Clark lives in Dundee, Scotland with her Maine Coon Kizzi and works for Dell Technologies.
+Lisa is a Business Development Strategist for EMEA focussed on the Azure Stack portfolio. Lisa works with Microsoft, Speciality sales teams within Dell and SME&amp;rsquo;s to bring the right people together to in order to support customers in realising their Microsoft Hybrid Cloud goals.</description>
     </item>
     
     <item>
@@ -94,10 +95,10 @@
     
     <item>
       <title>Azure Podcasts</title>
-      <link>https://cloudfamily.info/podcasts/azure_podcasts/</link>
+      <link>https://cloudfamily.info/projects/podcasts/azure_podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudfamily.info/podcasts/azure_podcasts/</guid>
+      <guid>https://cloudfamily.info/projects/podcasts/azure_podcasts/</guid>
       <description>Cloudskills.fm CloudSkills.fm is a weekly podcast with technical tips and career advice for people working with cloud-native technologies. This show is for developers, IT pros, or anyone making a career move into the cloud. Episodes will be short and to the point and will regularly feature experts who share their experiences.
 This show is hosted by Mike Pfeiffer, a twenty-year tech industry veteran, entrepreneur, Pluralsight author, and Microsoft Azure MVP. If you enjoy the show and want more tips delivered to your mailbox every week, subscribe to CloudSkills Weekly at https://cloudskills.</description>
     </item>
@@ -155,7 +156,7 @@ Markdown is a better way to write HTML, without all the complexities and uglines
       
       <guid>https://cloudfamily.info/study_guides/azure/az-104/</guid>
       <description>AZ-104  Links you may find useful Here is a list of links that you might find useful when studying for your Azure exams. Feel free to create a pull request to add more.  Skyline Academy:
-https://courses.skylinesacademy.com/p/az-100 Scott Duffy:
+https://courses.skylinesacademy.com/p/az-104 Scott Duffy:
 https://www.udemy.com/course/70533-azure/  Microsoft Learn Resources Below you will find a list of free resources from Microsoft on their Microsoft Learn site.
  Administer infrastructure resources in Azure (12 Modules)
 https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure Architect storage infrastructure in Azure (7 Modules)</description>
@@ -191,6 +192,18 @@ Need links
     </item>
     
     <item>
+      <title>DP-300 - Administering Relational Databases on Microsoft Azure</title>
+      <link>https://cloudfamily.info/study_guides/azure/dp-300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/study_guides/azure/dp-300/</guid>
+      <description>DP-300 Exam Resources Study Guide  Plan and Implement Data Platform Resources (15-20%)
+Deploy resources by using manual methods
+ deploy database offerings on selected platforms - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas configure customized deployment templates - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database apply patches and updates for hybrid and IaaS deployment - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching  Recommend an appropriate database offering based on specific requirements
+ evaluate requirements for the deployment evaluate the functional benefits/impact of possible database offerings evaluate the scalability of the possible database offering evaluate the HA/DR of the possible database offering evaluate the security aspects of the possible database offering  Configure resources for scale and performance</description>
+    </item>
+    
+    <item>
       <title>Menu extra shortcuts</title>
       <link>https://cloudfamily.info/cont/menushortcuts/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
@@ -211,6 +224,17 @@ Example from the current website:
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+    <item>
+      <title>Archived Virtual Events</title>
+      <link>https://cloudfamily.info/virtual_events/archived_virtual_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudfamily.info/virtual_events/archived_virtual_events/</guid>
+      <description>Virtual Events
+ Glasgow Azure User Group #18 - Wednesday 29th April - 6.30pm - 9:00pm  UK Azure User Group - Mastering Azure Monitor - Wednesday 22nd April - 7pm - 8:30pm  Virtual Events
+ </description>
     </item>
     
     <item>
