@@ -33,3 +33,21 @@ The Azure Late Show Podcast will help you get the skills required to advance you
 **Suscribe at https://bit.ly/wikiazure-suscribe**
 
 ---
+#### 🎙️ {{< open-in-blank "Tech Interviews" "https://podcast.techstringy.com" >}}
+
+Welcome to the **Tech Interviews** podcast.
+
+For the very latest in business focussed tech. We chat with tech community leaders on wide range of topics from containers to cloud, from data to DevOps, you can find them all here! Enjoy the show and if you do, tell your friends! If you want to be interviewed please DM **{{< open-in-blank "Paul Stringfellow" "https://twitter.com/techstringy" >}}**.
+
+**Suscribe at **https://podcast.techstringy.com**
+
+---
+#### 🎙️ {{< open-in-blank Lisa at the Edge" "https://anchor.fm/lisaattheedge" >}}
+
+Hello and welcome to **Lisa at The Edge**!
+
+You'll find all kinds of interesting topics here as I speak to amazing people from across the tech community.  This podcast will cover a range of topics, I'm not ruling anything out just yet but there will be a heavy focus on Careers in Tech and Microsoft Hybrid Cloud. If you want to be interviewed please DM **{{< open-in-blank Lisa" "https://twitter.com/lisaattheedge" >}}**.
+
+**Suscribe at **https://anchor.fm/lisaattheedge**
+
+---

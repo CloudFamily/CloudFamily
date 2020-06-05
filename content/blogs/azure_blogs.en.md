@@ -137,3 +137,37 @@ chapter: true
 
 #### {{< open-in-blank "Wim Matthyssen - My Journey With The Microsoft Hybrid Cloud" "https://wmatthyssen.com" >}}
 ![Wim Matthyssen](/images/blogs/Wim.png?width=50pc)
+
+---
+#### {{< open-in-blank "Sarah Lean - Techielass" "https://www.techielass.com" >}}
+![Sarah Lean](/images/blogs/techielass.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "ITOpsTalk" "https://www.itopstalk.com" >}}
+![ITOpsTalk](/images/blogs/itopstalk.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Sonia Cuff" "https://www.soniacuff.com" >}}
+![Sonia Cuff](/images/blogs/soniacuff.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Exchange Goddes" "https://www.exchangegoddess.com" >}}
+![Exchange Goddess](/images/blogs/exchangegoddess.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "24x7ITConnection" "https://24x7itconnection.com/" >}}
+![24x7ITConnection](/images/blogs/24x7itconnection.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Lisa at the Edge" "https://lisaattheedge.com/blog/" >}}
+![Lisa at the Edge](/images/blogs/lisaattheedge.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "Carole Logan" "https://carolelogan.net/blog" >}}
+![Carole Logan](/images/blogs/carolelogan.PNG?width=50pc)
+
+---
+#### {{< open-in-blank "April Edwards" "https://azapril.dev/" >}}
+![April Edwards](/images/blogs/azapril.PNG?width=50pc)
+
+---
