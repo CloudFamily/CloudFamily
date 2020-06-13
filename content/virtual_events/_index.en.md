@@ -5,7 +5,7 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://bit.ly/34KeuLn" >}}
+#### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
 
 ---
@@ -15,7 +15,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #08: Build Web Apps with Angular - Wednesday 20th May - 4.00pm - 5:00pm UTC" "https://bit.ly/361rdtN" >}}
+#### {{< open-in-blank "msHOWTO Live! #08: Build Web Apps with Angular - Wednesday 20th May - 4.00pm - 5:00pm UTC" "https://youtu.be/QxuNXmGK-lo" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-08.png?width=50pc)
 
 ---
