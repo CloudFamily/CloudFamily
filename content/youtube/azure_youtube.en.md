@@ -32,3 +32,15 @@ The **WikiAzure** YouTube channel. Here you'll find the Azure products & solutio
 A YouTube Channel from **Michael Levan** focussed on DevOps content in Azure. Here you'll find content ranging from development, containerization, orchestration, infrastructure-as-code, and many more topics!
 
 ---
+
+**{{< open-in-blank "Sarah Lean" "https://www.youtube.com/techielass" >}}**
+
+A YouTube Channel from Cloud Advocate **Sarah Lean** focussing on all things Azure. You'll find her weekly vlog, short tutorials on Azure as well as full length session recordings. 
+
+---
+
+**{{< open-in-blank "ITOpsTalk" "https://www.youtube.com/channel/UCvyPX_vz17uFdtG3NyoV-UA" >}}**
+
+A YouTube Channel from the Modern Infra Cloud Advocate time at Microsoft.  You'll find information from product groups, interview videos as well as quick informational tip videos. 
+
+---
