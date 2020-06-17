@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -31,6 +31,10 @@
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/pages/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/study_guides/</loc>
@@ -93,14 +97,29 @@
     <loc>https://cloudfamily.info/youtube/azure_youtube/</loc>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/cloud_champions/december2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/archetypes/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/markdown/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/study_guides/azure/az-104/</loc>
@@ -121,8 +140,19 @@
     <loc>https://cloudfamily.info/study_guides/azure/dp-300/</loc>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/menushortcuts/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/icons/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/i18n/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/virtual_events/archived_virtual_events/</loc>
@@ -132,7 +162,15 @@
     <loc>https://cloudfamily.info/virtual_events/</loc>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/sitemap/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/</loc>
@@ -154,35 +192,92 @@
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/attachments/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/button/</loc>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/categories/</loc>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/</loc>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/credits/</loc>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/expand/</loc>
+  </url>
   
   <url>
     <loc>https://cloudfamily.info/showcase/</loc>
   </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/mermaid/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/notice/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/openinnewtab/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-2/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-3/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-4/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/test/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/children/children-2/test3/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/rawhtml/</loc>
+  </url>
   
+  <url>
+    <loc>https://cloudfamily.info/cont/shortcodes/siteparam/</loc>
+  </url>
   
 </urlset>

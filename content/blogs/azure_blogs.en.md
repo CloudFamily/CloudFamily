@@ -139,6 +139,12 @@ chapter: true
 ![Wim Matthyssen](/images/blogs/Wim.png?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Simon Waight - blog.siliconvalve.com" "https://blog.siliconvalve.com/" >}}
+![Simon Waight](/images/blogs/siliconvalve.PNG?width=50pc)
+
+---
+
 #### {{< open-in-blank "Sarah Lean - Techielass" "https://www.techielass.com" >}}
 ![Sarah Lean](/images/blogs/techielass.PNG?width=50pc)
 
