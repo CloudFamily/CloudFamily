@@ -137,3 +137,10 @@ chapter: true
 
 #### {{< open-in-blank "Wim Matthyssen - My Journey With The Microsoft Hybrid Cloud" "https://wmatthyssen.com" >}}
 ![Wim Matthyssen](/images/blogs/Wim.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Simon Waight - blog.siliconvalve.com" "https://blog.siliconvalve.com/" >}}
+![Simon Waight](/images/blogs/siliconvalve.PNG?width=50pc)
+
+---
