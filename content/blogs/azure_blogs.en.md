@@ -177,3 +177,8 @@ chapter: true
 ![April Edwards](/images/blogs/azapril.PNG?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Shabaz Darr" "https://iamitgeek.com/" >}}
+![Shabaz Darr](/images/blogs/ShabazDarr.PNG?width=50pc)
+
+---
