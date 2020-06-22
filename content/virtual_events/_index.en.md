@@ -5,12 +5,17 @@ weight: 39
 chapter: true
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://bit.ly/2BwPEnW" >}}
+![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #09: Connect Your Servers to the Cloud with Azure Hybrid Management - Monday 25th May - 4.00pm - 5:00pm UTC" "https://bit.ly/2Z7Qq4y" >}}
+#### {{< open-in-blank "msHOWTO Live! #09: Connect Your Servers to the Cloud with Azure Hybrid Management - Monday 25th May - 4.00pm - 5:00pm UTC" "https://youtu.be/X26zUH_gxzE" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-09.png?width=50pc)
 
 ---
