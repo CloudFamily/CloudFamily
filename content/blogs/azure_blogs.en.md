@@ -141,7 +141,7 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Simon Waight - blog.siliconvalve.com" "https://blog.siliconvalve.com/" >}}
-![Simon Waight](/images/blogs/siliconvalve.PNG?width=50pc)
+![Simon Waight](/images/blogs/siliconvalve.png?width=50pc)
 
 ---
 
