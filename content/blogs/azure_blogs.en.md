@@ -182,3 +182,7 @@ chapter: true
 ![Shabaz Darr](/images/blogs/ShabazDarr.PNG?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Billy York" "https://www.cloudsma.com" >}}
+![Billy York](/images/blogs/BillyYork.PNG?width=50pc)
+
