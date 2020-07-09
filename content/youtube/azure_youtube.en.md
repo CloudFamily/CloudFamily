@@ -44,3 +44,9 @@ A YouTube Channel from Cloud Advocate **Sarah Lean** focussing on all things Azu
 A YouTube Channel from the Modern Infra Cloud Advocate time at Microsoft.  You'll find information from product groups, interview videos as well as quick informational tip videos. 
 
 ---
+
+**{{< open-in-blank "Cloud Lunch and Learn" "https://www.youtube.com/channel/UCHZeZzSlTtmfgPozIq8J2Kw" >}}**
+
+A YouTube Channel from **Cloud Lunch and Learn** focussed on learning Azure. Here you'll find all recordings of the Cloud Lunch and Learn sessions, so you can watch it on your own pace.
+
+---
