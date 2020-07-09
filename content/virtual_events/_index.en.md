@@ -5,17 +5,37 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #07: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://bit.ly/34KeuLn" >}}
+#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://bit.ly/2BwPEnW" >}}
+![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
+![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #09: Connect Your Servers to the Cloud with Azure Hybrid Management - Monday 25th May - 4.00pm - 5:00pm UTC" "https://youtu.be/X26zUH_gxzE" >}}
+![msHOWTO Live!](/images/events/mshowto-live-09.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #08: Build Web Apps with Angular - Wednesday 20th May - 4.00pm - 5:00pm UTC" "https://youtu.be/QxuNXmGK-lo" >}}
+![msHOWTO Live!](/images/events/mshowto-live-08.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://youtu.be/w-9RAMLkO00" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-07.png?width=50pc)
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #06: Azure DevOps For Ops without Dev - Tuesday 12th May - 4.00pm - 5:00pm UTC" "https://bit.ly/2Vf7PFP" >}}
+#### {{< open-in-blank "msHOWTO Live! #06: Azure DevOps For Ops without Dev - Tuesday 12th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gbbJdoBfbPs" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-06.png?width=50pc)
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #05: IoT and DevOps - Tuesday 5th May - 4.00pm - 5:00pm UTC" "https://bit.ly/3bwelxJ" >}}
+#### {{< open-in-blank "msHOWTO Live! #05: IoT and DevOps - Tuesday 5th May - 4.00pm - 5:00pm UTC" "https://youtu.be/exL4ZEosFCw" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-05.png?width=50pc)
 
 ---
@@ -25,12 +45,12 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #04: Azure IoT - Wednesday 29th April - 4.00pm - 5:00pm UTC" "https://bit.ly/34HSssL" >}}
+#### {{< open-in-blank "msHOWTO Live! #04: Azure IoT - Wednesday 29th April - 4.00pm - 5:00pm UTC" "https://youtu.be/u54YbbErAQM" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-04.png?width=50pc)
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #03: Speaker Diversity Analytics with the AI Face API - Friday 17th April - 5.00pm - 6:00pm UTC" "https://www.youtube.com/watch?v=elapuJr5aaM" >}}
+#### {{< open-in-blank "msHOWTO Live! #03: Speaker Diversity Analytics with the AI Face API - Friday 17th April - 5.00pm - 6:00pm UTC" "https://youtu.be/elapuJr5aaM" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-03.png?width=50pc)
 
 ---
@@ -46,7 +66,6 @@ chapter: true
 ---
 
 
----
 
 [Archived Virtual Events](/content/virtual_events/archived_virtual_events.md)
 

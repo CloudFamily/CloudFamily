@@ -1,0 +1,3008 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.72.0" />
+    <meta name="description" content="Cloud Family">
+<meta name="author" content="Pixel Robots">
+
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+
+    <title>DP-300 - Administering Relational Databases on Microsoft Azure :: Cloud Family</title>
+
+    
+    <link href="/css/nucleus.css?1593699596" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1593699596" rel="stylesheet">
+    <link href="/css/hybrid.css?1593699596" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1593699596" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1593699596" rel="stylesheet">
+    <link href="/css/auto-complete.css?1593699596" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1593699596" rel="stylesheet">
+    <link href="/css/theme.css?1593699596" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1593699596" rel="stylesheet">
+    
+    <link href="/css/theme-mine.css?1593699596" rel="stylesheet">
+    
+    
+
+    <script src="/js/jquery-3.3.1.min.js?1593699596"></script>
+
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/study_guides/azure/dp-300/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="/">
+
+	<img src="/images/CloudFamilyLogonew.png" width="300" alt="Cloud Family"/>
+
+	
+
+</a>
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1593699596"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1593699596"></script>
+<script type="text/javascript">
+    
+        var baseurl = "https:\/\/cloudfamily.info";
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1593699596"></script>
+
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cloud_family/" title="Cloud Family" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cloud_family/">
+          Cloud Family
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cloud_champions/" title="Cloud Champions" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cloud_champions/">
+          Cloud Champions
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/april2020/" title="Community Champion - April 2020" class="dd-item ">
+        <a href="/cloud_champions/april2020/">
+        April 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/may2020/" title="Community Champion - May 2020" class="dd-item ">
+        <a href="/cloud_champions/may2020/">
+        May 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/june2020/" title="Community Champion - June 2020" class="dd-item ">
+        <a href="/cloud_champions/june2020/">
+        June 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/july2020/" title="Community Champion - July 2020" class="dd-item ">
+        <a href="/cloud_champions/july2020/">
+        July 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/august2020/" title="Community Champion - August 2020" class="dd-item ">
+        <a href="/cloud_champions/august2020/">
+        August 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/september2020/" title="Community Champion - September 2020" class="dd-item ">
+        <a href="/cloud_champions/september2020/">
+        September 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/october2020/" title="Community Champion - October 2020" class="dd-item ">
+        <a href="/cloud_champions/october2020/">
+        October 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/november2020/" title="Community Champion - November 2020" class="dd-item ">
+        <a href="/cloud_champions/november2020/">
+        November 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cloud_champions/december2020/" title="Community Champion - December 2020" class="dd-item ">
+        <a href="/cloud_champions/december2020/">
+        December 2020
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/study_guides/" title="Study Guides" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/study_guides/">
+          Study Guides
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/study_guides/azure/az-104/" title="AZ-104 - Azure Administrator" class="dd-item ">
+        <a href="/study_guides/azure/az-104/">
+        AZ-104 - Azure Administrator
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/study_guides/azure/az-303/" title="AZ-303 - Azure Architect Technologies" class="dd-item ">
+        <a href="/study_guides/azure/az-303/">
+        AZ-303 - Azure Architect Technologies
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/study_guides/azure/az-304/" title="AZ-304 - Azure Architect Design" class="dd-item ">
+        <a href="/study_guides/azure/az-304/">
+        AZ-304 - Azure Architect Design
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/study_guides/azure/dp-300/" title="DP-300 - Administering Relational Databases on Microsoft Azure" class="dd-item active">
+        <a href="/study_guides/azure/dp-300/">
+        DP-300 - Administering Relational Databases on Microsoft Azure
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/projects/" title="Projects" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/projects/">
+          Projects
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/projects/podcasts/" title="Podcasts" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/projects/podcasts/">
+          Podcasts
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/projects/podcasts/azure_podcasts/" title="Azure Podcasts" class="dd-item ">
+        <a href="/projects/podcasts/azure_podcasts/">
+        Azure Podcasts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/useful_links/" title="Useful Links" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/useful_links/">
+          Useful Links
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/blogs/" title="Blogs" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/blogs/">
+          Blogs
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/blogs/azure_blogs/" title="Azure Blogs" class="dd-item ">
+        <a href="/blogs/azure_blogs/">
+        Azure Blogs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/twitter/" title="Twitter" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/twitter/">
+          Twitter
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/youtube/" title="YouTube" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/youtube/">
+          YouTube
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/youtube/azure_youtube/" title="Azure YouTube Channels" class="dd-item ">
+        <a href="/youtube/azure_youtube/">
+        Azure YouTube Channels
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/" title="Contribution guide" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/">
+          Contribution guide
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/pages/" title="Pages organization" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/pages/">
+          Pages organization
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/archetypes/" title="Archetypes" class="dd-item ">
+        <a href="/cont/archetypes/">
+        Archetypes
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/markdown/" title="Markdown syntax" class="dd-item ">
+        <a href="/cont/markdown/">
+        Markdown syntax
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/" title="Shortcodes" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/">
+          Shortcodes
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/attachments/" title="Attachments" class="dd-item ">
+        <a href="/cont/shortcodes/attachments/">
+        Attachments
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/button/" title="Button" class="dd-item ">
+        <a href="/cont/shortcodes/button/">
+        Button
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/" title="Children" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/">
+          Children
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-1/" title="page 1" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-1/">
+          page 1
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-1/children-1-1/" title="page 1-1" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-1/children-1-1/">
+          page 1-1
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/" title="page 1-1-1" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/">
+          page 1-1-1
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/" title="page 1-1-1-1" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/">
+          page 1-1-1-1
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/" title="page 1-1-1-1-1" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/">
+          page 1-1-1-1-1
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-2/" title="page 2" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-2/">
+          page 2
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/children/children-2/test3/" title="page test 3" class="dd-item ">
+        <a href="/cont/shortcodes/children/children-2/test3/">
+        page test 3
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/shortcodes/children/children-3/" title="page 3" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/shortcodes/children/children-3/">
+          page 3
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+             
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/children/test/" title="page test" class="dd-item ">
+        <a href="/cont/shortcodes/children/test/">
+        page test
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/expand/" title="Expand" class="dd-item ">
+        <a href="/cont/shortcodes/expand/">
+        Expand
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/mermaid/" title="Mermaid" class="dd-item ">
+        <a href="/cont/shortcodes/mermaid/">
+        Mermaid
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/notice/" title="Notice" class="dd-item ">
+        <a href="/cont/shortcodes/notice/">
+        Notice
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/openinnewtab/" title="Open Link in New Tab" class="dd-item ">
+        <a href="/cont/shortcodes/openinnewtab/">
+        Open Link in New Tab
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/rawhtml/" title="Raw HTML" class="dd-item ">
+        <a href="/cont/shortcodes/rawhtml/">
+        Raw HTML
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/shortcodes/siteparam/" title="Site param" class="dd-item ">
+        <a href="/cont/shortcodes/siteparam/">
+        Site param
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/menushortcuts/" title="Menu extra shortcuts" class="dd-item ">
+        <a href="/cont/menushortcuts/">
+        Menu extra shortcuts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/icons/" title="Icons and logos" class="dd-item ">
+        <a href="/cont/icons/">
+        Icons and logos
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/cont/i18n/" title="Multilingual and i18n" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/cont/i18n/">
+          Multilingual and i18n
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/sitemap/" title="Sitemap" class="dd-item ">
+        <a href="/cont/sitemap/">
+        Sitemap
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/cont/tags/" title="Tags" class="dd-item ">
+        <a href="/cont/tags/">
+        Tags
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/virtual_events/" title="Virtual Events" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/virtual_events/">
+          Virtual Events
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/virtual_events/archived_virtual_events/" title="Archived Virtual Events" class="dd-item ">
+        <a href="/virtual_events/archived_virtual_events/">
+        Archived Virtual Events
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/codeofconduct/" title="Code of Conduct" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/codeofconduct/">
+          Code of Conduct
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+      <section id="shortcuts">
+        <h3>More</h3>
+        <ul>
+          
+              <li> 
+                  <a class="padding" href="https://github.com/CloudFamily"><i class='fab fa-fw fa-github'></i> GitHub repo</a>
+              </li>
+          
+              <li> 
+                  <a class="padding" href="https://cloudfamily.info/blogs"><i class='far fa-window-maximize'></i> Blogs</a>
+              </li>
+          
+              <li> 
+                  <a class="padding" href="https://cloudfamily.info/showcase"><i class='fas fa-fw fa-camera'></i> Learning </a>
+              </li>
+          
+              <li> 
+                  <a class="padding" href="https://cloudfamily.info/projects"><i class='far fa-window-maximize'></i> Projects</a>
+              </li>
+          
+              <li> 
+                  <a class="padding" href="https://www.youtube.com/channel/UCJFJM2L164fIhLqe1MdOv9w"><i class='fab fa-youtube'></i> YouTube</a>
+              </li>
+          
+        </ul>
+      </section>
+    
+
+    
+    <section id="footer">
+      <center>
+    
+   <a class="github-button" href="https://github.com/CloudFamily/CloudFamily" data-icon="octicon-star" data-show-count="true" aria-label="Star Cloud Family on GitHub">Star</a>
+
+   
+   <a class="github-button" href="https://github.com/CloudFamily/CloudFamily/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork Cloud Family on GitHub">Fork</a>
+
+   <p>Built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fas fa-heart"></i></a> for the Cloud Family</a></p>
+</center>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                  
+                  
+                  
+                  <div id="top-github-link">
+                    <a class="github-link" title='Edit this page' href="https://github.com/CloudFamily/CloudFamily/tree/master/content/study_guides/Azure/DP-300.md" target="blank">
+                      <i class="fas fa-code-branch"></i>
+                      <span id="top-github-link-text">Edit this page</span>
+                    </a>
+                  </div>
+                  
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>Cloud Family</a> > <a href='/study_guides/'>Study Guides</a> > DP-300 - Administering Relational Databases on Microsoft Azure
+          
+        
+          
+        
+          
+        
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#dp-300-exam-resources-study-guide">DP-300 Exam Resources Study Guide</a></li>
+  </ul>
+</nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+        </div>
+        
+        <div id="body-inner">
+          
+            <h1>
+              
+              DP-300 - Administering Relational Databases on Microsoft Azure
+            </h1>
+          
+
+        
+
+
+<h2 id="dp-300-exam-resources-study-guide">DP-300 Exam Resources Study Guide</h2>
+<hr>
+<p><em><strong>Plan and Implement Data Platform Resources (15-20%)</strong></em></p>
+<p><strong>Deploy resources by using manual methods</strong></p>
+<ul>
+<li>deploy database offerings on selected platforms
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas</a><!-- raw HTML omitted --></li>
+<li>configure customized deployment templates
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database</a><!-- raw HTML omitted --></li>
+<li>apply patches and updates for hybrid and IaaS deployment
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching">https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching</a></li>
+</ul>
+<p><strong>Recommend an appropriate database offering based on specific requirements</strong></p>
+<ul>
+<li>evaluate requirements for the deployment</li>
+<li>evaluate the functional benefits/impact of possible database offerings</li>
+<li>evaluate the scalability of the possible database offering</li>
+<li>evaluate the HA/DR of the possible database offering</li>
+<li>evaluate the security aspects of the possible database offering</li>
+</ul>
+<p><strong>Configure resources for scale and performance</strong></p>
+<ul>
+<li>configure Azure SQL database/elastic pools for scale and performance
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-pool-manage">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-pool-manage</a><!-- raw HTML omitted --></li>
+<li>configure Azure SQL managed instances for scale and performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance</a><!-- raw HTML omitted --></li>
+<li>configure SQL Server in Azure VMs for scale and performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance">https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance</a><!-- raw HTML omitted --></li>
+<li>calculate resource requirements 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sharepoint/administration/storage-and-sql-server-capacity-planning-and-configuration">https://docs.microsoft.com/en-us/sharepoint/administration/storage-and-sql-server-capacity-planning-and-configuration</a><!-- raw HTML omitted --></li>
+<li>evaluate database partitioning techniques, such as database sharding 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning">https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Evaluate a strategy for moving to Azure</strong></p>
+<ul>
+<li>evaluate requirements for the migration 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/dma/dma-assesssqlonprem?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/dma/dma-assesssqlonprem?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>evaluate offline or online migration strategies 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql">https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql</a><!-- raw HTML omitted --></li>
+<li>evaluate requirements for the upgrade 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/database-engine/install-windows/supported-version-and-edition-upgrades-version-15?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/database-engine/install-windows/supported-version-and-edition-upgrades-version-15?view=sql-server-ver15</a><!-- raw HTML omitted -->&lt;</li>
+<li>evaluate offline or online upgrade strategies 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-application-rolling-upgrade">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-application-rolling-upgrade</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Implement a migration or upgrade strategy for moving to Azure</strong></p>
+<ul>
+<li>implement an online migration strategy
+<!-- raw HTML omitted --> - <a href="https://datamigration.microsoft.com/scenario/sql-to-azuresqldb?step=1">https://datamigration.microsoft.com/scenario/sql-to-azuresqldb?step=1</a><!-- raw HTML omitted --></li>
+<li>implement an offline migration strategy
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql">https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql</a><!-- raw HTML omitted --></li>
+<li>implement an online upgrade strategy
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-application-rolling-upgrade">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-application-rolling-upgrade</a><!-- raw HTML omitted --></li>
+<li>implement an offline upgrade strategy
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<hr>
+<p><strong>Implement a Secure Environment (15-20%)</strong></p>
+<p><strong>Configure database authentication by using platform and database tools</strong></p>
+<ul>
+<li>configure Azure AD authentication 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell</a><!-- raw HTML omitted --></li>
+<li>create users from Azure AD identities 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication</a><!-- raw HTML omitted --></li>
+<li>configure security principals 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/securing-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/securing-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Configure database authorization by using platform and database tools</strong></p>
+<ul>
+<li>configure database and object-level permissions using graphical tools 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/permissions-database-engine?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/permissions-database-engine?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>apply principle of least privilege for all securables 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/authorization-and-permissions-in-sql-server">https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/authorization-and-permissions-in-sql-server</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Implement security for data at rest</strong></p>
+<ul>
+<li>
+<p>implement Transparent Data Encryption (TDE) 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver15</a><!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>implement object-level encryption 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/encrypt-a-column-of-data?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/encrypt-a-column-of-data?view=sql-server-ver15</a><!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>implement Dynamic Data Masking 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-ver15</a><!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>implement Azure Key Vault and disk encryption for Azure VMs 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-key-vault">https://docs.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-key-vault</a><!-- raw HTML omitted --></p>
+</li>
+</ul>
+<p><strong>Implement security for data in transit</strong></p>
+<ul>
+<li>configure SQL DB and database-level firewall rules 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-firewall-configure">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-firewall-configure</a><!-- raw HTML omitted --></li>
+<li>implement Always Encrypted 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure Azure Data Gateway 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-gateway">https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-gateway</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Implement compliance controls for sensitive data</strong></p>
+<ul>
+<li>apply a data classification strategy 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-data-discovery-and-classification?view=sql-server-ver15&amp;amp;tabs=t-sql">https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-data-discovery-and-classification?view=sql-server-ver15&amp;amp;tabs=t-sql</a><!-- raw HTML omitted --></li>
+<li>configure server and database audits 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/auditing/create-a-server-audit-and-database-audit-specification?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/auditing/create-a-server-audit-and-database-audit-specification?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>implement data change tracking 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>perform vulnerability assessment 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-vulnerability-assessment?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-vulnerability-assessment?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<hr>
+<p><strong>Monitor and Optimize Operational Resources (15-20%)</strong></p>
+<p><strong>Monitor activity and performance</strong></p>
+<ul>
+<li>prepare an operational performance baseline 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/establish-a-performance-baseline?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/establish-a-performance-baseline?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>determine sources for performance metrics 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>interpret performance metrics 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/performance-monitoring-and-tuning-tools?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/performance-monitoring-and-tuning-tools?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>assess database performance by using Azure SQL Database Intelligent Performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-query-performance">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-query-performance</a><!-- raw HTML omitted --></li>
+<li>configure and monitor activity and performance at the infrastructure, server, service, and database levels 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/query-profiling-infrastructure?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/query-profiling-infrastructure?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Implement performance-related maintenance tasks</strong></p>
+<ul>
+<li>implement index maintenance tasks 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/rebuild-index-task-maintenance-plan?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/rebuild-index-task-maintenance-plan?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>implement statistics maintenance tasks 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/update-statistics-task-maintenance-plan?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/update-statistics-task-maintenance-plan?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure database auto-tuning 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automatic-tuning-enable">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automatic-tuning-enable</a><!-- raw HTML omitted --></li>
+<li>automate database maintenance tasks
+<ul>
+<li>Azure SQL agent jobs, Azure automation, SQL server agent jobs <!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+</li>
+<li>manage storage capacity 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Identify performance-related issues</strong></p>
+<ul>
+<li>configure Query Store to collect performance data 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>identify sessions that cause blocking 
+<!-- raw HTML omitted --> - <a href="https://support.microsoft.com/en-gb/help/224453/inf-understanding-and-resolving-sql-server-blocking-problems">https://support.microsoft.com/en-gb/help/224453/inf-understanding-and-resolving-sql-server-blocking-problems</a><!-- raw HTML omitted --></li>
+<li>assess growth/fragmentation of databases and logs 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?view=sql-server-ver15</a>&lt;/a</li>
+<li>assess performance-related database configuration parameters
+<ul>
+<li>including AutoClose, AutoShrink, AutoGrowth <!-- raw HTML omitted --> - <a href="https://support.microsoft.com/en-gb/help/315512/considerations-for-the-autogrow-and-autoshrink-settings-in-sql-server">https://support.microsoft.com/en-gb/help/315512/considerations-for-the-autogrow-and-autoshrink-settings-in-sql-server</a><!-- raw HTML omitted --></li>
+</ul>
+</li>
+</ul>
+<p><strong>Configure resources for optimal performance</strong></p>
+<ul>
+<li>configure storage and infrastructure resources
+<ul>
+<li>optimize IOPS, throughput, and latency</li>
+<li>optimize tempdb performance</li>
+<li>optimize data and log files for performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-storage-configuration">https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-storage-configuration</a><!-- raw HTML omitted --></li>
+</ul>
+</li>
+<li>configure server and service account settings for performance 
+<!-- raw HTML omitted --> - <a href="https://support.microsoft.com/en-gb/help/319942/how-to-determine-proper-sql-server-configuration-settings">https://support.microsoft.com/en-gb/help/319942/how-to-determine-proper-sql-server-configuration-settings</a><!-- raw HTML omitted --></li>
+<li>configure Resource Governor for performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Configure a user database for optimal performance</strong></p>
+<ul>
+<li>implement database-scoped configuration 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-database-scoped-configuration-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-database-scoped-configuration-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure compute resources for scaling 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-scale">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-scale</a><!-- raw HTML omitted --></li>
+<li>configure Intelligent Query Processing (IQP) 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/intelligent-query-processing?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/intelligent-query-processing?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<hr>
+<p><strong>Optimize Query Performance (5-10%)</strong></p>
+<p><strong>Review query plans</strong></p>
+<ul>
+<li>determine the appropriate type of execution plan
+<ul>
+<li>live Query Statistics, Actual Execution Plan, Estimated Execution Plan, Showplan 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/execution-plans?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/execution-plans?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+</li>
+<li>identify problem areas in execution plans 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/analyze-an-actual-execution-plan?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/analyze-an-actual-execution-plan?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>extract query plans from the Query Store 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Evaluate performance improvements</strong></p>
+<ul>
+<li>determine the appropriate Dynamic Management Views (DMVs) to gather query performance information 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs</a><!-- raw HTML omitted --></li>
+<li>identify performance issues using DMVs 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs</a><!-- raw HTML omitted --></li>
+<li>identify and implement index changes for queries 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>recommend query construct modifications based on resource usage 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/upgrade-dbcompat-using-qta?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/performance/upgrade-dbcompat-using-qta?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>assess the use of hints for query performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query?view=sql-server-ver15</a><!-- raw HTML omitted --><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Review database table and index design</strong></p>
+<ul>
+<li>identify data quality issues with duplication of data 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/data-quality-services/introduction-to-data-quality-services?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/data-quality-services/introduction-to-data-quality-services?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>identify normal form of database 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description">https://docs.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description</a><!-- raw HTML omitted --></li>
+<li>assess index design for performance 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>validate data types defined for columns 
+<!-- raw HTML omitted --> - <a href="https://www.mssqltips.com/sqlservertip/4799/validate-integer-and-decimal-values-in-sql-server/">https://www.mssqltips.com/sqlservertip/4799/validate-integer-and-decimal-values-in-sql-server/</a><!-- raw HTML omitted --></li>
+<li>recommend table and index storage including filegroups</li>
+<li>evaluate table partitioning strategy 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>evaluate the use of compression for tables and indexes 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/enable-compression-on-a-table-or-index?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/enable-compression-on-a-table-or-index?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<hr>
+<p><strong>Perform Automation of Tasks (10-15%)</strong></p>
+<p><strong>Create scheduled tasks</strong></p>
+<ul>
+<li>manage schedules for regular maintenance jobs 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/ssms/agent/schedule-a-job?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/ssms/agent/schedule-a-job?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure multi-server automation 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/ssms/agent/automated-administration-across-an-enterprise?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/ssms/agent/automated-administration-across-an-enterprise?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure notifications for task success/failure/non-completion 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/ssms/agent/notify-an-operator-of-job-status?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/ssms/agent/notify-an-operator-of-job-status?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Evaluate and implement an alert and notification strategy</strong></p>
+<ul>
+<li>create event notifications based on metrics 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-insights-alerts-portal">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-insights-alerts-portal</a><!-- raw HTML omitted --></li>
+<li>create event notifications for Azure resources 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>create alerts for server configuration changes 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-add-alert-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-add-alert-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>create tasks that respond to event notifications 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Manage and automate tasks in Azure</strong></p>
+<ul>
+<li>perform automated deployment methods for resources 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-sqldb?view=azure-devops&amp;amp;tabs=yaml">https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-sqldb?view=azure-devops&amp;amp;tabs=yaml</a><!-- raw HTML omitted --></li>
+<li>automate Backups 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automated-backups?tabs=single-database">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automated-backups?tabs=single-database</a><!-- raw HTML omitted --></li>
+<li>automate performance tuning and patching 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automatic-tuning">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automatic-tuning</a><!-- raw HTML omitted --></li>
+<li>implement policies by using automated evaluation modes 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/administer-servers-by-using-policy-based-management?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/administer-servers-by-using-policy-based-management?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<hr>
+<p><strong>Plan and Implement a High Availability and Disaster Recovery (HADR) Environment (15-20%)</strong></p>
+<p><strong>Recommend an HADR strategy for a data platform solution</strong></p>
+<ul>
+<li>recommend HADR strategy based on RPO/RTO requirements 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-business-continuity">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-business-continuity</a><!-- raw HTML omitted --></li>
+<li>evaluate HADR for hybrid deployments 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-high-availability-dr">https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-high-availability-dr</a><!-- raw HTML omitted --></li>
+<li>evaluate Azure-specific HADR solutions 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-high-availability">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-high-availability</a><!-- raw HTML omitted --></li>
+<li>identify resources for HADR solutions 
+<!-- raw HTML omitted --> - <a href="https://www.sqlskills.com/blogs/erin/sql-server-hadr-features/">https://www.sqlskills.com/blogs/erin/sql-server-hadr-features/</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Test an HADR strategy by using platform, OS and database tools</strong></p>
+<ul>
+<li>test HA by using failover 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/perform-a-planned-manual-failover-of-an-availability-group-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/perform-a-planned-manual-failover-of-an-availability-group-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>test DR by using failover or restore 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-disaster-recovery">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-disaster-recovery</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Perform backup and restore a database by using database tools</strong></p>
+<ul>
+<li>perform a database backup with options 
+a href=&quot;https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-ver15#TsqlProcedure&quot;&gt; - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-ver15#TsqlProcedure">https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-ver15#TsqlProcedure</a><!-- raw HTML omitted --></li>
+<li>perform a database restore with options 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/restore-statements-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/statements/restore-statements-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>perform a database restore to a point in time 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-sql-server-database-to-a-point-in-time-full-recovery-model?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-sql-server-database-to-a-point-in-time-full-recovery-model?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure long-term backup retention 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-long-term-retention">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-long-term-retention</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Configure DR by using platform and database tools</strong></p>
+<ul>
+<li>configure replication 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/replication/tutorial-preparing-the-server-for-replication?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/replication/tutorial-preparing-the-server-for-replication?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure Azure Site Recovery for a database offering 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-sql">https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-sql</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Configure HA using platform, OS and database tools</strong></p>
+<ul>
+<li>create an Availability Group 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/create-availability-group-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/statements/create-availability-group-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>integrate a database into an Availability Group 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/availability-group-add-a-database?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/availability-group-add-a-database?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure quorum options for a Windows Server Failover Cluster 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/wsfc-quorum-modes-and-voting-configuration-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/wsfc-quorum-modes-and-voting-configuration-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure an Availability Group listener 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/create-or-configure-an-availability-group-listener-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/create-or-configure-an-availability-group-listener-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<hr>
+<p><strong>Perform Administration by Using T-SQL (10-15%)</strong></p>
+<p><strong>Examine system health</strong></p>
+<ul>
+<li>evaluate database health using DMVs 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs#monitoring-query-performance">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs#monitoring-query-performance</a><!-- raw HTML omitted --></li>
+<li>evaluate server health using DMVs 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-with-dmvs</a><!-- raw HTML omitted --></li>
+<li>perform database consistency checks by using DBCC 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-checkdb-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-checkdb-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Monitor database configuration by using T-SQL</strong></p>
+<ul>
+<li>assess proper database autogrowth configuration 
+<!-- raw HTML omitted --> - <a href="https://www.red-gate.com/simple-talk/sql/database-administration/sql-server-database-growth-and-autogrowth-settings/">https://www.red-gate.com/simple-talk/sql/database-administration/sql-server-database-growth-and-autogrowth-settings/</a><!-- raw HTML omitted --></li>
+<li>report on database free space 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/databases/display-data-and-log-space-information-for-a-database?view=sql-server-ver15#TsqlProcedure">https://docs.microsoft.com/en-us/sql/relational-databases/databases/display-data-and-log-space-information-for-a-database?view=sql-server-ver15#TsqlProcedure</a><!-- raw HTML omitted --></li>
+<li>review database configuration options 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/databases/change-the-configuration-settings-for-a-database?view=sql-server-ver15#TsqlProcedure">https://docs.microsoft.com/en-us/sql/relational-databases/databases/change-the-configuration-settings-for-a-database?view=sql-server-ver15#TsqlProcedure</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Perform backup and restore a database by using T-SQL</strong></p>
+<ul>
+<li>prepare databases for AlwaysOn Availability Groups 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/manually-prepare-a-secondary-database-for-an-availability-group-sql-server?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/manually-prepare-a-secondary-database-for-an-availability-group-sql-server?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>perform transaction log backup 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-a-transaction-log-sql-server?view=sql-server-ver15#using-transact-sql">https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-a-transaction-log-sql-server?view=sql-server-ver15#using-transact-sql</a><!-- raw HTML omitted -->#</li>
+<li>perform restore of user databases 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/restore-statements-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/statements/restore-statements-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>perform database backups with options 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/backup-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/statements/backup-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Manage authentication by using T-SQL</strong></p>
+<ul>
+<li>manage certificates 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-certificate-transact-sql?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-certificate-transact-sql?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>manage security principals 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/principals-database-engine?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/principals-database-engine?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+</ul>
+<p><strong>Manage authorization by using T-SQL</strong></p>
+<ul>
+<li>configure permissions for users to access database objects 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/grant-a-permission-to-a-principal?view=sql-server-ver15">https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/grant-a-permission-to-a-principal?view=sql-server-ver15</a><!-- raw HTML omitted --></li>
+<li>configure permissions by using custom roles 
+<!-- raw HTML omitted --> - <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-an-application-role?view=sql-server-ver15#TsqlProcedure">https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-an-application-role?view=sql-server-ver15#TsqlProcedure</a><!-- raw HTML omitted --></li>
+</ul>
+
+
+<footer class="footline">
+	
+</footer>
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1593699596"></script>
+    <script src="/js/perfect-scrollbar.min.js?1593699596"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1593699596"></script>
+    <script src="/js/jquery.sticky.js?1593699596"></script>
+    <script src="/js/featherlight.min.js?1593699596"></script>
+    <script src="/js/highlight.pack.js?1593699596"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom-3.6.0.js?1593699596"></script>
+    <script src="/js/learn.js?1593699596"></script>
+    <script src="/js/hugo-learn.js?1593699596"></script>
+
+    <link href="/mermaid/mermaid.css?1593699596" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1593699596"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-105947713-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  </body>
+</html>
+
