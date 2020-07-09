@@ -32,3 +32,9 @@ The **WikiAzure** YouTube channel. Here you'll find the Azure products & solutio
 A YouTube Channel from **Michael Levan** focussed on DevOps content in Azure. Here you'll find content ranging from development, containerization, orchestration, infrastructure-as-code, and many more topics!
 
 ---
+
+**{{< open-in-blank "Cloud Lunch and Learn" "https://www.youtube.com/channel/UCHZeZzSlTtmfgPozIq8J2Kw" >}}**
+
+A YouTube Channel from **Cloud Lunch and Learn** focussed on learning Azure. Here you'll find all recordings of the Cloud Lunch and Learn sessions, so you can watch it on your own pace.
+
+---
