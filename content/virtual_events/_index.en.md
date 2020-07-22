@@ -5,7 +5,7 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://bit.ly/2BwPEnW" >}}
+#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://youtu.be/ZURJ8UfuSyw" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
 
 ---
