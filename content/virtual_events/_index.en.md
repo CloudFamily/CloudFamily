@@ -5,7 +5,7 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #12: How to Success with the Power of Community - Tuesday 15th September - 3.00pm - 4:00pm UTC" "https://bit.ly/32sM7AJ" >}}
+#### {{< open-in-blank "msHOWTO Live! #12: How to Succeed with the Power of Community - Tuesday 15th September - 3.00pm - 4:00pm UTC" "https://bit.ly/32sM7AJ" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-12.png?width=50pc)
 
 ---
