@@ -10,6 +10,11 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://youtu.be/ZURJ8UfuSyw" >}}
+![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
 
