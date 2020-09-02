@@ -186,3 +186,8 @@ chapter: true
 #### {{< open-in-blank "Billy York" "https://www.cloudsma.com" >}}
 ![Billy York](/images/blogs/BillyYork.PNG?width=50pc)
 
+---
+
+#### {{< open-in-blank "Martin Ehrnst" "https://www.adatum.no" >}}
+![Martin Ehrnst](/images/blogs/MartinEhrnst.PNG?width=50pc)
+
