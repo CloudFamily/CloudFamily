@@ -186,3 +186,7 @@ chapter: true
 #### {{< open-in-blank "Billy York" "https://www.cloudsma.com" >}}
 ![Billy York](/images/blogs/BillyYork.PNG?width=50pc)
 
+---
+
+#### {{< open-in-blank "John Lunn" "https://jonnychipz.com" >}}
+![John Lunn](/images/blogs/jonnychipz.PNG?width=50pc)
