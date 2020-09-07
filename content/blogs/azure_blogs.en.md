@@ -189,4 +189,4 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Roberth Strand" "https://robstr.dev" >}}
-![Billy York](/images/blogs/robstr.PNG?width=50pc)
+![Roberth Strand](/images/blogs/robstr.png?width=50pc)
