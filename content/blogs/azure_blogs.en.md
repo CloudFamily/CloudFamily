@@ -189,5 +189,5 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Rick van den Bosch .NET" "https://www.rickvandenbosch.net/" >}}
-![Billy York](/images/blogs/rickvdbosch.PNG?width=50pc)
+![Rick van den Bosch](/images/blogs/rickvdbosch.PNG?width=50pc)
 
