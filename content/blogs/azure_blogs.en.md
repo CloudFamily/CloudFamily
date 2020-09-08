@@ -186,3 +186,8 @@ chapter: true
 #### {{< open-in-blank "Billy York" "https://www.cloudsma.com" >}}
 ![Billy York](/images/blogs/BillyYork.PNG?width=50pc)
 
+---
+
+#### {{< open-in-blank "Rick van den Bosch .NET" "https://www.rickvandenbosch.net/" >}}
+![Rick van den Bosch](/images/blogs/rickvdbosch.PNG?width=50pc)
+
