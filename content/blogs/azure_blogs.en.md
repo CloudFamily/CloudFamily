@@ -190,3 +190,13 @@ chapter: true
 
 #### {{< open-in-blank "Roberth Strand" "https://robstr.dev" >}}
 ![Roberth Strand](/images/blogs/robstr.png?width=50pc)
+
+---
+#### {{< open-in-blank "John Lunn" "https://jonnychipz.com" >}}
+![John Lunn](/images/blogs/jonnychipz.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Martin Ehrnst" "https://www.adatum.no" >}}
+![Martin Ehrnst](/images/blogs/adatumno.png?width=50pc)
+
