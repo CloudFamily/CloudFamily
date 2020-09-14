@@ -189,5 +189,5 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Martin Ehrnst" "https://www.adatum.no" >}}
-![Martin Ehrnst](/images/blogs/adatumno.PNG?width=50pc)
+![Martin Ehrnst](/images/blogs/adatumno.png?width=50pc)
 

@@ -1,6 +1,6 @@
 ---
-title: Cloud Family
-weight: 4
+title: CloudFamily
+weight: 1
 chapter: true
 ---
 
