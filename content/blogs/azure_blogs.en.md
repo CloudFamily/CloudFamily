@@ -188,6 +188,11 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "Rick van den Bosch .NET" "https://www.rickvandenbosch.net/" >}}
+![Rick van den Bosch](/images/blogs/rickvdbosch.PNG?width=50pc)
+
+---
+
 #### {{< open-in-blank "Roberth Strand" "https://robstr.dev" >}}
 ![Roberth Strand](/images/blogs/robstr.png?width=50pc)
 
