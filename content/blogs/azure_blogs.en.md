@@ -189,7 +189,7 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Rick van den Bosch .NET" "https://www.rickvandenbosch.net/" >}}
-![Rick van den Bosch](/images/blogs/rickvdbosch.PNG?width=50pc)
+![Rick van den Bosch](/images/blogs/rickvdbosch.png?width=50pc)
 
 ---
 
