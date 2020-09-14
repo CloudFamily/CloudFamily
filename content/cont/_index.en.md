@@ -1,6 +1,6 @@
 ---
 title: Contribution guide
-weight: 10
+weight: 50
 chapter: true
 sitemapExclude: true
 ---
