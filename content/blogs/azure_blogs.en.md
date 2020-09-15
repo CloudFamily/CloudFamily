@@ -205,3 +205,7 @@ chapter: true
 #### {{< open-in-blank "Martin Ehrnst" "https://www.adatum.no" >}}
 ![Martin Ehrnst](/images/blogs/adatumno.png?width=50pc)
 
+---
+
+#### {{< open-in-blank "Imran Rashid" "https://azurecrazy.com/azure-blogs/" >}}
+![Imran Rashid](/images/blogs/AzureCrazy.PNG?width=50pc)
