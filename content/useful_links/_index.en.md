@@ -15,6 +15,7 @@ The following is a list of **useful resources** we have come across, which will 
 + **Microsoft Learn -	{{< open-in-blank "https://docs.microsoft.com/learn/" "https://docs.microsoft.com/learn/" >}}**
 + **Training (Paid $$ | Free 00)**
 	- **SkyLines Academy $$ - {{< open-in-blank "https://www.skylinesacademy.com/" "https://www.skylinesacademy.com/" >}}**
+	- **Skill Me UP $$ - {{< open-in-blank "https://www.skillmeup.com/" "https://www.skillmeup.com/" >}}**
 	- **Pluralsight $$ - {{< open-in-blank "https://www.pluralsight.com/" "https://www.pluralsight.com/" >}}**
 	- **Pluralsight 00 - {{< open-in-blank "https://azure.com/pluralsight" "https://azure.com/pluralsight" >}}**
 	- **Udemy $$ - {{< open-in-blank "https://www.udemy.com/" "https://www.udemy.com/" >}}**

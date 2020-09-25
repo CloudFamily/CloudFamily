@@ -50,3 +50,11 @@ A YouTube Channel from the Modern Infra Cloud Advocate time at Microsoft.  You'l
 A YouTube Channel from **Cloud Lunch and Learn** focussed on learning Azure. Here you'll find all recordings of the Cloud Lunch and Learn sessions, so you can watch it on your own pace.
 
 ---
+
+
+**{{< open-in-blank "Captain Hyper-scaler" "https://www.youtube.com/channel/UCIWicD_sUxH6EMH4ndG5NxQ/" >}}**
+
+A YouTube Channel from Dwayne Natwick aka Captain Hyper-scaler focuses on Infrastructure services content in Azure and Microsoft 365. Here you'll find content ranging from networking, security, and many more topics! This is also the place to find presentation from past user group meetings and Azure Back to School event content.
+Captain Hyper-scaler - YouTube
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
