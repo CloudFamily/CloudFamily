@@ -209,3 +209,9 @@ chapter: true
 
 #### {{< open-in-blank "Imran Rashid" "https://azurecrazy.com/azure-blogs/" >}}
 ![Imran Rashid](/images/blogs/AzureCrazy.PNG?width=50pc)
+
+
+---
+#### {{< open-in-blank "Skylines Academy Blog" "https://www.skylinesacademy.com/blog" >}}
+![Skylines Academy](/images/blogs/SkylinesBlog.PNG?width=50pc)
+
