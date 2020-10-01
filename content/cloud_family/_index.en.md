@@ -11,6 +11,16 @@ Below you will find members of the **Cloud Family**. Make sure you are following
 {{% /notice %}}
 
 
+### CloudFamily Committee
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|[![@pixel_robots](/images/family/richard-hooper.png?width=10pc)](https://twitter.com/Pixel_Robots "@pixel_Robots") [**Richard Hooper** - @Pixel_robots](https://twitter.com/Pixel_Robots)| [![@Gregor_Suttie](/images/family/gregor.jpg?width=10pc)](https://twitter.com/gregor_suttie "@Gregor_Suttie") [**Gregor_Suttie** - @Gregor_Suttie](https://twitter.com/gregor_suttie) | [![@ClaireS_MS](/images/family/Claire_Smyth_Photo.PNG?width=10pc)](https://twitter.com/ClaireS_MS "@david_obrien") [**Claire Smyth** - @ClaireS_MS](https://twitter.com/ClaireS_MS)|
+|[![Samuel Erskine](/images/family/samuelerskine.jpg?width=10pc)](https://twitter.com/samerskine "@samerskine") [**Samuel Erskine** - @samerskine](https://twitter.com/AmyKateNicho)|[![Amy Kate Boyd](/images/family/Amy-Boyd.png?width=10pc)](https://twitter.com/AmyKateNicho "@AmyKateNicho") [**Amy Kate Nicho** - @AmyKateNicho](https://twitter.com/AmyKateNicho)| [![Adam Jackson](/images/family/AJSquare2.jpg?width=10pc)](https://twitter.com/adamj89 "@adamj89") [**Adam Jackson** - @adamj89](https://twitter.com/adamj89)| 
+
+
+### CloudFamily Members
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |[![@pixel_robots](/images/family/pixelrobots.png?width=10pc)](https://twitter.com/Pixel_Robots "@pixel_Robots") [**Richard Hooper** - @Pixel_robots](https://twitter.com/Pixel_Robots)| [![@david_obrien](/images/family/davidobrien.jpg?width=10pc)](https://twitter.com/david_obrien "@david_obrien") [**David O'Brien** - @david_obrien](https://twitter.com/david_obrien)| [![@Gregor_Suttie](/images/family/gregor.jpg?width=10pc)](https://twitter.com/gregor_suttie "@Gregor_Suttie") [**Gregor_Suttie** - @Gregor_Suttie](https://twitter.com/gregor_suttie)
