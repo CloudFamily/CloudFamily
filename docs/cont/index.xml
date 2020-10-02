@@ -6,11 +6,7 @@
     <description>Recent content in Contribution guide on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate>
-    
-	<atom:link href="https://cloudfamily.info/cont/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate><atom:link href="https://cloudfamily.info/cont/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archetypes</title>
       <link>https://cloudfamily.info/cont/archetypes/</link>

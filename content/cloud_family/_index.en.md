@@ -1,6 +1,6 @@
 ---
-title: Cloud Family
-weight: 4
+title: CloudFamily
+weight: 1
 chapter: true
 ---
 
@@ -10,6 +10,16 @@ chapter: true
 Below you will find members of the **Cloud Family**. Make sure you are following them on Twitter. If you would like to be listed here please create a pull request and add yourself in!
 {{% /notice %}}
 
+
+### CloudFamily Committee
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|[![@pixel_robots](/images/family/richard-hooper.png?width=10pc)](https://twitter.com/Pixel_Robots "@pixel_Robots") [**Richard Hooper** - @Pixel_robots](https://twitter.com/Pixel_Robots)| [![@Gregor_Suttie](/images/family/gregor.jpg?width=10pc)](https://twitter.com/gregor_suttie "@Gregor_Suttie") [**Gregor_Suttie** - @Gregor_Suttie](https://twitter.com/gregor_suttie) | [![@ClaireS_MS](/images/family/Claire_Smyth_Photo.PNG?width=10pc)](https://twitter.com/ClaireS_MS "@david_obrien") [**Claire Smyth** - @ClaireS_MS](https://twitter.com/ClaireS_MS)|
+|[![Samuel Erskine](/images/family/samuelerskine.jpg?width=10pc)](https://twitter.com/samerskine "@samerskine") [**Samuel Erskine** - @samerskine](https://twitter.com/AmyKateNicho)|[![Amy Kate Boyd](/images/family/Amy-Boyd.png?width=10pc)](https://twitter.com/AmyKateNicho "@AmyKateNicho") [**Amy Kate Nicho** - @AmyKateNicho](https://twitter.com/AmyKateNicho)| [![Adam Jackson](/images/family/AJSquare2.jpg?width=10pc)](https://twitter.com/adamj89 "@adamj89") [**Adam Jackson** - @adamj89](https://twitter.com/adamj89)| 
+
+
+### CloudFamily Members
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -24,7 +34,11 @@ Below you will find members of the **Cloud Family**. Make sure you are following
 |[![@Mark_D_Patton](/images/family/markpatton.png?width=10pc)](https://twitter.com/Mark_D_Patton "@Mark_D_Patton") [**Mark Patton** - @Mark_D_Patton](https://twitter.com/Mark_D_Patton) | [![@HmsBarona](/images/family/HugoBarona.jpg?width=10pc)](https://twitter.com/HmsBarona) [**Hugo Barona** - @HmsBarona](https://twitter.com/HmsBarona) | [![@MrSeanMcD](/images/family/SeanMcDonnell.jpg?width=10pc)](https://twitter.com/ "@MrSeanMcD") [**Sean McDonnell** - @MrSeanMcD](https://twitter.com/)
 |[![@kokkisajee](/images/family/sajee.png?width=10pc)](https://twitter.com/kokkisajee "@kokkisajee") [**Sajeetharan Sinnathurai** - @kokkisajee](https://twitter.com/kokkisajee) | [![@MrTerzic](/images/family/VukasinTerzic.png?width=10pc)](https://twitter.com/mrterzic "@MrTerzic") [**Vukasin Terzic** - @MrTerzic](https://twitter.com/MrTerzic) | [![@m3rtyeter](/images/family/mertyeter.jpg?width=10pc)](https://twitter.com/m3rtyeter "@m3rtyeter") [**Mert Yeter** - @m3rtyeter](https://twitter.com/m3rtyeter)
 |[![@DaveRndn](/images/family/daverendon.png?width=10pc)](https://twitter.com/DaveRndn "@DaveRndn") [**Dave Rendon** - @DaveRndn](https://twitter.com/DaveRndn) |[![@AliciaMoniz](/images/family/AliciaMoniz.jpg?width=10pc)](https://twitter.com/aliciamoniz "@aliciamoniz") [**Alicia Moniz** - @aliciamoniz](https://twitter.com/aliciamoniz) | [![@Brian_Christner](/images/family/brian_christner.jpg?width=10pc)](https://twitter.com/idomyowntricks "@idomyowntricks") [**Brian Christner** - @idomyowntricks](https://twitter.com/idomyowntricks) | [![@Michael_Levan](/images/family/michael-levan.jpg?width=10pc)](https://twitter.com/TheNJDevOpsGuy "@TheNJDevOpsGuy") [**Michael_Levan** - @TheNJDevOpsGuy](https://twitter.com/TheNJDevOpsGuy)
-|[![@B. Onur Okutucu](/images/family/onur-okutucu.png?width=10pc)](https://twitter.com/bakionur "@bakionur") [**B. Onur Okutucu** - @bakionur](https://twitter.com/bakionur) | [![@grumpyitbloke](/images/family/peterrising.jpg?width=10pc)](https://twitter.com/grumpyitbloke "@grumpyitbloke") [**Peter Rising** - @grumpyitbloke](https://twitter.com/grumpyitbloke) | [![@DcoustaWilson](/images/family/NishuGoel.jpg?width=10pc)](https://twitter.com/DcoustaWilson "@DcoustaWilson") [**Nishu Goel** - @DcoustaWilson](https://twitter.com/DcoustaWilson) |
-[![@This could be you](/images/family/user-512.png?width=10pc)](https://twitter.com/ "@This could be you") [**This Could Be You!** - @This could be you](https://twitter.com/) | [![@This could be you](/images/family/user-512.png?width=10pc)](https://twitter.com/ "@This could be you") [**This Could Be You!** - @This could be you](https://twitter.com/) | [![@This could be you](/images/family/user-512.png?width=10pc)](https://twitter.com/ "@This could be you") [**This Could Be You!** - @This could be you](https://twitter.com/) 
+|[![@B. Onur Okutucu](/images/family/onur-okutucu.png?width=10pc)](https://twitter.com/bakionur "@bakionur") [**B. Onur Okutucu** - @bakionur](https://twitter.com/bakionur) | [![@grumpyitbloke](/images/family/peterrising.jpg?width=10pc)](https://twitter.com/grumpyitbloke "@grumpyitbloke") [**Peter Rising** - @grumpyitbloke](https://twitter.com/grumpyitbloke) | [![@DcoustaWilson](/images/family/NishuGoel.jpg?width=10pc)](https://twitter.com/DcoustaWilson "@DcoustaWilson") [**Nishu Goel** - @DcoustaWilson](https://twitter.com/DcoustaWilson)
+|[![@rickvdbosch](/images/family/rickvdbosch.jpg?width=10pc)](https://twitter.com/rickvdbosch) [**Rick van den Bosch** - @rickvdbosch](https://twitter.com/rickvdbosch) | [![@ShabazDarr](/images/family/ShabazDarr.jpg?width=10pc)](https://twitter.com/ShabazDarr "@ShabazDarr") [**Shabaz Darr** - @ShabazDarr](https://twitter.com/ShabazDarr) |[![@jonnychipz](/images/family/jonnychipz.jpg?width=10pc)](https://twitter.com/ "@jonnychipz") [**John Lunn** - @jonnychipz](https://twitter.com/jonnychipz)	
+|[![@This could be you](/images/family/user-512.png?width=10pc)](https://twitter.com/ "@This could be you") [**This Could Be You!** - @This could be you](https://twitter.com/) | [![@shankuehn](/images/family/Shannon.jpg?width=10pc)](https://twitter.com/shankuehn "@shankuehn") [**Shannon Kuehn** - @shankuehn](https://twitter.com/shankuehn) | [![@This could be you](/images/family/user-512.png?width=10pc)](https://twitter.com/ "@This could be you") [**This Could Be You!** - @This could be you](https://twitter.com/) 
 
-Join the **[Slack Channel](http://bit.ly/2vrvoRV)**, or get in touch using **#CloudFamily**     and you can join the Cloud Family community **today!**.
+Join the **[Slack Channel](http://bit.ly/2vrvoRV)**, or get in touch using **#CloudFamily** and you can join the Cloud Family community **today!**.
+
+
+Hi Dwayne!

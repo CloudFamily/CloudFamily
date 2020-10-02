@@ -141,7 +141,7 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Simon Waight - blog.siliconvalve.com" "https://blog.siliconvalve.com/" >}}
-![Simon Waight](/images/blogs/siliconvalve.PNG?width=50pc)
+![Simon Waight](/images/blogs/siliconvalve.png?width=50pc)
 
 ---
 
@@ -177,3 +177,41 @@ chapter: true
 ![April Edwards](/images/blogs/azapril.PNG?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Shabaz Darr" "https://iamitgeek.com/" >}}
+![Shabaz Darr](/images/blogs/ShabazDarr.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Billy York" "https://www.cloudsma.com" >}}
+![Billy York](/images/blogs/BillyYork.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Rick van den Bosch .NET" "https://www.rickvandenbosch.net/" >}}
+![Rick van den Bosch](/images/blogs/rickvdbosch.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Roberth Strand" "https://robstr.dev" >}}
+![Roberth Strand](/images/blogs/robstr.png?width=50pc)
+
+---
+#### {{< open-in-blank "John Lunn" "https://jonnychipz.com" >}}
+![John Lunn](/images/blogs/jonnychipz.PNG?width=50pc)
+
+---
+
+#### {{< open-in-blank "Martin Ehrnst" "https://www.adatum.no" >}}
+![Martin Ehrnst](/images/blogs/adatumno.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Imran Rashid" "https://azurecrazy.com/azure-blogs/" >}}
+![Imran Rashid](/images/blogs/AzureCrazy.PNG?width=50pc)
+
+
+---
+#### {{< open-in-blank "Skylines Academy Blog" "https://www.skylinesacademy.com/blog" >}}
+![Skylines Academy](/images/blogs/SkylinesBlog.PNG?width=50pc)
+

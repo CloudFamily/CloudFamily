@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cloudfamily.info/cloud_family/</loc>
+  </url>
+  
+  <url>
     <loc>https://cloudfamily.info/cloud_champions/april2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
@@ -18,12 +22,7 @@
   </url>
   
   <url>
-    <loc>https://cloudfamily.info/cloud_family/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudfamily.info/cloud_champions/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>https://cloudfamily.info/podcasts/</loc>
   </url>
   
   <url>
@@ -98,11 +97,6 @@
   </url>
   
   <url>
-    <loc>https://cloudfamily.info/cont/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cloudfamily.info/cloud_champions/december2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
@@ -141,6 +135,11 @@
   </url>
   
   <url>
+    <loc>https://cloudfamily.info/cloud_champions/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cloudfamily.info/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
@@ -169,6 +168,15 @@
   
   <url>
     <loc>https://cloudfamily.info/cont/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudfamily.info/codeofconduct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cloudfamily.info/cont/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url>
   

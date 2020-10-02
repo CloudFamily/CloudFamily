@@ -6,11 +6,7 @@
     <description>Recent content in Cloud Champions on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
-    
-	<atom:link href="https://cloudfamily.info/cloud_champions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate><atom:link href="https://cloudfamily.info/cloud_champions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community Champion - April 2020</title>
       <link>https://cloudfamily.info/cloud_champions/april2020/</link>
@@ -45,7 +41,7 @@ Lisa is a Business Development Strategist for EMEA focussed on the Azure Stack p
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/july2020/</guid>
-      <description></description>
+      <description>Mert Yeter - @m3rtyeter    About Mert Yeter is a software engineer with 15 years of experience in .NET and Microsoft technologies. He completed his Bachelor of Engineering in 2005 and has a master&amp;rsquo;s degree focused on Linux. He has also 3 years of experience in Cisco Contact Centre products and implementations. Mert is very passionate about technology, both software and hardware.</description>
     </item>
     
     <item>
@@ -54,7 +50,7 @@ Lisa is a Business Development Strategist for EMEA focussed on the Azure Stack p
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/august2020/</guid>
-      <description></description>
+      <description>Hugo Barona - @HmsBarona    About Hugo Barona is one of the community leads of Cloud Lunch and Learn, helping this initiative to enable everyone to learn about the Cloud, while enjoying their lunch or break. The initiative has been going great, connecting people all over the globe to attend sessions, to collaborate and deliver sessions, and helping to buildits ecosystem.</description>
     </item>
     
     <item>
@@ -63,7 +59,9 @@ Lisa is a Business Development Strategist for EMEA focussed on the Azure Stack p
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/september2020/</guid>
-      <description></description>
+      <description>Gwyneth Pena S. - @madebygps    About Gwyneth Pena is a Cloud Consultant, content creator, and Microsoft Azure MVP.
+Before deciding to work for herself, Gwyn was a Cloud Engineer at an Energy startup and was responsible for all the company&amp;rsquo;s Azure Infrastructure.
+She is an advocate for diversity and inclusiveness in the field and creates content not only on skills she&amp;rsquo;s learned, certifications she&amp;rsquo;s studying for, but also shares her story and tips that helped her get into the field.</description>
     </item>
     
     <item>
@@ -72,7 +70,8 @@ Lisa is a Business Development Strategist for EMEA focussed on the Azure Stack p
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
       <guid>https://cloudfamily.info/cloud_champions/october2020/</guid>
-      <description></description>
+      <description>Marc Duiker. - @marcduiker    About Marc Duiker LOVES serverless, developer communities and creative coding! He works for Xpirit as a Lead Azure Consultant and loves working with event-driven architectures, and serverless technology such as Azure Functions, Durable Functions, Cosmos DB, and various messaging products.
+He is an Azure MVP since 2019 and regularly blogs and vlogs about Azure Functions &amp;amp; Durable Functions.</description>
     </item>
     
     <item>

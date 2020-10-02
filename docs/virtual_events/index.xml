@@ -5,11 +5,7 @@
     <link>https://cloudfamily.info/virtual_events/</link>
     <description>Recent content in Virtual Events on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    
-	<atom:link href="https://cloudfamily.info/virtual_events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-US</language><atom:link href="https://cloudfamily.info/virtual_events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archived Virtual Events</title>
       <link>https://cloudfamily.info/virtual_events/archived_virtual_events/</link>
@@ -17,8 +13,7 @@
       
       <guid>https://cloudfamily.info/virtual_events/archived_virtual_events/</guid>
       <description>Virtual Events
- Glasgow Azure User Group #18 - Wednesday 29th April - 6.30pm - 9:00pm  UK Azure User Group - Mastering Azure Monitor - Wednesday 22nd April - 7pm - 8:30pm  Virtual Events
- </description>
+ msHOWTO Live! #06: Azure DevOps For Ops without Dev - Tuesday 12th May - 4.00pm - 5:00pm UTC  msHOWTO Live! #05: IoT and DevOps - Tuesday 5th May - 4.00pm - 5:00pm UTC  Cloud Lunch and Learn Sessions | Becoming a Certified Azure Developer Associate by Dwayne Natwick - Monday 4th May - 12:00 pm - 1:00 pm GMT  msHOWTO Live! #04: Azure IoT - Wednesday 29th April - 4.</description>
     </item>
     
   </channel>
