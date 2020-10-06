@@ -17,3 +17,7 @@ chapter: true
 #### {{< open-in-blank "Episode 2 - Richard and Gregor Talk to SkyLines Academy" "https://anchor.fm/cloudfamily/episodes/Episode-2---The-one-with-Skylines-Academy-ek5guc" >}}
 	
 ---
+
+#### {{< open-in-blank "Episode 3 - Richard and Gregor Talk to Chrissy LeMaire" "https://anchor.fm/cloudfamily/episodes/Episode-3---The-one-with-Chrissy-LeMaire-ekk7uh" >}}
+	
+---
