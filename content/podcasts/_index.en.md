@@ -19,5 +19,9 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Episode 3 - Richard and Gregor Talk to Chrissy LeMaire" "https://anchor.fm/cloudfamily/episodes/Episode-3---The-one-with-Chrissy-LeMaire-ekk7uh" >}}
-	
+    
+---
+
+#### {{< open-in-blank "Episode 4 - Richard and Gregor Talk to Marc Duiker" "https://anchor.fm/cloudfamily/episodes/Episode-4---The-one-with-Marc-Duiker-ekqgj8" >}}
+    
 ---
