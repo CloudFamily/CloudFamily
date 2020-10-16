@@ -14,7 +14,7 @@ To contribute to the project please **fork the repo** and submit a **pull reques
 
 Find out how to create and organize your content quickly and intuitively by using the side menu.
 
-#### How to get started runnign the site locally?
+#### How to get started running the site locally?
 
 If you wish to run the site locally, please follow the steps below:
 1. **[Install Hugo.](https://gohugo.io/getting-started/)** (follow the steps for your OS)
