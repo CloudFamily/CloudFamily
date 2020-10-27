@@ -5,6 +5,11 @@ weight: 39
 chapter: true
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #15: WVD in a Pandemic - Wednesday 28th October - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+![msHOWTO Live!](/images/events/mshowto-live-15.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #14: Setting Yourself up for Success with Azure Certification - Monday 26th October - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-14.png?width=50pc)
 
@@ -23,25 +28,6 @@ chapter: true
 #### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://youtu.be/ZURJ8UfuSyw" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
 
----
-
-#### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
-![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
-
----
-
-#### {{< open-in-blank "msHOWTO Live! #09: Connect Your Servers to the Cloud with Azure Hybrid Management - Monday 25th May - 4.00pm - 5:00pm UTC" "https://youtu.be/X26zUH_gxzE" >}}
-![msHOWTO Live!](/images/events/mshowto-live-09.png?width=50pc)
-
----
-
-#### {{< open-in-blank "msHOWTO Live! #08: Build Web Apps with Angular - Wednesday 20th May - 4.00pm - 5:00pm UTC" "https://youtu.be/QxuNXmGK-lo" >}}
-![msHOWTO Live!](/images/events/mshowto-live-08.png?width=50pc)
-
----
-
-#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://youtu.be/w-9RAMLkO00" >}}
-![msHOWTO Live!](/images/events/mshowto-live-07.png?width=50pc)
 
 ---
 

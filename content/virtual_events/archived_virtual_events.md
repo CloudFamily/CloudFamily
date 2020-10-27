@@ -9,6 +9,25 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
+![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #09: Connect Your Servers to the Cloud with Azure Hybrid Management - Monday 25th May - 4.00pm - 5:00pm UTC" "https://youtu.be/X26zUH_gxzE" >}}
+![msHOWTO Live!](/images/events/mshowto-live-09.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #08: Build Web Apps with Angular - Wednesday 20th May - 4.00pm - 5:00pm UTC" "https://youtu.be/QxuNXmGK-lo" >}}
+![msHOWTO Live!](/images/events/mshowto-live-08.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #07: Raspbian for .Net Core - Tuesday 19th May - 4.00pm - 5:00pm UTC" "https://youtu.be/w-9RAMLkO00" >}}
+![msHOWTO Live!](/images/events/mshowto-live-07.png?width=50pc)
+
+
 #### {{< open-in-blank "msHOWTO Live! #06: Azure DevOps For Ops without Dev - Tuesday 12th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gbbJdoBfbPs" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-06.png?width=50pc)
 
