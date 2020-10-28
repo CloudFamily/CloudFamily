@@ -5,11 +5,6 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #15: WVD in a Pandemic - Wednesday 28th October - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
-![msHOWTO Live!](/images/events/mshowto-live-15.png?width=50pc)
-
----
-
 #### {{< open-in-blank "msHOWTO Live! #14: Setting Yourself up for Success with Azure Certification - Monday 26th October - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-14.png?width=50pc)
 
