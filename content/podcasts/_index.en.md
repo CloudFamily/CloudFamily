@@ -26,4 +26,10 @@ chapter: true
     
 ---
 
+#### {{< open-in-blank "Episode 5 - Richard and Gregor Talk to Chris Gill" "https://anchor.fm/cloudfamily/episodes/Episode-5---The-one-with-Chris-Gill-el7qet/a-a3j7c6r" >}}
+    
+---
 
+#### {{< open-in-blank "Episode 6 - Richard and Gregor Talk to Welsey Haakman" "https://anchor.fm/cloudfamily/episodes/Episode-6---The-one-with-Wesley-Haakman-elj9vb/a-a3lf6fm" >}}
+    
+---
