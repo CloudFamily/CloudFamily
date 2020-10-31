@@ -34,5 +34,5 @@ The following is a list of **useful resources** we have come across, which will 
   - **Azure Load balancing - {{< open-in-blank "https://docs.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview" "https://docs.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview" >}}**
   - **Azure Compute - {{< open-in-blank "https://docs.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree" "https://docs.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree" >}}**
   - **Data Options in Azure - {{< open-in-blank "https://docs.microsoft.com/azure/cloud-adoption-framework/ready/considerations/data-options" "https://docs.microsoft.com/azure/cloud-adoption-framework/ready/considerations/data-options" >}}**
-+ **Ocotcat High Res Images - {{< open-in-blank "https://octodex.github.com/" "https://octodex.github.com/" >}}**
++ **Octocat High Res Images - {{< open-in-blank "https://octodex.github.com/" "https://octodex.github.com/" >}}**
 + **Microsoft Cloud Advocates - {{< open-in-blank "https://developer.microsoft.com/advocates/?WT.mc_id=modinfra-0000-salean" "https://developer.microsoft.com/advocates/?WT.mc_id=modinfra-0000-salean" >}}**
