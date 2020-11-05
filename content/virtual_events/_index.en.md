@@ -5,7 +5,12 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #15: Azure Identity Management - Wed 4th November - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+#### {{< open-in-blank "msHOWTO Live! #16: Programming for Accessibility - Tuesday 10th November - 6.00pm - 7:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+![msHOWTO Live!](/images/events/mshowto-live-16.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #15: Azure Identity Management - Wednesday 4th November - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-15.png?width=50pc)
 
 ---
