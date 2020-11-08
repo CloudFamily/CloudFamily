@@ -14,7 +14,7 @@ chapter: true
 
 
 ---
-#### {{< open-in-blank "Episode 2 - Richard and Gregor Talk to SkyLines Academy" "https://anchor.fm/cloudfamily/episodes/Episode-2---The-one-with-Skylines-Academy-ek5guc" >}}
+#### {{< open-in-blank "Episode 2 - Richard and Gregor Talk to Skylines Academy" "https://anchor.fm/cloudfamily/episodes/Episode-2---The-one-with-Skylines-Academy-ek5guc" >}}
 	
 ---
 
@@ -31,5 +31,9 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Episode 6 - Richard and Gregor Talk to Welsey Haakman" "https://anchor.fm/cloudfamily/episodes/Episode-6---The-one-with-Wesley-Haakman-elj9vb/a-a3lf6fm" >}}
+    
+---
+
+#### {{< open-in-blank "Episode 7 - Richard and Gregor Talk to Michael Ryan" "https://anchor.fm/cloudfamily/episodes/Episode7---The-one-with-Michael-Ryan-eltgmm" >}}
     
 ---
