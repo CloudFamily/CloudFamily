@@ -220,3 +220,6 @@ chapter: true
 #### {{< open-in-blank "Antti K. Koskela - breaking and (sometimes) fixing everything Azure or Microsoft 365" "https://www.koskila.net" >}}
 ![Antti K. Koskela](/images/blogs/koskilanet.png?width=50pc)
 
+---
+#### {{< open-in-blank "Ross McLachlan - rossinthecloud.com" "https://rossinthecloud.com" >}}
+![rossinthecloud.com](/images/blogs/RossInTheCloud.png?width=50pc)
