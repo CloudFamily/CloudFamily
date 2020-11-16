@@ -266,7 +266,7 @@ List all the tags In the config.toml file you can add a shortcut to display all 
       
       <guid>https://cloudfamily.info/cont/shortcodes/attachments/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.
-AttachmentsBachGavotteShort.mp3(357 ko)Carroll_AliceAuPaysDesMerveilles.pdf(175 ko)adivorciarsetoca00cape.pdf(361 ko)hugo.png(17 ko)movieselectricsheep-flock-244-32500-2.mp4(340 ko)Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
+AttachmentsBachGavotteShort.mp3(357 kb)Carroll_AliceAuPaysDesMerveilles.pdf(175 kb)adivorciarsetoca00cape.pdf(361 kb)hugo.png(17 kb)movieselectricsheep-flock-244-32500-2.mp4(340 kb)Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
   If your page is a markdown file, attachements must be place in a folder named like your page and ending with .</description>
     </item>
     
