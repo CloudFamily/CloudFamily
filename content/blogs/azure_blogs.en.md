@@ -221,5 +221,12 @@ chapter: true
 ![Antti K. Koskela](/images/blogs/koskilanet.png?width=50pc)
 
 ---
+
 #### {{< open-in-blank "Ross McLachlan - rossinthecloud.com" "https://rossinthecloud.com" >}}
 ![rossinthecloud.com](/images/blogs/RossInTheCloud.png?width=50pc)
+---
+
+#### {{< open-in-blank "Karl Cooke - Irish Techie - Thoughts on Azure and the Modern Workplace" "https://irishtechie.com/" >}}
+![Irish Techie](/images/blogs/irishtechie.png?width=50pc)
+
+--
