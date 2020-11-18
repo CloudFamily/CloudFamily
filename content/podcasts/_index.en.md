@@ -37,3 +37,11 @@ chapter: true
 #### {{< open-in-blank "Episode 7 - Richard and Gregor Talk to Michael Ryan" "https://anchor.fm/cloudfamily/episodes/Episode7---The-one-with-Michael-Ryan-eltgmm" >}}
     
 ---
+
+#### {{< open-in-blank "Episode 8 - Richard and Gregor Talk to Shabaz Darr" "https://anchor.fm/cloudfamily/episodes/Episode-8---The-one-with-Shabaz-Darr-em7p9p/a-a3ps22g" >}}
+    
+---
+
+#### {{< open-in-blank "Episode 9 - Richard and Gregor Talk to Will Rowe" "https://anchor.fm/cloudfamily/episodes/Episode-9---The-one-with-Will-Rowe-emi8sg" >}}
+    
+---
