@@ -30,7 +30,6 @@ The following is a list of **useful resources** we have come across, which will 
   - **Azure Stack Hub / Edge - {{< open-in-blank "https://azurestack.blog/azurestackslack/" "https://azurestack.blog/azurestackslack/" >}}**
 + **Github**
   - **Learn Github Actions - {{< open-in-blank "https://lab.github.com/" "https://lab.github.com/" >}}**
-  - **Github Marketplace Actions - {{< open-in-blank "https://github.com/marketplace?type=actions/" https://github.com/marketplace?type=actions" >}}**
   - **Hello World Github Action - {{< open-in-blank "https://github.com/gsuttie/hello-github-actions" "https://github.com/gsuttie/hello-github-actions" >}}**
   - **Trigger Azure Pipeline Github Action - {{< open-in-blank "https://github.com/gsuttie/triggerazurepipeline" "https://github.com/gsuttie/triggerazurepipeline" >}}**
   - **Github Actions Documentation - {{< open-in-blank "https://docs.github.com/en/free-pro-team@latest/actions" "https://docs.github.com/en/free-pro-team@latest/actions" >}}**
