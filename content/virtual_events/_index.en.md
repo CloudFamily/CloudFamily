@@ -5,17 +5,22 @@ weight: 39
 chapter: true
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #20: Managing your Application Delivery from Azure using A/B Testing - Thursday 3rd December - 6.00pm - 7:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+![msHOWTO Live!](/images/events/mshowto-live-20.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #19: Security in DevOps - Tuesday 1st December - 7.00pm - 8:00pm UTC" "https://www.twitch.tv/mshowto" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-19.png?width=50pc)
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #18: Azure Cost Management - Thursday 26th November - 6.00pm - 7:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+#### {{< open-in-blank "msHOWTO Live! #18: Azure Cost Management - Thursday 26th November - 6.00pm - 7:00pm UTC" "https://youtu.be/cmyxzeRmBkI" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-18.png?width=50pc)
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #17: 'Me' Experience in Microsoft Teams using SPFx and Microsoft Graph Toolkit - Thursday 19th November - 6.00am - 7:00am UTC" "https://www.twitch.tv/mshowto" >}}
+#### {{< open-in-blank "msHOWTO Live! #17: 'Me' Experience in Microsoft Teams using SPFx and Microsoft Graph Toolkit - Thursday 19th November - 6.00am - 7:00am UTC" "https://youtu.be/LFg7VPsctsU" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-17.png?width=50pc)
 
 ---
