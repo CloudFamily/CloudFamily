@@ -9,6 +9,22 @@ chapter: true
 
 ---
 
+
+#### {{< open-in-blank "msHOWTO Live! #13: Traefik Proxy 101 - Tuesday 29th September - 4.00pm - 5:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+![msHOWTO Live!](/images/events/mshowto-live-13.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #12: How to Succeed with the Power of Community - Tuesday 15th September - 3.00pm - 4:00pm UTC" "https://youtu.be/AEsK8FOpbnQ" >}}
+![msHOWTO Live!](/images/events/mshowto-live-12.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://youtu.be/ZURJ8UfuSyw" >}}
+![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #10: GitHub, Azure DevOps, so much confusion… or maybe not? - Tuesday 26th May - 4.00pm - 5:00pm UTC" "https://youtu.be/gqa7Qarshlo" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-10.png?width=50pc)
 

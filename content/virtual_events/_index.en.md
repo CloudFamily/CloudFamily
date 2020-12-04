@@ -5,6 +5,11 @@ weight: 39
 chapter: true
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #21: .NET for Apache Spark - Monday 7th December - 5.00pm - 6:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+![msHOWTO Live!](/images/events/mshowto-live-21.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #20: Managing your Application Delivery from Azure using A/B Testing - Thursday 3rd December - 6.00pm - 7:00pm UTC" "https://www.twitch.tv/mshowto" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-20.png?width=50pc)
 
@@ -40,21 +45,6 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #13: Traefik Proxy 101 - Tuesday 29th September - 4.00pm - 5:00pm UTC" "https://www.twitch.tv/mshowto" >}}
-![msHOWTO Live!](/images/events/mshowto-live-13.png?width=50pc)
-
----
-
-#### {{< open-in-blank "msHOWTO Live! #12: How to Succeed with the Power of Community - Tuesday 15th September - 3.00pm - 4:00pm UTC" "https://youtu.be/AEsK8FOpbnQ" >}}
-![msHOWTO Live!](/images/events/mshowto-live-12.png?width=50pc)
-
----
-
-#### {{< open-in-blank "msHOWTO Live! #11: Datacentre Migrations and Azure Migrate - Tuesday 21st July - 5.00pm - 6:00pm UTC" "https://youtu.be/ZURJ8UfuSyw" >}}
-![msHOWTO Live!](/images/events/mshowto-live-11.png?width=50pc)
-
-
----
 
 [Archived Virtual Events](/virtual_events/archived_virtual_events)
 
