@@ -58,3 +58,8 @@ A YouTube Channel from Dwayne Natwick aka Captain Hyper-scaler focuses on Infras
 Captain Hyper-scaler - YouTube
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
+---
+
+**{{< open-in-blank "Cloud with Chris" "https://www.youtube.com/CloudWithChris" >}}**
+
+Exploring Cloud concepts with **Chris Reddington** (Welsh Tech Geek, Cloud Advocate, Musical Theatre Enthusiast and Improving Improviser!). We will regularly invite guests to talk about their experiences with the cloud and hear about some of the lessons learned around their cloud journey.
