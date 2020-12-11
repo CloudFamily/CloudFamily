@@ -5,7 +5,7 @@ weight: 39
 chapter: true
 ---
 
-[Virtual Events](/content/virtual_events/)
+[Virtual Events](/virtual_events/)
 
 ---
 
