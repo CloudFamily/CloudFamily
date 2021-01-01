@@ -1,6 +1,6 @@
 ---
 title: Cloud Champions
-weight: 23
+weight: 2
 chapter: true
 ---
 
@@ -20,4 +20,5 @@ If you would like to be considered for next month, please get in touch.
 + [September 2020](/cloud_champions/september2020/)
 + [October 2020](/cloud_champions/october2020/)
 + [November 2020](/cloud_champions/november2020/)
-+ [December 2020](/cloud_champions/december2020/)
+---
++ [January 2021](/cloud_champions/january2021/)

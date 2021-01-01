@@ -117,15 +117,6 @@ A YouTube Channel from MVP Mark Scholman focussed on learning Azure Stack.</desc
     </item>
     
     <item>
-      <title>Community Champion - December 2020</title>
-      <link>https://cloudfamily.info/cloud_champions/december2020/</link>
-      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      
-      <guid>https://cloudfamily.info/cloud_champions/december2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Archetypes</title>
       <link>https://cloudfamily.info/cont/archetypes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -135,6 +126,17 @@ A YouTube Channel from MVP Mark Scholman focussed on learning Azure Stack.</desc
 It is pre-configured skeleton pages with default front matter. Please refer to the documentation for types of page to understand the differences.
 Chapter To create a Chapter page, run the following commands
 hugo new --kind chapter &amp;lt;name&amp;gt;/_index.</description>
+    </item>
+    
+    <item>
+      <title>Community Champion - January 2021</title>
+      <link>https://cloudfamily.info/cloud_champions/january2021/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://cloudfamily.info/cloud_champions/january2021/</guid>
+      <description>Deepthi Goguri - @dbanuggets    About Deepthi Goguri is hard working, passionate SQL Server enthusiast, well-organized team player and is a proud mother of two children.
+Deepthi moved to united states from India to pursue her master&amp;rsquo;s in computer technology from Eastern Illinois University.
+Deepthi is currently working as SQL Database Administrator in Administrative Office of the Courts, Kentucky.</description>
     </item>
     
     <item>
