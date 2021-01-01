@@ -45,3 +45,15 @@ chapter: true
 #### {{< open-in-blank "Episode 9 - Richard and Gregor Talk to Will Rowe" "https://anchor.fm/cloudfamily/episodes/Episode-9---The-one-with-Will-Rowe-emi8sg" >}}
     
 ---
+
+#### {{< open-in-blank "Episode 10 - Richard and Gregor Talk to Dwayne Natwick" "https://anchor.fm/cloudfamily/episodes/Episode-11---The-one-With-Matt-Bradley-en5f33" >}}
+    
+---
+
+#### {{< open-in-blank "Episode 11 - Richard and Gregor Talk to Matt Bradley" "https://anchor.fm/cloudfamily/episodes/Episode-11---The-one-With-Matt-Bradley-en5f33" >}}
+    
+---
+
+#### {{< open-in-blank "Episode 12 - Richard and Gregor Talk to Mike Pfeiffer" "https://anchor.fm/cloudfamily/episodes/Episode-12---The-one-with-Mike-Pfeiffer-enpkk7" >}}
+    
+---
