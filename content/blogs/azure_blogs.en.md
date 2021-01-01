@@ -230,8 +230,3 @@ chapter: true
 ![Irish Techie](/images/blogs/irishtechie.png?width=50pc)
 
 --
-
-#### {{< open-in-blank "name of your blog post goes here" "https://myblog.com/" >}}
-![your name here](/images/blogs/screenshot.png?width=50pc)
-
---
