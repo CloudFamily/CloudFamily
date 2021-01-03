@@ -5,7 +5,7 @@ weight: 39
 chapter: true
 ---
 
-#### {{< open-in-blank "msHOWTO Live! #22: AzOps Deploy and Manage your Azure Enterprise Scale Landing Zones - Monday 14th December - 6.00pm - 7:00pm UTC" "https://www.twitch.tv/mshowto" >}}
+#### {{< open-in-blank "msHOWTO Live! #22: AzOps Deploy and Manage your Azure Enterprise Scale Landing Zones - Monday 14th December - 6.00pm - 7:00pm UTC" "https://youtu.be/UQmNX0Ct-DA" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-22.png?width=50pc)
 
 ---
