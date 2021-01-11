@@ -11,6 +11,18 @@ title: "Cloud Family"
 
 #### Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, we are here to help grow the **Azure Community**.
 
+---
+### AKS Zero to Hero Series - coming soon!
+
+####  Episode 1 - Overview of the project.
+####  Episode 2 - What is Kubernetes?
+####  Episode 3 - What is AKS?
+####  Episode 4 - What tools are we going use?
+####  Episode 5 - Deploy a cluster via the Azure Portal.
+####  Episode 6 - Recap and then AKS Live AMA.
+
+#### **More content in this series coming soon!**
+---
 
 ### Our Goal
 
