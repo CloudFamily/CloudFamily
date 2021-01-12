@@ -229,4 +229,9 @@ chapter: true
 #### {{< open-in-blank "Karl Cooke - Irish Techie - Thoughts on Azure and the Modern Workplace" "https://irishtechie.com/" >}}
 ![Irish Techie](/images/blogs/irishtechie.png?width=50pc)
 
+---
+
+#### {{< open-in-blank "Karel De Winter - Azure Blog - Clouds in my datacenter" "https://kareldewinter.com/" >}}
+![Irish Techie](/images/blogs/kareldewinter.png?width=50pc)
+
 --
