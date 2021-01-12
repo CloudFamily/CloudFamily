@@ -232,6 +232,6 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Karel De Winter - Azure Blog - Clouds in my datacenter" "https://kareldewinter.com/" >}}
-![Irish Techie](/images/blogs/kareldewinter.png?width=50pc)
+![Karel De Winter](/images/blogs/kareldewinter.png?width=50pc)
 
 --
