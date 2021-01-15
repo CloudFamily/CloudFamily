@@ -15,6 +15,8 @@ title: "Cloud Family"
 ### AKS Zero to Hero Series - coming soon!
 
 ####  Episode 1 - Overview of the project.
+
+**{{< open-in-blank "Overview of the project" "https://youtu.be/JqlwEmIUZH0" >}}.  Here we introduce what we are going to be covering.**
 ####  Episode 2 - What is Kubernetes?
 ####  Episode 3 - What is AKS?
 ####  Episode 4 - What tools are we going use?
