@@ -6,7 +6,7 @@
     <description>Recent content in Cloud Champions on Cloud Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate><atom:link href="https://cloudfamily.info/cloud_champions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 16:50:16 +0200</lastBuildDate><atom:link href="https://cloudfamily.info/cloud_champions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community Champion - April 2020</title>
       <link>https://cloudfamily.info/cloud_champions/april2020/</link>
@@ -81,6 +81,16 @@ He is an Azure MVP since 2019 and regularly blogs and vlogs about Azure Function
       
       <guid>https://cloudfamily.info/cloud_champions/november2020/</guid>
       <description>Shabaz Darr - @ShabazDarr    About Born in the Bradford in the North of the UK and been there ever since! I have recently joined Netcompany as a Senior Infrastructure Consultant based in there Leeds Office. I have two children, Zoya (10) and Mikaeel (6) and a better half in my wife, Reema (she will kill me if I tell you her age ha ha ha).</description>
+    </item>
+    
+    <item>
+      <title>Community Champion - February 2021</title>
+      <link>https://cloudfamily.info/cloud_champions/february2021/</link>
+      <pubDate>Sat, 16 Jan 2021 16:50:16 +0200</pubDate>
+      
+      <guid>https://cloudfamily.info/cloud_champions/february2021/</guid>
+      <description>John Lunn - @jonnychipz    About I live in South Wales UK and is employed by BT Enterprise as A Technical Architect where I have worked for the last 8 years. I help design and Architect BT customers Cloud Adoption and transformation projects covering predominantly Microsoft Azure and Microsoft 365.
+I am also a Cloud Academy Cloud Advocate for BT internally as well, which allows me to help generate interest and evangelise Cloud concepts to help colleagues upskills and adopt Cloud concepts.</description>
     </item>
     
     <item>
