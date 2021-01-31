@@ -18,6 +18,10 @@ chapter: true
 ![Thomas Thornton](/images/blogs/thomasthornton.PNG?width=50pc)
 
 ---
+#### {{< open-in-blank "Sven Malvik - Azure Blog" "https://svenmalvik.con" >}}
+![Thomas Thornton](/images/blogs/svenmalvik.PNG?width=50pc)
+
+---
 
 #### {{< open-in-blank "Joe Carlyle - WedoAzure" "https://wedoazure.ie/" >}}
 ![Joe Carlyle](/images/blogs/wedoazure.PNG?width=50pc)
