@@ -12,7 +12,7 @@ weight: 11
 
 
 ### About
-I live in South Wales UK and is employed by BT Enterprise as A Technical Architect where I have worked for the last 8 years. 
+I live in South Wales UK and am employed by BT Enterprise as A Technical Architect where I have worked for the last 8 years. 
 I help design and Architect BT customers Cloud Adoption and transformation projects covering predominantly Microsoft Azure and Microsoft 365.
 
 I am also a Cloud Academy Cloud Advocate for BT internally as well, which allows me to help generate interest and evangelise Cloud concepts to help colleagues upskills and adopt Cloud concepts.
