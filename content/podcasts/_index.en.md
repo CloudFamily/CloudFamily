@@ -136,3 +136,11 @@ In this episode we talk to Mike about his career at both Amazon and Microsoft, c
 
 + {{< open-in-blank "https://twitter.com/mike_pfeiffer" "https://twitter.com/mike_pfeiffer" >}} 
 ---
+
+
+#### {{< open-in-blank "Episode 13 - Richard and Gregor Talk to Heini Ilmarinen" "https://anchor.fm/cloudfamily/episodes/Episode-14---The-one-with-Heini-Ilmarinen-epfua2" >}}
+    
+In this week's podcast we talk to Heini Ilmarinen, Heini studied to be a Maths teacher, changed her career to become an Azure Architect and is now working as an Azure DevOps consultant. She talks about her talks that she gives and how she transformed her career and more.
+
++ {{< open-in-blank "https://twitter.com/HeiniIlmarinen" "https://twitter.com/HeiniIlmarinen" >}} 
+---
