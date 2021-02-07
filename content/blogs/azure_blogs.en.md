@@ -238,4 +238,7 @@ chapter: true
 #### {{< open-in-blank "Karel De Winter - Azure Blog - Clouds in my datacenter" "https://kareldewinter.com/" >}}
 ![Karel De Winter](/images/blogs/kareldewinter.png?width=50pc)
 
---
+---
+
+#### {{< open-in-blank "Sander Rozemuller - all about Azure, WVD, Automation, Monitoring and DevOps" "https://rozemuller.com" >}}
+![Sander Rozemuller](/images/blogs/sanderrozemuller.png?width=50pc)
