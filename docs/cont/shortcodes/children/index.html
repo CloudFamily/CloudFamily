@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="Hugo 0.76.4" />
+    <meta name="generator" content="Hugo 0.75.0" />
     <meta name="description" content="List the child pages of a page">
 <meta name="author" content="Pixel Robots">
 
@@ -12,21 +12,21 @@
     <title>Children :: Cloud Family</title>
 
     
-    <link href="/css/nucleus.css?1612778536" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1612778536" rel="stylesheet">
-    <link href="/css/hybrid.css?1612778536" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1612778536" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1612778536" rel="stylesheet">
-    <link href="/css/auto-complete.css?1612778536" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1612778536" rel="stylesheet">
-    <link href="/css/theme.css?1612778536" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1612778536" rel="stylesheet">
+    <link href="/css/nucleus.css?1613122785" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1613122785" rel="stylesheet">
+    <link href="/css/hybrid.css?1613122785" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1613122785" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1613122785" rel="stylesheet">
+    <link href="/css/auto-complete.css?1613122785" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1613122785" rel="stylesheet">
+    <link href="/css/theme.css?1613122785" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1613122785" rel="stylesheet">
     
-    <link href="/css/theme-mine.css?1612778536" rel="stylesheet">
+    <link href="/css/theme-mine.css?1613122785" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1612778536"></script>
+    <script src="/js/jquery-3.3.1.min.js?1613122785"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -59,14 +59,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1612778536"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1612778536"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1613122785"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1613122785"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/cloudfamily.info";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1612778536"></script>
+<script type="text/javascript" src="/js/search.js?1613122785"></script>
 
     
   </div>
@@ -2309,14 +2309,206 @@
 					
 
 <h4>
-<a href="/cont/shortcodes/children/children-2/test3/" >page test 3</a>
+<a href="/cont/pages/" >Pages organization</a>
 </h4>
 
 				
 
 				
 					
-<p>This is a page test</p>
+<p>In Hugo, pages are the core of your site. Once it is configured, pages are definitely the added value to your documentation site.
+Folders Organize your site like any other Hugo project. Typically, you will have a content folder with all your pages.
+content├── level-one│ ├── level-two│ │ ├── level-three│ │ │ ├── level-four│ │ │ │ ├── _index.md &lt;-- /level-one/level-two/level-three/level-four│ │ │ │ ├── page-4-a.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/archetypes/" >Archetypes</a>
+</h4>
+
+				
+
+				
+					
+<p>Using the command: hugo new [relative new content path], you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more : archetypes.
+It is pre-configured skeleton pages with default front matter. Please refer to the documentation for types of page to understand the differences.
+Chapter To create a Chapter page, run the following commands
+hugo new --kind chapter &lt;name&gt;/_index.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/markdown/" >Markdown syntax</a>
+</h4>
+
+				
+
+				
+					
+<p>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&hellip;)
+Let&rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/shortcodes/" >Shortcodes</a>
+</h4>
+
+				
+
+				
+					
+<p>Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn&rsquo;t support well. You could use pure HTML to expand possibilities.
+But this happens to be a bad idea. Everyone uses Markdown because it&rsquo;s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.
+To avoid this limitations, Hugo created shortcodes. A shortcode is a simple snippet inside a page.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/menushortcuts/" >Menu extra shortcuts</a>
+</h4>
+
+				
+
+				
+					
+<p>You can define additional menu entries or shortcuts in the navigation menu without any link to content.
+Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.
+Example from the current website:
+[[menu.shortcuts]] name = &quot;&lt;i class='fab fa-github'&gt;&lt;/i&gt; Github repo&quot;identifier = &quot;ds&quot;url = &quot;https://github.com/matcornic/hugo-theme-learn&quot;weight = 10[[menu.shortcuts]]name = &quot;&lt;i class='fas fa-camera'&gt;&lt;/i&gt; Showcases&quot;url = &quot;/showcase&quot;weight = 11[[menu.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/icons/" >Icons and logos</a>
+</h4>
+
+				
+
+				
+					
+<p>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
+Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
+Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/i18n/" >Multilingual and i18n</a>
+</h4>
+
+				
+
+				
+					
+<p>Learn theme is fully compatible with Hugo multilingual mode.
+It provides:
+ Translation strings for default values (English and French). Feel free to contribute ! Automatic menu generation from multilingual content In-browser language switching  Basic configuration After learning how Hugo handle multilingual websites, define your languages in your config.toml file.
+For example with current French and English website.
+# English is the default language defaultContentLanguage = &#34;en&#34; # Force to have /en/my-page and /fr/my-page routes, even for default language.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/sitemap/" >Sitemap</a>
+</h4>
+
+				
+
+				
+					
+<p>We should be careful about the references we include in the sitemap xml file, to avoid a high volume of pages included in the sitemap and consequently being indexed to Search Engines such as Google, Bing and more. Especially because we should mind about keeping the most relevant content in the top of the search engine index.
+Configuration Hugo by default indexes all pages to the sitemap.
+The proposal is just to include a parameter to the pages we want to exclude from sitemap.</p>
+					
+				
+			
+			
+		
+	
+		
+			
+				
+					
+					
+
+<h4>
+<a href="/cont/tags/" >Tags</a>
+</h4>
+
+				
+
+				
+					
+<p>Learn theme support one default taxonomy of gohugo: the tag feature.
+Configuration Just add tags to any page:
+--- date: 2018-11-29T08:41:44+01:00 title: Theme tutorial weight: 15 tags: [&#34;tutorial&#34;, &#34;theme&#34;] --- Behavior The tags are displayed at the top of the page, in their insertion order.
+Each tag is a link to a Taxonomy page displaying all the articles with the given tag.
+List all the tags In the config.toml file you can add a shortcut to display all the tags</p>
 					
 				
 			
@@ -3812,19 +4004,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1612778536"></script>
-    <script src="/js/perfect-scrollbar.min.js?1612778536"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1612778536"></script>
-    <script src="/js/jquery.sticky.js?1612778536"></script>
-    <script src="/js/featherlight.min.js?1612778536"></script>
-    <script src="/js/highlight.pack.js?1612778536"></script>
+    <script src="/js/clipboard.min.js?1613122785"></script>
+    <script src="/js/perfect-scrollbar.min.js?1613122785"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1613122785"></script>
+    <script src="/js/jquery.sticky.js?1613122785"></script>
+    <script src="/js/featherlight.min.js?1613122785"></script>
+    <script src="/js/highlight.pack.js?1613122785"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1612778536"></script>
-    <script src="/js/learn.js?1612778536"></script>
-    <script src="/js/hugo-learn.js?1612778536"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1613122785"></script>
+    <script src="/js/learn.js?1613122785"></script>
+    <script src="/js/hugo-learn.js?1613122785"></script>
     
         
-            <script src="/mermaid/mermaid.js?1612778536"></script>
+            <script src="/mermaid/mermaid.js?1613122785"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });
