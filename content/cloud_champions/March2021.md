@@ -38,9 +38,6 @@ If you have any questions or feedback, I am happy to connect. (https://devops.an
 |:-------------------------:|
 |![Anais Urlichs](/images/champions/anais2.png) **Anais Urlichs**
 
-I recently completed the **100 Days of Cloud challenge** and have documented my journey on my Github and Blog!
-I am fortunate enough to have visited some great places over the years following the Microsoft events, from Barcelona to Atlanta and Florida, Team BT over at Ignite Orland 2019:
-
 ### Contact Info 
 
 
