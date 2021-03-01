@@ -1,8 +1,8 @@
 ---
 date: 2021-01-16T16:50:16+02:00
 title: Community Champion - February 2021
-menuTitle: January 2021
-weight: 11
+menuTitle: February 2021
+weight: 12
 ---
 
 
