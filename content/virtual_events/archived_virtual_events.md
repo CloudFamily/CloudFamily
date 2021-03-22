@@ -9,6 +9,11 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "msHOWTO Live! #23: The Role of Requirements & Cloud Design Patterns in a Successful Cloud Deployment - Thursday 21st January - 6.00pm - 7:00pm UTC" "https://youtu.be/aLBmQlLd73I" >}}
+![msHOWTO Live!](/images/events/mshowto-live-23.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "msHOWTO Live! #22: AzOps Deploy and Manage your Azure Enterprise Scale Landing Zones - Monday 14th December - 6.00pm - 7:00pm UTC" "https://youtu.be/UQmNX0Ct-DA" >}}
 ![msHOWTO Live!](/images/events/mshowto-live-22.png?width=50pc)
 
