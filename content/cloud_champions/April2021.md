@@ -19,7 +19,7 @@ So, a little about me... My name is Karl Cooke and I live in **Antrim, Northern 
 
 I have been in the IT industry for about 10 years now, previous to that I worked as a Partnership Manager for a finance company. In 2011 I started my own business (part-time) repairing computers for people in the local area. I've been full time for the last 7 years having worked my way up through the helpdesk to the project-based work I do now.
 
-I really love Azure and enjoy learning as much as I can about it every day. I'm currently chasing the Azure Solutions Architect Expert cert. To date, I have earned the following certifications:
+I really love Azure and enjoy learning as much as I can about it every day. I'm currently chasing the Azure Solutions Architect Expert cert. 
 
 
 
