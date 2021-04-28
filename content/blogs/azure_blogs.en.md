@@ -242,3 +242,8 @@ chapter: true
 
 #### {{< open-in-blank "Sander Rozemuller - all about Azure, WVD, Automation, Monitoring and DevOps" "https://rozemuller.com" >}}
 ![Sander Rozemuller](/images/blogs/sanderrozemuller.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Cloud and DevOps with James Cook" "https://jamescook.dev" >}}
+![James Cook](/images/blogs/clouddevopsjamescook.png?width=50pc)
