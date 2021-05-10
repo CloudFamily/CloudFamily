@@ -18,7 +18,7 @@ chapter: true
 ![Thomas Thornton](/images/blogs/thomasthornton.PNG?width=50pc)
 
 ---
-#### {{< open-in-blank "Sven Malvik - Azure Blog" "https://svenmalvik.con" >}}
+#### {{< open-in-blank "Sven Malvik - Azure Blog" "https://svenmalvik.com" >}}
 ![Thomas Thornton](/images/blogs/svenmalvik.PNG?width=50pc)
 
 ---
@@ -62,7 +62,7 @@ chapter: true
 ![Pete Gallagher](/images/blogs/petegallagher.PNG?width=50pc)
 
 ---
-#### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://theazureguy.blog/" >}}
+#### {{< open-in-blank "The Azure Guy - Martyn Coupland" "https://blog.m12d.com/" >}}
 ![The Azure Guy](/images/blogs/theazureguy.png?width=50pc)
 
 ---
@@ -197,7 +197,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "Roberth Strand" "https://robstr.dev" >}}
+#### {{< open-in-blank "Roberth Strand" "https://www.robstr.dev" >}}
 ![Roberth Strand](/images/blogs/robstr.png?width=50pc)
 
 ---
