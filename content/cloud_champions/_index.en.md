@@ -26,3 +26,4 @@ If you would like to be considered for next month, please get in touch.
 + [March 2021](/cloud_champions/march2021/)
 + [April 2021](/cloud_champions/april2021/)
 + [May 2021](/cloud_champions/may2021/)
++ [June 2021](/cloud_champions/june2021/)
