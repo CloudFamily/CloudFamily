@@ -247,3 +247,8 @@ chapter: true
 
 #### {{< open-in-blank "Cloud and DevOps with James Cook" "https://jamescook.dev" >}}
 ![James Cook](/images/blogs/clouddevopsjamescook.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Passionate about Technology" "https://chrislayers.com" >}}
+![Chris Ayers](/images/blogs/chrislayers.png?width=50pc)
