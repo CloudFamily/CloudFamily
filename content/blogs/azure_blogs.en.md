@@ -252,3 +252,8 @@ chapter: true
 
 #### {{< open-in-blank "Passionate about Technology" "https://chrislayers.com" >}}
 ![Chris Ayers](/images/blogs/chrislayers.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "John Kilmister - Software Architects Thoughts on Azure C# and Serverless" "https://www.blueboxes.co.uk/" >}}
+![Chris Ayers](/images/blogs/johnkilmister.png?width=50pc)
