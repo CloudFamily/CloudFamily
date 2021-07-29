@@ -256,4 +256,4 @@ chapter: true
 ---
 
 #### {{< open-in-blank "John Kilmister - Software Architects Thoughts on Azure C# and Serverless" "https://www.blueboxes.co.uk/" >}}
-![Chris Ayers](/images/blogs/johnkilmister.png?width=50pc)
+![John Kilmister](/images/blogs/johnkilmister.png?width=50pc)
