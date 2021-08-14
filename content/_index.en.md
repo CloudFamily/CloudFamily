@@ -16,23 +16,15 @@ title: "Cloud Family"
 ---
 ### Festive Tech Calendar 2021
 
+{{% notice info %}}
 
+Read about the upcoming **[Festive Tech Calendar](/festivetechcalendar/)**
+
+{{% /notice %}}
 ---
-### AKS Zero to Hero Series - coming soon!
-
-####  Episode 1 - Overview of the project.
-
-**{{< open-in-blank "Overview of the project" "https://youtu.be/JqlwEmIUZH0" >}}.  Here we introduce what we are going to be covering.**
-####  Episode 2 - What is Kubernetes?
-####  Episode 3 - What is AKS?
-####  Episode 4 - What tools are we going use?
-####  Episode 5 - Deploy a cluster via the Azure Portal.
-####  Episode 6 - Recap and then AKS Live AMA.
-
-#### **More content in this series coming soon!**
----
-
 ### Our Goal
+
+
 
 {{% notice info %}}
 **Our goal is to help grow the Azure community and everyone is welcome :)**
