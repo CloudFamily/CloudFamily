@@ -49,7 +49,7 @@ James is working on creating content for his YouTube channel. He is releasing we
 |:-------------------------:|
 |![James Cook](/images/champions/JamesCook5.png) 
 
-Finally, James recently took up golf and sets aside time away from the computer to switch off and charge.
+Finally, James recently took up golf and sets aside time away from the computer to switch off and recharge.
 
 ---
 
