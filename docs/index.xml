@@ -75,16 +75,6 @@ He is an Azure MVP since 2019 and regularly blogs and vlogs about Azure Function
     </item>
     
     <item>
-      <title>Community Champion - October 2020</title>
-      <link>https://cloudfamily.info/cloud_champions/october2021/</link>
-      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      
-      <guid>https://cloudfamily.info/cloud_champions/october2021/</guid>
-      <description>Maria-Anastasia Moustaka. - @mariamou_7    About Maria-Anastasia Moustaka is passionate about IoT and robotics computer engineer.
-She has born in Rhodes island, in Greece, and she always loves technology. She is studying Computer Engineering and Informatics, at the University of Patras. Maria-Anastasia is a software developer in InfoQuest Technologies, in Team Candi. She also gives presentations about IoT, Azure, and robotics, and she has a blog about the same topics, too.</description>
-    </item>
-    
-    <item>
       <title>Community Champion - November 2020</title>
       <link>https://cloudfamily.info/cloud_champions/november2020/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
@@ -294,6 +284,16 @@ Over the past 10+ years, James has worked in many roles within the tech industry
 Deploy resources by using manual methods
  deploy database offerings on selected platforms - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas configure customized deployment templates - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database apply patches and updates for hybrid and IaaS deployment - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching  Recommend an appropriate database offering based on specific requirements
  evaluate requirements for the deployment evaluate the functional benefits/impact of possible database offerings evaluate the scalability of the possible database offering evaluate the HA/DR of the possible database offering evaluate the security aspects of the possible database offering  Configure resources for scale and performance</description>
+    </item>
+    
+    <item>
+      <title>Community Champion - October 2021</title>
+      <link>https://cloudfamily.info/cloud_champions/october2021/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://cloudfamily.info/cloud_champions/october2021/</guid>
+      <description>Maria-Anastasia Moustaka. - @mariamou_7    About Maria-Anastasia Moustaka is passionate about IoT and robotics computer engineer.
+She has born in Rhodes island, in Greece, and she always loves technology. She is studying Computer Engineering and Informatics, at the University of Patras. Maria-Anastasia is a software developer in InfoQuest Technologies, in Team Candi. She also gives presentations about IoT, Azure, and robotics, and she has a blog about the same topics, too.</description>
     </item>
     
     <item>
