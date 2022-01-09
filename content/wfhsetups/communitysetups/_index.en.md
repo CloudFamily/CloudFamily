@@ -12,3 +12,4 @@ Here you will find a collection of the community setups that we believe you will
 
 
 + [Charlie Gough](/wfhsetups/communitysetups/charlie_gough)
++ [Simon Lee](/wfhsetups/communitysetups/simon_lee)
