@@ -230,7 +230,7 @@ chapter: true
 ![rossinthecloud.com](/images/blogs/RossInTheCloud.png?width=50pc)
 ---
 
-#### {{< open-in-blank "Karl Cooke - Irish Techie - Thoughts on Azure and the Modern Workplace" "https://irishtechie.cloud/" >}}
+#### {{< open-in-blank "Karl Cooke - Irish Techie - Thoughts on Azure and the Modern Workplace" "https://irishtechie.com/" >}}
 ![Irish Techie](/images/blogs/irishtechie.png?width=50pc)
 
 ---
@@ -257,3 +257,8 @@ chapter: true
 
 #### {{< open-in-blank "John Kilmister - Software Architects Thoughts on Azure C# and Serverless" "https://www.blueboxes.co.uk/" >}}
 ![John Kilmister](/images/blogs/johnkilmister.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Shifting to the Cloud" "https://www.shiftingtothecloud.co.uk/" >}}
+![Charlie Gough](/images/blogs/charliegough.png?width=50pc)
