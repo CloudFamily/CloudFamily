@@ -10,7 +10,6 @@ chapter: true
 ![desk setup](/images/wfh/desksetup2021.jpg)
 ![Simon Lee](/images/wfh/simon.jpg)
 
-static/images/wfh/desksetup2021.jpg
 
 ## Computer Hardware Spec
 - Tower : NZXT H2 - Mid Tower Case
