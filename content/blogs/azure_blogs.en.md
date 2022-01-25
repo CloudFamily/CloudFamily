@@ -230,7 +230,7 @@ chapter: true
 ![rossinthecloud.com](/images/blogs/RossInTheCloud.png?width=50pc)
 ---
 
-#### {{< open-in-blank "Karl Cooke - Irish Techie - Thoughts on Azure and the Modern Workplace" "https://irishtechie.com/" >}}
+#### {{< open-in-blank "Karl Cooke - Irish Techie - Thoughts on Azure and the Modern Workplace" "https://irishtechie.cloud/" >}}
 ![Irish Techie](/images/blogs/irishtechie.png?width=50pc)
 
 ---
