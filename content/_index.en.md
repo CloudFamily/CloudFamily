@@ -9,7 +9,7 @@ title: "Cloud Family"
 <a href="https://twitter.com/intent/tweet?button_hashtag=CloudFamily&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-show-count="false">Tweet #CloudFamily</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{< /rawhtml >}}
 
-#### Gregor Test Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, we are here to help grow the **Azure Community**.
+#### Gregor Test 2022 Welcome to a new initiative called the **Cloud Family** and we are made up of a number of community members around the globe, we are here to help grow the **Azure Community**.
 
 
 
