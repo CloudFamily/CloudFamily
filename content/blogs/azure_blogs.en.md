@@ -262,3 +262,8 @@ chapter: true
 
 #### {{< open-in-blank "Shifting to the Cloud" "https://www.shiftingtothecloud.co.uk/" >}}
 ![Charlie Gough](/images/blogs/charliegough.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Funky Si's Blog" "https://www.funkysi1701.com" >}}
+![Simon Foster](/images/blogs/funkysi1701.png?width=50pc)
