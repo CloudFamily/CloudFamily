@@ -1,361 +1,199 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cloudfamily.info/wfhsetups/communitysetups/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_family/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/april2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/may2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/festivetechcalendar/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/june2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/podcasts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/july2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/wfhsetups/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/august2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/september2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/study_guides/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/blogs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/projects/podcasts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/twitter/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cloudfamily.info/twitter/useful_links/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/youtube/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/october2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/november2020/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/blogs/azure_blogs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/projects/podcasts/azure_podcasts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/youtube/azure_youtube/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/wfhsetups/communitysetups/charlie_gough/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/wfhsetups/communitysetups/simon_lee/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/january2021/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/archetypes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/february2021/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/march2021/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/april2021/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/may2021/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/june2021/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/july2021/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/august2021/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/study_guides/azure/az-104/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/study_guides/azure/az-303/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/study_guides/azure/az-304/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/september2021/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/study_guides/azure/dp-300/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/october2021/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cloud_champions/november2021/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/icons/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/virtual_events/archived_virtual_events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/virtual_events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/sitemap/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/codeofconduct/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/</loc>
     <lastmod>2021-01-16T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/tags/documentation/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/tags/tutorial/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/attachments/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/button/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/credits/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/expand/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/showcase/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/mermaid/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/notice/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/openinnewtab/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-3/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-4/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/test/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/children/children-2/test3/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/rawhtml/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cloudfamily.info/cont/shortcodes/siteparam/</loc>
   </url>
-  
 </urlset>
