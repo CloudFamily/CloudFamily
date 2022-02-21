@@ -262,3 +262,9 @@ chapter: true
 
 #### {{< open-in-blank "Shifting to the Cloud" "https://www.shiftingtothecloud.co.uk/" >}}
 ![Charlie Gough](/images/blogs/charliegough.png?width=50pc)
+---
+
+#### {{< open-in-blank "Luke Murray - Technical Consultant, Azure Solutions Architect Expert, Technologist and a drinker of coffee." "https://luke.geek.nz/" >}}
+![Luke Murray](/images/blogs/lukemurray.png?width=50pc)
+
+---
