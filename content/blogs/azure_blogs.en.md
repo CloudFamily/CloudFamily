@@ -262,6 +262,11 @@ chapter: true
 
 #### {{< open-in-blank "Shifting to the Cloud" "https://www.shiftingtothecloud.co.uk/" >}}
 ![Charlie Gough](/images/blogs/charliegough.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Leo Visser - AutoSysOps - Automate the boring work" "https://www.autosysops.com/" >}}
+![Leo Visser](/images/blogs/AutoSysOps.png?width=50pc)
 ---
 
 #### {{< open-in-blank "Luke Murray - Technical Consultant, Azure Solutions Architect Expert, Technologist and a drinker of coffee." "https://luke.geek.nz/" >}}
