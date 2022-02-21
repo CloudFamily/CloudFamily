@@ -265,6 +265,11 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "Funky Si's Blog" "https://www.funkysi1701.com" >}}
+![Simon Foster](/images/blogs/funkysi1701.png?width=50pc)
+
+---
+
 #### {{< open-in-blank "Leo Visser - AutoSysOps - Automate the boring work" "https://www.autosysops.com/" >}}
 ![Leo Visser](/images/blogs/AutoSysOps.png?width=50pc)
 ---
