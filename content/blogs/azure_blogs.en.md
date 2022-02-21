@@ -267,3 +267,14 @@ chapter: true
 
 #### {{< open-in-blank "Funky Si's Blog" "https://www.funkysi1701.com" >}}
 ![Simon Foster](/images/blogs/funkysi1701.png?width=50pc)
+
+---
+
+#### {{< open-in-blank "Leo Visser - AutoSysOps - Automate the boring work" "https://www.autosysops.com/" >}}
+![Leo Visser](/images/blogs/AutoSysOps.png?width=50pc)
+---
+
+#### {{< open-in-blank "Luke Murray - Technical Consultant, Azure Solutions Architect Expert, Technologist and a drinker of coffee." "https://luke.geek.nz/" >}}
+![Luke Murray](/images/blogs/lukemurray.png?width=50pc)
+
+---
