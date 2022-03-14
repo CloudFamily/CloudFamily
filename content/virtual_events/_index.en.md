@@ -5,6 +5,16 @@ weight: 39
 chapter: true
 ---
 
+#### {{< open-in-blank "Mert to the Future #14 - Azure Landing Zones with Abdul Kazi - Thursday 10th March - 6.00pm - 7:00pm GMT" "https://youtu.be/_cvzRRxJ0_k" >}}
+![Azureish Live!](/images/events/mert-to-the-future-14.jpg?width=50pc)
+
+---
+
+#### {{< open-in-blank "Mert to the Future #13 - How to Prepare for Microsoft Certifications with Keith Atherton - Thursday 3rd March - 7.00pm - 8:00pm GMT" "https://youtu.be/BGdJYpoWWpE" >}}
+![Azureish Live!](/images/events/mert-to-the-future-13.jpg?width=50pc)
+
+---
+
 #### {{< open-in-blank "Mert to the Future #12: Grow your Biceps while flexing Azure ARM! with Elkhan Yusubov - Thursday 17th Feb - 6.00pm - 7:00pm GMT" "https://twitch.tv/azureishlive" >}}
 ![Azureish Live!](/images/events/mert-to-the-future-12.jpg?width=50pc)
 
@@ -37,16 +47,6 @@ chapter: true
 
 #### {{< open-in-blank "Mert to the Future #06: Serverless in Azure with Vaibhav Gujral- Thursday 1st July - 5.00pm - 6:00pm BST" "https://youtu.be/E3z-HQAhsOc" >}}
 ![Azureish Live!](/images/events/mert-to-the-future-06.jpg?width=50pc)
-
----
-
-#### {{< open-in-blank "Mert to the Future #05: What it takes to be an MVP? with Deepak Rajendran - Thursday 24th June - 5.00pm - 6:00pm BST" "https://youtu.be/kjEwOk1GyUM" >}}
-![Azureish Live!](/images/events/mert-to-the-future-05.jpg?width=50pc)
-
----
-
-#### {{< open-in-blank "Mert to the Future #04: Azure Durable Functions with Jonah Andersson - Thursday 17th June - 7.00pm - 8:00pm BST" "https://youtu.be/w13KS3b2ZDs" >}}
-![msHOWTO Live!](/images/events/mert-to-the-future-04.jpg?width=50pc)
 
 ---
 

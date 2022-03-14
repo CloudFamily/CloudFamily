@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="Hugo 0.75.0" />
+    <meta name="generator" content="Hugo 0.94.0" />
     <meta name="description" content="Cloud Family">
 <meta name="author" content="Pixel Robots">
 
@@ -12,21 +12,21 @@
     <title>Pages organization :: Cloud Family</title>
 
     
-    <link href="/css/nucleus.css?1646144325" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1646144325" rel="stylesheet">
-    <link href="/css/hybrid.css?1646144325" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1646144325" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1646144325" rel="stylesheet">
-    <link href="/css/auto-complete.css?1646144325" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1646144325" rel="stylesheet">
-    <link href="/css/theme.css?1646144325" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1646144325" rel="stylesheet">
+    <link href="/css/nucleus.css?1647260143" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1647260143" rel="stylesheet">
+    <link href="/css/hybrid.css?1647260143" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1647260143" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1647260143" rel="stylesheet">
+    <link href="/css/auto-complete.css?1647260143" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1647260143" rel="stylesheet">
+    <link href="/css/theme.css?1647260143" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1647260143" rel="stylesheet">
     
-    <link href="/css/theme-mine.css?1646144325" rel="stylesheet">
+    <link href="/css/theme-mine.css?1647260143" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1646144325"></script>
+    <script src="/js/jquery-3.3.1.min.js?1647260143"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -59,14 +59,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1646144325"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1646144325"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1647260143"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1647260143"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/cloudfamily.info";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1646144325"></script>
+<script type="text/javascript" src="/js/search.js?1647260143"></script>
 
     
   </div>
@@ -2075,76 +2075,76 @@
 <p>A <strong>Chapter</strong> displays a page meant to be used as introduction for a set of child pages. Commonly, it contains a simple title and a catch line to define content that can be found under it.
 You can define any HTML as prefix for the menu. In the example below, it&rsquo;s just a number but that could be an <a href="https://fortawesome.github.io/Font-Awesome/">icon</a>.</p>
 <p><img src="/en/cont/pages/images/pages-chapter.png?width=50pc" alt="Chapter page"></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">+++
-title = &#34;Basics&#34;
-chapter = true
-weight = 5
-pre = &#34;&lt;<span style="color:#f92672">b</span>&gt;1. &lt;/<span style="color:#f92672">b</span>&gt;&#34;
-+++
-
-<span style="color:#75715e">### Chapter 1
-</span><span style="color:#75715e"></span>
-# Basics
-
-Discover what this Hugo theme is all about and the core-concepts behind it.
-</code></pre></div><p>To tell <strong>Hugo-theme-learn</strong> to consider a page as a chapter, set <code>chapter=true</code> in the Front Matter of the page.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>+++
+</span></span><span style="display:flex;"><span>title = &#34;Basics&#34;
+</span></span><span style="display:flex;"><span>chapter = true
+</span></span><span style="display:flex;"><span>weight = 5
+</span></span><span style="display:flex;"><span>pre = &#34;&lt;<span style="color:#f92672">b</span>&gt;1. &lt;/<span style="color:#f92672">b</span>&gt;&#34;
+</span></span><span style="display:flex;"><span>+++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Chapter 1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span># Basics
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Discover what this Hugo theme is all about and the core-concepts behind it.
+</span></span></code></pre></div><p>To tell <strong>Hugo-theme-learn</strong> to consider a page as a chapter, set <code>chapter=true</code> in the Front Matter of the page.</p>
 <p>A <strong>Default</strong> page is any other content page.</p>
 <p><img src="/en/cont/pages/images/pages-default.png?width=50pc" alt="Default page"></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#960050;background-color:#1e0010">+++</span>
-<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Installation&#34;</span>
-<span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">15</span>
-<span style="color:#960050;background-color:#1e0010">+++</span>
-</code></pre></div><p>The following steps are here to help you initialize your new website. If you don&rsquo;t know Hugo at all, we strongly suggest you to train by following this <a href="https://gohugo.io/overview/quickstart/">great documentation for beginners</a>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Installation&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">15</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span></code></pre></div><p>The following steps are here to help you initialize your new website. If you don&rsquo;t know Hugo at all, we strongly suggest you to train by following this <a href="https://gohugo.io/overview/quickstart/">great documentation for beginners</a>.</p>
 <h2 id="create-your-project">Create your project</h2>
 <p>Hugo provides a <code>new</code> command to create a new website.</p>
-<pre><code>hugo new site &lt;new_project&gt;
+<pre tabindex="0"><code>hugo new site &lt;new_project&gt;
 </code></pre><p><strong>Hugo-theme-learn</strong> provides <a href="/cont/archetypes/">archetypes</a> to help you create this kind of pages.</p>
 <h2 id="front-matter-configuration">Front Matter configuration</h2>
 <p>Each Hugo page has to define a <a href="https://gohugo.io/content/front-matter/">Front Matter</a> in <em>yaml</em>, <em>toml</em> or <em>json</em>.</p>
 <p><strong>Hugo-theme-learn</strong> uses the following parameters on top of Hugo ones :</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#960050;background-color:#1e0010">+++</span>
-<span style="color:#75715e"># Table of content (toc) is enabled by default. Set this parameter to true to disable it.</span>
-<span style="color:#75715e"># Note: Toc is always disabled for chapter pages</span>
-<span style="color:#a6e22e">disableToc</span> = <span style="color:#e6db74">&#34;false&#34;</span>
-<span style="color:#75715e"># If set, this will be used for the page&#39;s menu entry (instead of the `title` attribute)</span>
-<span style="color:#a6e22e">menuTitle</span> = <span style="color:#e6db74">&#34;&#34;</span>
-<span style="color:#75715e"># The title of the page in menu will be prefixed by this HTML content</span>
-<span style="color:#a6e22e">pre</span> = <span style="color:#e6db74">&#34;&#34;</span>
-<span style="color:#75715e"># The title of the page in menu will be postfixed by this HTML content</span>
-<span style="color:#a6e22e">post</span> = <span style="color:#e6db74">&#34;&#34;</span>
-<span style="color:#75715e"># Set the page as a chapter, changing the way it&#39;s displayed</span>
-<span style="color:#a6e22e">chapter</span> = <span style="color:#66d9ef">false</span>
-<span style="color:#75715e"># Hide a menu entry by setting this to true</span>
-<span style="color:#a6e22e">hidden</span> = <span style="color:#66d9ef">false</span>
-<span style="color:#75715e"># Display name of this page modifier. If set, it will be displayed in the footer.</span>
-<span style="color:#a6e22e">LastModifierDisplayName</span> = <span style="color:#e6db74">&#34;&#34;</span>
-<span style="color:#75715e"># Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer</span>
-<span style="color:#a6e22e">LastModifierEmail</span> = <span style="color:#e6db74">&#34;&#34;</span>
-<span style="color:#960050;background-color:#1e0010">+++</span>
-</code></pre></div><h3 id="add-icon-to-a-menu-entry">Add icon to a menu entry</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Table of content (toc) is enabled by default. Set this parameter to true to disable it.</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Note: Toc is always disabled for chapter pages</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">disableToc</span> = <span style="color:#e6db74">&#34;false&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># If set, this will be used for the page&#39;s menu entry (instead of the `title` attribute)</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">menuTitle</span> = <span style="color:#e6db74">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># The title of the page in menu will be prefixed by this HTML content</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">pre</span> = <span style="color:#e6db74">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># The title of the page in menu will be postfixed by this HTML content</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">post</span> = <span style="color:#e6db74">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Set the page as a chapter, changing the way it&#39;s displayed</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">chapter</span> = <span style="color:#66d9ef">false</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Hide a menu entry by setting this to true</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">hidden</span> = <span style="color:#66d9ef">false</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Display name of this page modifier. If set, it will be displayed in the footer.</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">LastModifierDisplayName</span> = <span style="color:#e6db74">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">LastModifierEmail</span> = <span style="color:#e6db74">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span></code></pre></div><h3 id="add-icon-to-a-menu-entry">Add icon to a menu entry</h3>
 <p>In the page frontmatter, add a <code>pre</code> param to insert any HTML code before the menu label. The example below uses the Github icon.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#960050;background-color:#1e0010">+++</span>
-<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Github repo&#34;</span>
-<span style="color:#a6e22e">pre</span> = <span style="color:#e6db74">&#34;&lt;i class=&#39;fab fa-github&#39;&gt;&lt;/i&gt; &#34;</span>
-<span style="color:#960050;background-color:#1e0010">+++</span>
-</code></pre></div><p><img src="/en/cont/pages/images/frontmatter-icon.png" alt="Title with icon"></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Github repo&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">pre</span> = <span style="color:#e6db74">&#34;&lt;i class=&#39;fab fa-github&#39;&gt;&lt;/i&gt; &#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span></code></pre></div><p><img src="/en/cont/pages/images/frontmatter-icon.png" alt="Title with icon"></p>
 <h3 id="ordering-sibling-menupage-entries">Ordering sibling menu/page entries</h3>
 <p>Hugo provides a <a href="https://gohugo.io/content/ordering/">flexible way</a> to handle order for your pages.</p>
 <p>The simplest way is to set <code>weight</code> parameter to a number.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#960050;background-color:#1e0010">+++</span>
-<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;My page&#34;</span>
-<span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">5</span>
-<span style="color:#960050;background-color:#1e0010">+++</span>
-</code></pre></div><h3 id="using-a-custom-title-for-menu-entries">Using a custom title for menu entries</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;My page&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">5</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span></code></pre></div><h3 id="using-a-custom-title-for-menu-entries">Using a custom title for menu entries</h3>
 <p>By default, <strong>Hugo-theme-learn</strong> will use a page&rsquo;s <code>title</code> attribute for the menu item (or <code>linkTitle</code> if defined).</p>
 <p>But a page&rsquo;s title has to be descriptive on its own while the menu is a hierarchy.
 We&rsquo;ve added the <code>menuTitle</code> parameter for that purpose:</p>
 <p>For example (for a page named <code>content/install/linux.md</code>):</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#960050;background-color:#1e0010">+++</span>
-<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Install on Linux&#34;</span>
-<span style="color:#a6e22e">menuTitle</span> = <span style="color:#e6db74">&#34;Linux&#34;</span>
-<span style="color:#960050;background-color:#1e0010">+++</span>
-</code></pre></div><h2 id="homepage">Homepage</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Install on Linux&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">menuTitle</span> = <span style="color:#e6db74">&#34;Linux&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">+++</span>
+</span></span></code></pre></div><h2 id="homepage">Homepage</h2>
 <p>To configure your home page, you basically have three choices:</p>
 <ol>
 <li>Create an <code>_index.md</code> document in <code>content</code> folder and fill the file with <em>Markdown content</em></li>
@@ -3384,19 +3384,19 @@ We&rsquo;ve added the <code>menuTitle</code> parameter for that purpose:</p>
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1646144326"></script>
-    <script src="/js/perfect-scrollbar.min.js?1646144326"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1646144326"></script>
-    <script src="/js/jquery.sticky.js?1646144326"></script>
-    <script src="/js/featherlight.min.js?1646144326"></script>
-    <script src="/js/highlight.pack.js?1646144326"></script>
+    <script src="/js/clipboard.min.js?1647260143"></script>
+    <script src="/js/perfect-scrollbar.min.js?1647260143"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1647260143"></script>
+    <script src="/js/jquery.sticky.js?1647260143"></script>
+    <script src="/js/featherlight.min.js?1647260143"></script>
+    <script src="/js/highlight.pack.js?1647260143"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1646144326"></script>
-    <script src="/js/learn.js?1646144326"></script>
-    <script src="/js/hugo-learn.js?1646144326"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1647260143"></script>
+    <script src="/js/learn.js?1647260143"></script>
+    <script src="/js/hugo-learn.js?1647260143"></script>
     
         
-            <script src="/mermaid/mermaid.js?1646144326"></script>
+            <script src="/mermaid/mermaid.js?1647260143"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });

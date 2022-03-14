@@ -9,6 +9,16 @@ chapter: true
 
 ---
 
+#### {{< open-in-blank "Mert to the Future #05: What it takes to be an MVP? with Deepak Rajendran - Thursday 24th June - 5.00pm - 6:00pm BST" "https://youtu.be/kjEwOk1GyUM" >}}
+![Azureish Live!](/images/events/mert-to-the-future-05.jpg?width=50pc)
+
+---
+
+#### {{< open-in-blank "Mert to the Future #04: Azure Durable Functions with Jonah Andersson - Thursday 17th June - 7.00pm - 8:00pm BST" "https://youtu.be/w13KS3b2ZDs" >}}
+![msHOWTO Live!](/images/events/mert-to-the-future-04.jpg?width=50pc)
+
+---
+
 #### {{< open-in-blank "Mert to the Future #03: Bradford Cloud User Group Behind the Scenes with Shabaz Darr, Imrah Rashid, Mohammed Sajit  - Thursday 20th May - 7.00pm - 8:00pm BST" "https://twitch.tv/azureishlive" >}}
 ![Azureish Live!](/images/events/mert-to-the-future-03.jpg?width=50pc)
 
