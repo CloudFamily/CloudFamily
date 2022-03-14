@@ -15,7 +15,7 @@ chapter: true
 
 ---
 
-#### {{< open-in-blank "Mert to the Future #12: Grow your Biceps while flexing Azure ARM! with Elkhan Yusubov - Thursday 17th Feb - 6.00pm - 7:00pm GMT" "https://twitch.tv/azureishlive" >}}
+#### {{< open-in-blank "Mert to the Future #12: Grow your Biceps while flexing Azure ARM! with Elkhan Yusubov - Thursday 17th Feb - 6.00pm - 7:00pm GMT" "https://youtu.be/WoFZtD4BKyQ" >}}
 ![Azureish Live!](/images/events/mert-to-the-future-12.jpg?width=50pc)
 
 ---
