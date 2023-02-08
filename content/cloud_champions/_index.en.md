@@ -1,6 +1,6 @@
 ---
 title: Cloud Champions
-weight: 2
+weight: 8
 chapter: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Twitter
-weight: 7
+weight: 3
 chapter: true
 ---
 ![Twitter Logo](/images/twitter-logo.png?width=10pc)
