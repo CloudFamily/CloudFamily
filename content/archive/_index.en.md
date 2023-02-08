@@ -1,6 +1,6 @@
 ---
 title: Archives
-weight: 10
+weight: 70
 chapter: true
 ---
 

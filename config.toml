@@ -34,20 +34,9 @@ url = "https://github.com/CloudFamily"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera' style='width:19px; text-align:center'></i> Learning "
-url = "showcase"
-weight = 12
-
-
-[[Languages.en.menu.shortcuts]]
 name = "<i class='far fa-window-maximize' style='width:19px; text-align:center'></i> Blogs"
 url = "blogs"
 weight = 11
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='far fa-window-maximize' style='width:19px; text-align:center'></i> Projects"
-url = "projects"
-weight = 28
 
 # [[Languages.en.menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-bullhorn' style='width:19px; text-align:center'></i> Credits"
