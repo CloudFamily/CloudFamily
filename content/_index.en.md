@@ -16,7 +16,7 @@ title: "Cloud Family"
 We 
 
 - Organize [Festive Tech Calendar](/festivetechcalendar)
-- Promote other community initiatives
+- Promote other community initiatives at [/initiatives](/initiatives)
 - Support people starting their journey
 
 ## How to contribute
