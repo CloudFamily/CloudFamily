@@ -1,6 +1,6 @@
 ---
 title: Festive Tech Calendar
-weight: 3
+weight: 2
 chapter: true
 ---
 
