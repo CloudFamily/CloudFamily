@@ -4,6 +4,15 @@ weight: 2
 chapter: true
 ---
 
+# Supported initiatives
+
+This site lists community initiatives promoted by CloudFamily
+
+Want to add **your Azure initiative**?
+
+- [Fork the repo](https://github.com/CloudFamily/CloudFamily/fork) & create a PR
+- or ask [Tomasz Hamerla](https://twitter.com/TomaszHamerla) / [Gregor Suttie](https://twitter.com/gregor_suttie) /  [Richard Hooper](https://twitter.com/Pixel_Robots) to be added
+
 ## Seasonal
 
 - [Azure Spring Clean](https://www.azurespringclean.com/): an initiative to bring Azure more content in spring. Article/Video/AMA/mixed. Managed by [Joe Carlyle](https://twitter.com/wedoazure) and [Thomas Thornton](https://twitter.com/tamstar1234)
