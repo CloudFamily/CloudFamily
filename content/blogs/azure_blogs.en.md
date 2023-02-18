@@ -278,3 +278,8 @@ chapter: true
 ![Luke Murray](/images/blogs/lukemurray.png?width=50pc)
 
 ---
+
+#### {{< open-in-blank "Camilo Terevinto - Solutions Architect." "https://www.camiloterevinto.com/" >}}
+![Camilo Terevinto](/images/blogs/camiloterevinto.png?width=50pc)
+
+---
