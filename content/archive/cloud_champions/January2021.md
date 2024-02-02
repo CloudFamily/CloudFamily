@@ -12,13 +12,11 @@ weight: 10
 
 
 ### About
-**Deepthi Goguri** is hard working, passionate SQL Server enthusiast, well-organized team player and is a **proud mother of two children**. 
+**Deepthi Goguri** is hard working, passionate SQL Server enthusiast, well-organized team player. 
 
-Deepthi moved to united states from India to pursue her master's in computer technology from Eastern Illinois University. 
+Deepthi moved to united states from India to pursue her master's in computer technology. 
 
-Deepthi is currently working as **SQL Database Administrator in Administrative Office of the Courts, Kentucky**. 
-
-Deepthi loves gardening, interior decoration, arts/crafts and read moral stories to kids as much as possible in her free time. 
+Deepthi loves gardening, interior decoration, arts/crafts. 
 
 Deepthi works very hard at every opportunity she gets and tries to serve the community as best as she can. 
 
@@ -38,7 +36,6 @@ Deepthi is going to speak for Women in **Technology Summit 2021** and **Scottish
 Deepthi aspires to continue to learn, share and pursue her passion to serve the SQL community across the world.
 | |
 |:-------------------------:|
-|![Deepthi Goguri](/images/champions/Deepthi2.jpg) **Deepthi Goguri**
 
 ---
 
