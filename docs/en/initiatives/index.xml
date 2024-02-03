@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Initiatives on Cloud Family</title>
+    <link>https://cloudfamily.info/en/initiatives/</link>
+    <description>Recent content in Initiatives on Cloud Family</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://cloudfamily.info/en/initiatives/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
