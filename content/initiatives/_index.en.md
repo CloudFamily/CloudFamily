@@ -19,11 +19,7 @@ Want to add **your Azure initiative**?
 
 ## Bots
 
-- [Azure Pirate](https://twitter.com/azure_pirate): a bot created by [Daniel McLoughlin](https://twitter.com/CloudDevDan) help to distribute Azure content
-
-## Projects
-
-- [Azure Projects](https://clouddevdan.co.uk/azure-projects): an initiative managed by [Daniel McLoughlin](https://twitter.com/CloudDevDan) to facilitate a "learn by doing" approach 
+- [The Cloud Pirate](https://the.cloudpirate.net/creating-the-cloud-pirate): an AI-powered bot created by [Daniel McLoughlin](https://twitter.com/CloudDevDan) and [Tomasz Hamerla](https://twitter.com/TomaszHamerla/) helping to distribute cloud content
 
 ## Streams
 

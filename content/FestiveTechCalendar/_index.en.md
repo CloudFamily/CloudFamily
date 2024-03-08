@@ -10,19 +10,16 @@ The Festive Tech Calendar is a **FREE** month long **FUN** tech event where we l
 and engaging session which is a bit different to your normal conference - we really would like to express that its **fun**. If your in the tech industry 
 and have something fun you'd like to share then submit a session and take part in this years fun event.
 
-Festive Tech Calendar 2023 is to-be-prepared!
 
-While waiting:
+checkout the event - **{{< open-in-blank "https://festivetechcalendar.com/" "https://festivetechcalendar.com/" >}}**
 
-checkout 2022 event - **{{< open-in-blank "https://festivetechcalendar.com/" "https://festivetechcalendar.com/" >}}**
-
-checkout 2022 videos on our - **{{< open-in-blank "YouTube playlist" "https://www.youtube.com/watch?v=isipCegzF2M&list=PLaGfA5qEcV9Lfv2y7pWjQ272yeE1W0_XM" >}}**
+Checkout the YouTube channel - **{{< open-in-blank "YouTube" "https://www.youtube.com/@FestiveTechCalendar" >}}**
 
 ---
 
 | |
 |:-------------------------:|
-|![Festive Tech Calendar 2023](/images/Picture2.jpg) Its just around the corner! - **#FestiveTechCalendar2023**.
+|![Festive Tech Calendar](/images/Picture2.jpg) Its just around the corner! - **#FestiveTechCalendar**.
 
 
 ### **When is it?**
