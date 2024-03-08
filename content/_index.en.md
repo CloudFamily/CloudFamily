@@ -17,6 +17,7 @@ We
 
 - Organize [Festive Tech Calendar](/festivetechcalendar)
 - Promote other community initiatives at [/initiatives](/initiatives)
+- Help people network by creating participant lists for the events at [Twitter](https://twitter.com/_CloudFamily/lists)
 - Support people starting their journey
 
 ## How to contribute
