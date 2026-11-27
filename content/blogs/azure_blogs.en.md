@@ -278,3 +278,8 @@ chapter: true
 ![Luke Murray](/images/blogs/lukemurray.png?width=50pc)
 
 ---
+
+#### {{< open-in-blank "AzureBlog - Entra ID, Intune and Azure, explained for the people who run them" "https://azureblog.co.uk/" >}}
+![AzureBlog](/images/blogs/azureblog.PNG?width=50pc)
+
+---
